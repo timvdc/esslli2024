@@ -182,62 +182,59 @@ week1 = [
     "groups": [
       [
         {
-          "lecturer": "Merel Semeijn and Louis Rouillé",
-          "title": "Let’s talk about Frodo: An Introduction to the Semantics of Fiction",
+          "lecturer": "Jun Chen and Swantje Toennis",
+          "title": "Theoretical and empirical approaches to cleft constructions",
           "group": "Introductory",
-          "description": "Providing a semantic theory that applies to both serious and fictional uses of language is challenging. Fiction is about pretence, or make-believe: when we produce or interpret a fictional text, we typically read fictional statements as if they were true by imagining a fictional world. A good semantics of fiction should model how this pretence component operates both at the sentential level (what is \"truth in the fiction\" as opposed to truth simpliciter?) and at the level of reference (what is the semantic contribution of a fictional name as opposed to a real name?). This course will take students into the very active and growing area of research today concerned with providing a good semantics of fiction. This field contains many open problems. It is essentially interdisciplinary (at the intersection of philosophy of language, formal linguistics, logic and literary studies) and it questions the foundations of our best semantic theories.",
+          "description": "This course aims to cross-linguistically investigate cleft constructions from theory-driven and empirical perspectives. An English cleft construction is a sentence of the form It is ... who ..., as exemplified in (1). (1) It was Sally who danced. We will first introduce hypotheses for capturing the meanings of clefts, their use conditions and their functions in discourse. In addition, we will discuss formal analyses that attempt to derive the cleft’s exhaustive inference (e.g., nobody other than Sally danced in (1)), and analyses demonstrating interactions between clefts and Questions Under Discussion (Roberts, 2012). Up-to-date psycholinguistic studies and corpus research which cross-linguistically test these theoretical claims (e.g., in Chinese, German, etc.) will also be introduced alongside. We will examine various experimental designs, and investigate empirical results, which seem to clash with theoretical predictions. The goal of this course is not only to convey state-of-the-art knowledge on cleft constructions to the students, but also to inspire and explore new theoretical and empirical ideas together with the students.",
           "id": "1-13"
         },
         {
-          "lecturer": "Keny Chatain and Benjamin Spector",
-          "title": "Current topics in the semantics and pragmatics of plural expressions",
+          "lecturer": "Nazarre Merchant and Alan Prince",
+          "title": "Analyzing OT Typologies: Order, Equivalence and the Mother of all Tableaux",
           "group": "Advanced",
-          "description": "What is the meaning of plural expressions in natural languages: \"the students\", \"some apples\", etc? While the answer to such questions seems pretty straightforward at first sight, appearances are deceptive. It turns out that providing a unified and empirically adequate theory of the meaning of plural expressions  in various syntactic environments is surprisingly difficult.\nThe goal of this class is to introduce students to one major approach to plural semantics, based on the the idea that plural expressions denote or quantify over so-called \"plural individuals\", and to present some recent research within this framework which aim to address puzzles pertaining to the interpretation of numerals and plural definites. The discussion will contain the presentation of formal models, a detailed investigation of their predictions, as well as data coming from experimental semantics. We will cover topics such as:\n- The various types of readings that plural expressions can trigger depending on the type of predicate they combine with (collective readings, distributive readings, cumulative) - Typology of collective predicates (gather/numerous) - Maximality in the semantics of plural quantifiers (all, modified numerals) and its interaction with predicate types - Homogeneity and non-maximality",
+          "description": "An OT (Optimality Theory) typology is comprised of a set of grammars which themselves are sets of total orders. Every typology has an associated geometry which provides an inherent classification of the grammars that constitute it. In this course we will develop these notions, showing how constraints, which at the lowest level are numerical comparisons between linguistic candidates, can be abstractly viewed as providing comparisons between entire grammars. From this perspective, constraints provide both order and equivalence structures on the grammars, an “Equivalence-augmented Partial Order” (EPO), which determine all licit typological classifications of a given theory. The set of all such EPOs for a typology is termed the Mother of all Tableaux (MOAT). We will develop these notions in both the concrete and abstract, using basic syllable theory as an entrée into the abstract categories of OT typologies.",
           "id": "1-14"
         }
       ],
       [
         {
-          "lecturer": "Mehrnoosh Sadrzadeh and Gijs Wijnholds",
-          "title": "Natural Language Syntax and Statistical Semantics with Modal Lambek Calculus",
+          "lecturer": "Haim Dubossarsky and Pierluigi Cassotti",
+          "title": "Computational Models for Semantic Change and their Applications in Multidisciplinary Research",
           "group": "Introductory",
-          "description": "The Lambek Calculus models natural language grammar as a logic, rejecting the rules of commutativity, associativity, contraction and weakening. Controlled versions of these rules can be added via modalities and the resulting logic is known as Modal Lambek Calculus. Modal Lambek Calculus has a compositional interface to natural language semantics: to possible worlds via ternary frames, and to vector representations via  algebraic constructions over syntax.\nThis course has two parts. The first part covers the core methodology behind the  modelling with Lambek Calculus and its modal extensions; we derive examples of syntactic constructions and analyse their semantics. After that, we focus on the vector semantics and  show how they are learnt via statistical machine learning, applying the results to semantic similarity and disambiguation tasks. Along the way, we offer the possibility to work with user-friendly tools that produce syntactic derivations and compute statistical representations, and datasets for empirical validations/applications.",
+          "description": "",
           "id": "1-15",
-          "room": "P20",
-          "website": "https://sites.google.com/view/esslli2023course",
-          "course-material": [
-            {"title": "Course website", "link": "https://sites.google.com/view/esslli2023course"}
-          ]
+          //"website": "https://sites.google.com/view/esslli2023course",
+          //"course-material": [
+          //  {"title": "Course website", "link": "https://sites.google.com/view/esslli2023course"}
+          //]
         },
         {
-          "lecturer": "Michael Roth",
-          "title": "Limitations in NLP: Disagreements, Misunderstandings, and other Challenges",
-          "group": "Advanced",
-          "description": "Most approaches to natural language processing assume that language is consistently unambiguous: there is always only one right answer to a question, each sentence has exactly one specific meaning, and text classification tasks generally have only one correct solution. But do these assumptions really hold up in reality? A growing body of research is examining the fact that questions can be answered differently, texts can be understood in various ways, and annotators in general can have conflicting opinions.\nIn this advanced course, we will take a closer look at some of the difficulties that arise from the inherent ambiguity of language. In the first half of the course, we will introduce different types of challenges and corresponding tasks proposed in the literature. In the second half of the course, we will discuss possible solutions from recent research as well as natural limitations that might remain for computational models of language.",
-          "id": "1-16",
-          "room": "P01"
         }
       ],
       [
         {
-          "lecturer": "Aleks Knoks and Eric Pacuit",
-          "title": "Tools for Formal Epistemology: Doxastic Logic, Probability and Default Logic",
+          "lecturer": "Philippe Balbiani and Cigdem Gencer",
+          "title": "Intuitionistic Modal Logic",
           "group": "Foundational",
-          "description": "Logicians, philosophers, and artificial intelligence researchers interested in epistemic questions---or, roughly, questions relating to belief, knowledge, and reasoning---have developed formal models to refine these questions and to answer them. This course will introduce three of the most prominent such formal models: doxastic logic, Bayesian models, and default logic. We will introduce these models, highlighting their similarities and differences, as well as their advantages and pitfalls. The course will touch on the fundamental questions driving much of the research in formal epistemology. In addition to presenting the different models, we will discuss such issues as the lottery and preface paradoxes, doxastic paradoxes, the source of epistemic normativity, and puzzles associated with higher-order evidence and peer disagreement.",
+          "description": "Among those mixing together Boolean concepts and modal concepts, the search for minimality has prompted multifarious debates. Most of these debates have now faded. In fact, they have not survived the end of the syntactic era of modal logic. Before the advent, in the 1960s, of the concept of Kripke frames, it was unclear which modal logic is the most appropriate candidate for the title of ``minimal modal logic''. Today, although the modal logic K does not contain any of the formulas expressing the properties usually associated to the modal concepts of necessity and possibility, everyone accepts the fact that K is the minimal modal logic. Among those combining together intuitionistic concepts and modal concepts, the quest for minimality has caused numerous discussions. Some of these discussions are still alive. Indeed, two approaches are in direct opposition: the intuitionistic approach set out by Fischer Servi (1977, 1978, 1984) giving rise to the intuitionistic modal logic IK and the constructive approach expounded by Wijesekera (1990) giving rise to the intuitionistic modal logics WK and CK. And there is no consensus of what should be the ``minimal intuitionistic modal logic''. The reason for being of the intuitionistic approach set out by Fischer Servi is mainly the fact that a minimal intuitionistic modal logic should contain the formulas whose standard translation in a first-order language are intuitionistically valid. Therefore, the supporters of this approach consider intuitionistic modal logic IK that contains the formulas ◊(pVq)->◊pV◊q and ¬<>false despite their non-constructive character. The justification of the constructive approach expounded by Wijesekera chiefly rests on the fact that the formulas of a minimal intuitionistic modal logic should have a constructive character. As a result, the upholders of this approach consider intuitionistic modal logic WK that does not contain the formula ◊(pVq)->◊pV◊q. The most radical of them also consider intuitionistic modal logic CK that does not contain either the formula ¬<>false. There is no sense in comparing the arguments for and against the intuitionistic approach giving rise to the intuitionistic modal logic IK and the constructive approach giving rise to the intuitionistic modal logics WK and CK. To convince the reader of this opinion, it suffices to mention how these approaches differently define the truth condition of diamond-formulas in their relational semantics, although they consider the same truth condition of box-formulas. This difference in the definition of the truth condition of diamond-formulas shows that the connective ◊ à la Fischer Servi and the connective ◊ à la Wijesekera are as separate as are, for example, the connectives of disjunction and conjunction in any intermediate logic. In this course, we firstly offer a self-contained overview of intermediate logics and modal logics. Secondly, we survey the different intuitionistic and constructive approaches to modal logic that have been proposed in the literature. We thirdly present the most important motivations for the introduction of such approaches: Curry-Howard correspondence between proofs and programs, Brouwer-Heyting-Kolmogorov interpretation of logic, type systems for staged computation, formalization of distributed computation, hardware verification, etc. Fourthly, we develop the proof theory, the relational semantics and the algebraic semantics of the different intuitionistic and constructive approaches to modal logic. We fifthly introduce an appropriate candidate for the title of minimal intuitionistic modal logic, an intuitionistic modal logic strictly contained in IK and comparable neither with WK, nor with CK. For some of its extensions, we study the axiomatization/completeness and the decidability/complexity of the set of their valid formulas. This course will mainly address logical and computational aspects of the combination of intuitionistic concepts and modal concepts.",
           "id": "1-17",
-          "room": "PB"
         },
         {
-          "lecturer": "Valentin Goranko and Dmitry Shkatov",
-          "title": "First-order Modal and Temporal Logics: Philosophical and Computational Aspects",
-          "website": "https://www2.philosophy.su.se/goranko/Courses2023/ESSLLI2023.html",
-          "group": "Advanced",
-          "description": "This course will introduce languages, models, main types of semantics, and deductive systems for first-order modal and temporal logics.  It will discuss the philosophical problems arising in the interaction of quantification with modality and temporality and will then present an overview of technical results on completeness and incompleteness, decidability and undecidability, as well as algorithmic and computational complexity of the decision problems for some important systems of first-order modal and temporal logics.  Applications to philosophy, mathematics, and computer science will be briefly discussed.\nThe course is intended for a broad audience of graduate students interested in logical, philosophical, and computational aspects of modal and temporal reasoning.",
-          "course-material": [
-            {"title": "Course website", "link": "https://www2.philosophy.su.se/goranko/Courses2023/ESSLLI2023.html"}
-          ],
+          "lecturer": "Xinghan Liu and Emiliano Lorini",
+          "title": "Logics for Explaining AI Systems",
+          "group": "Introductory",
+          "description": "The notion of explanation plays a pivotal role in artificial intelligence and machine learning, in which there is an increasing demand of explaining the behavior of systems trained on data, especially deep learning systems. Different notions of of explanation have been proposed and studied in the area of eXplainable AI (XAI), varying according to different dimensions such as global versus local and model-agnostic versus model-specific. In this course we will introduce several modal logics for explaining the behaviors and predictions of AI systems, including classifier systems and causal models, of which artificial neural networks are special instances. These logics support reasoning about different types of explanations including abductive, contrastive, counterfactual and causal explanation. We will discuss the proof-theoretic, decidability and complexity aspects of these logics and illustrate their expressiveness with examples.",
           "id": "1-24",
-          "room": "P22"
+        }
+      ],
+      [
+        {
+          "lecturer": "Justine Cassell and David Traum",
+          "title": "Conversational Grounding in the Age of Large Language Models",
+          "group": "Workshop",
+          "website": "placeholder",
+          "description": "Conversational Grounding is the process whereby participants in a conversation establish new common ground; that is, shared information that can subsequently be referred to. The conversational grounding process includes not just transmission of information via declarative utterances, but also visual, inferential, and interactive feedback processes. While there has been a substantial work on conversational grounding, many open problems remain, particularly when applied to different situations and activities, involving different numbers and types of participants, different perceptual and action affordances, and different goals. Moreover, new resources involving large language models change the nature of grounding processes and create new challenges even when they may improve the ability to solve some issues. The moment is therefore to bring together researchers working on aspects of Conversational Grounding for a workshop to increase common ground on the topic, and disseminate new best practices for computing, modeling and implementing conversational grounding in dialogue systems.",
+          "id": "1-12",
         }
       ]
     ]
