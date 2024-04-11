@@ -56,14 +56,14 @@ week1 = [
           "title": "Language and Logics",
           "group": "Foundational",
             "description": "This course introduces the use of formal logic in natural language semantics. It has no prerequisites, but an introductory linguistics course is desirable. The coverage will be limited to classical first order logic (FOL). This is far from the only logic used in linguistics, but it is presupposed by most advanced work. FOL is presented in a way which highlights the assumptions and choices made and the plurality of logics (as promised by the title), providing pointers to further directions of study.",
-            "id": "1-0"
+            "id": "12"
         },
         {
           "lecturer": "Matthew Mandelkern and Melissa Fusco",
           "title": "Conditionals, probability, and decision",
           "group": "Introductory",
           "description": "This advanced course in Language and Logic will explore interactions between the theory of the conditional and the theory of rational decision. Stalnaker (1971) and many following have argued that there is a close connection between conditionals and rational decision: at a first pass, you should do the act that, in expectation, WOULD bring about the best consequences IF you were to do it. This intuitive picture both constrains, and is constrained by, the theory of the conditional (in particular, its logic and semantics, and corresponding probabilities). The course will explore the interacting perspectives of decision theory (Fusco’s specialty) and conditional semantics (Mandelkern’s specialty).",
-          "id": "1-1"
+          "id": "19"
         }
       ],
       [
@@ -72,16 +72,14 @@ week1 = [
           "title": "Introduction to Linguistic Data Science ",
           "group": "Foundational",
           "description": "Big data is fundamentally changing the way that linguists can investigate linguistic facts leading to a new research area which combines data science with linguistics. This course provides an introduction to the new area of linguistic data science by means of an introductory course with hands-on data analysis that is focused on key questions in linguistics. This course will first provide a basic introduction to data science and in particular how this can be applied to large corpora using natural language processing techniques. We will then show how this can be used to find answers to problems in syntax, semantics, multilinguality and other areas of linguistics, along with a summary giving perspectives on how these methods can be applied to students’ own research.",
-          "id": "1-2",
-          "room": "P22"
+          "id": "4",
         },
         {
           "lecturer": "Damir Cavar and Billy Dickson",
           "title": "Generative AI and Symbolic Knowledge Representations: Large Language Models, Knowledge, and Reasoning",
           "group": "Introductory",
           "description": "This course is intended to be an Advanced Course addressing Large Language Models, or in general Large Models (multi-modal) and Knowledge Representations for reasoning and semantic processing. We discuss: - What are knowledge representations? This is about Ontologies, Knowledge Graphs, and semantic web approaches to handle for example Description Logic representations and reasoning. - What are Large Language Models and, ultimately, Large Models? This is mainly addressing so-called Generative AI, approaches to building and training models, and their application and limits, when the input is unstructured text or visual information only. - How can LMs and computational semantics approaches be combined? This addresses general problems of LMs (e.g., hallucinations), and we discuss how symbolic (and also probabilistic) knowledge representations can be linked to LMs generating more reliable responses, summaries, even pragmatic aspects like implicatures and presuppositions. We also discuss how LMs can be trained on knowledge and semantic representations to improve their reasoning capabilities. This course can be accompanied by extensive material, code, and instructions shared with students and the community, including hands-on access to the respective technologies. Depending on the audience, interest, and goals, we can adjust the level and content and design the course to include a discussion of state-of-the-art approaches to the generation of Ontologies, taxonomies, and Knowledge Graph representations. This course might sound technologically challenging, but we can assure you that it is actually within the scope of advanced undergraduate students, certainly appropriate for interested graduate students coming with basic computation experience, knowledge of statistics, and interest in logic, semantics, and knowledge representations.",
-          "id": "1-3",
-          "room": "P01"
+          "id": "25",
         }
       ],
       [
@@ -90,14 +88,14 @@ week1 = [
           "title": "Propositions as Sessions: Logical Foundations of Concurrent Computation",
           "group": "Foundational",
           "description": "The Curry-Howard(-deBruijn) correspondence, also known under the slogan of \“Propositions as Types\”, is arguably the most important bridge between logic and computation. The connection between intuitionistic logic and lambda-calculus is the most familiar instance of this bridge. The correspondence can be seen as a fruitful principle for logically-informed foundations of programming languages. This introductory course will explore recent work on the Curry-Howard correspondence between substructural logics and concurrent processes, dubbed as \“Propositions as Sessions\”. Following a gradual approach, participants will learn how Girard’s linear logic and its extensions serve as a basis for structuring message-passing concurrent programs through the discipline of session types. No specific prerequisites are assumed for this course, except for familiarity with formal logic; participants will get familiar with the selected topics in Substructural Logics, Concurrency Theory, and Programming Languages. The course will close with an overview of prospective research challenges.",
-          "id": "1-4"
+          "id": "50"
         },
         {
           "lecturer": "Balder ten Cate and Frank Wolter",
           "title": "A Modern Introduction to Craig Interpolation",
           "group": "Introductory",
           "description": "Craig interpolants are, intuitively, logical formulas that ``explain'' why an entailment between formulas P and Q holds by reference to the shared vocabulary of P and Q. They nowadays play a fundamental role not only in mathematical and philosophical logic, but also in applied areas ranging from automated deduction to program verification, databases and knowledge representation. They are used, for instance, as explainers of why sets of program states are disjoint and as synthesisers of concepts, programs and queries. The purpose of this course is to introduce the logical foundations and applications of Craig interpolation. We cover formalisms ranging from propositional and first-order logic to description and temporal logic. We illustrate modern applications, focusing on databases and knowledge representation. Finally, we also discuss recent research on what to do if a logic does not enjoy the Craig interpolation property, i.e., when there are entailments without Craig interpolants. We give an an introduction to Craig Interpolation and its modern applications in computer science, including databases, knowledge representation, complexity theory, and program verification.",
-          "id": "1-5"
+          "id": "43"
         }
       ],
       []
@@ -117,14 +115,14 @@ week1 = [
           "title": "	The Semantics and Pragmatics of Slurs",
           "group": "Introductory",
           "description": "Whether we like it or not, “bad words” are ubiquitous in natural language. While using such words has sometimes no significant effects, in many cases their use can produce real harm, by denigrating, silencing, and marginalizing the people they target. Slurs are one such type of “bad words”. Most researchers agree that the main function of slurs is that of derogating or dehumanizing, of signalling that their targets are unworthy of equal standing or full respect as persons. Figuring out how slurs achieve their main function is an important topic in contemporary philosophy of language and linguistics. In this introductory course, my aim is to present the main characteristics of slurs and their uses (not limited to derogation), explore the main views on their semantics and pragmatics, and show how they are connected to larger social phenomena like power structures and communal identities.",
-          "id": "1-6"
+          "id": "62"
         },
         {
           "lecturer": "Cameron Domenico Kirk-Giannini and Henry Schiller",
           "title": "Speech Acts: Dynamic Force and Conversational Update",
           "group": "Introductory",
           "description": "Stalnaker’s theory of the dynamic effect of assertion treats assertoric updates as intersective functions from one context to another. For Stalnaker, this is the characteristic way in which assertion changes the state of a conversation: its dynamic force. This course will introduce students to work in formal pragmatics on the dynamic force of various speech acts. We’ll begin with an introduction to speech act theory and discourse context, and then introduce Stalnaker’s theory of assertion as well as some challenges to that theory. The next part of the course will consider formal theories of directives and questions. In this section, our aim will be to assess whether we can account for the dynamic effects of these speech acts while remaining within the Stalnakerian model — and if not, how else we might account for those effects. Finally, we’ll turn our attention to topics that push the boundaries of traditional theories of formal pragmatics, such as felicitous underspecification and peripheral content.",
-          "id": "1-7"
+          "id": "15"
         }
       ],
       [
@@ -133,14 +131,14 @@ week1 = [
           "title": "Categorial Foundations of Natural Language Structures",
           "group": "Introductory",
           "description": "The course analyses the problem of natural language structure, as characterized by language diversity, requirements of language acquisition by children, extreme ambiguity, and discontinuity (where elements that seem to belong together semantically are separated in the sentence), in terms of an extension of classical Categorial Grammar. The problem will be analyzed in its own right and from the ground up, without any specifically linguistic theoretical assumptions. However, along the way, links to various existing linguistic and computational theories of language will be established, as needed by the students.",
-          "id": "1-8"
+          "id": "55"
         },
         {
           "lecturer": "Andreas Liesenfeld and Mark Dingemanse",
           "title": "Introduction to Conversational AI",
           "group": "Foundational",
           "description": "Conversations come naturally to us. While we humans learn language through conversation, interactive language use is arguably the holy grail of speech and language processing. With large language modelling (LLM) approaches, progress was made towards building more interactive agents. Yet, modelling human-like conversational AI remains a moonshot. This foundational course delves into why modelling conversational competence is so challenging. It also takes stock of recent engineering breakthroughs in building conversational AI systems using instruction-tuned LLM models such as ChatGPT, Llama or Mistral. Students will learn the basics of interactive language modelling and explore the scientific and theoretical foundations of understanding structure and variation in conversational speech data in hands-on tutorials. We will work through recent empirical and computational work on speech corpora, speech recognition, and technology assessment. Aspects of conversational infrastructure covered include turn-taking, interactive repair, and action ascription. We conclude by touching upon societal and ethical issues that emerge alongside the rise of conversational AI. This course might appeal to anyone interested in recent approaches to conversational AI and understanding why talking machines still struggle to hold up their end of a conversation. Some experience working with Python and Jupyter notebook required.",
-          "id": "1-9",
+          "id": "9",
         }
       ],
       [
@@ -149,7 +147,7 @@ week1 = [
           "title": "Computational aspects of first-order modal logics",
           "group": "Advanced",
           "description": "The course will introduce students to computational aspects of first-order modal logics. The course will contain a brief, self-contained introduction to first-order modal logics and then will cover the most important techniques for proving decidability, undecidability, and lack of recursive enumerability for first-order modal logics and their fragments. The course is intended for a broad audience of graduate students interested in modal reasoning and its computational aspects. This includes students of logic, philosophy, computer science, linguistics, and mathematics. The course will assume a basic familiarity with the classical first-order logic and with Kripke semantics for propositional modal logics.",
-          "id": "1-10",
+          "id": "53",
         },
         {
           "lecturer": "Valentin Goranko",
@@ -157,7 +155,7 @@ week1 = [
           "group": "Advanced",
           "description": "This course will introduce, discuss and illustrate with examples the most important games in logic, including: dialogue argumentation games, evaluation games, model building games, and model comparison games. These games can be used for model checking, constructive satisfiability testing, to characterize logical equivalences of models, and to prove non-definability results. Optionally, I will also introduce and discuss game-theoretic semantics with incomplete information for logical languages.",
           "website": "Course webpage can be found at https://www2.philosophy.su.se/goranko/Courses2024/ESSLLI2024_GamesLogiciansPlay.html",
-          "id": "1-11"
+          "id": "20"
         }
       ],
       [
@@ -167,7 +165,7 @@ week1 = [
           "group": "Workshop",
           "website": "placeholder",
           "description": "Incrementality ('adding up to a larger whole', König 1991) can be expressed by English 'more' (1), German 'noch/mehr', Hebrew 'od', Mandarin 'hai' etc. (1) Some/3 kids sang at the party. Then some/3 more kids danced. While studies of individual incremental constructions (INCRs) exist, there are still many gaps in their understanding. This workshop aims to fill such gaps (A) by studying how INCRs syntactically and semantically vary, both across and within languages, and (B) by trying to integrate insights from two approaches to incrementality, which thus far have not interacted: Degree-based approaches (e.g. Greenberg 2010, Thomas 2011), taking INCRs to express additive measurements of eventualities, and discourse-based approaches (e.g. Eckardt 2007, Umbach 2012, Grubic 2018) taking INCRs to be focus/QUD-sensitive, managing the growth of information along discourse-salient dimensions (e.g. event/discourse time). The topic of this workshop is closely related to that of the Week 1 course on 'Scalarity and Additivity in Natural Language'. Course participants are welcome.",
-          "id": "1-12",
+          "id": "2",
         }
       ]
     ]
@@ -186,14 +184,14 @@ week1 = [
           "title": "Theoretical and empirical approaches to cleft constructions",
           "group": "Introductory",
           "description": "This course aims to cross-linguistically investigate cleft constructions from theory-driven and empirical perspectives. An English cleft construction is a sentence of the form It is ... who ..., as exemplified in (1). (1) It was Sally who danced. We will first introduce hypotheses for capturing the meanings of clefts, their use conditions and their functions in discourse. In addition, we will discuss formal analyses that attempt to derive the cleft’s exhaustive inference (e.g., nobody other than Sally danced in (1)), and analyses demonstrating interactions between clefts and Questions Under Discussion (Roberts, 2012). Up-to-date psycholinguistic studies and corpus research which cross-linguistically test these theoretical claims (e.g., in Chinese, German, etc.) will also be introduced alongside. We will examine various experimental designs, and investigate empirical results, which seem to clash with theoretical predictions. The goal of this course is not only to convey state-of-the-art knowledge on cleft constructions to the students, but also to inspire and explore new theoretical and empirical ideas together with the students.",
-          "id": "1-13"
+          "id": "22"
         },
         {
           "lecturer": "Nazarre Merchant and Alan Prince",
           "title": "Analyzing OT Typologies: Order, Equivalence and the Mother of all Tableaux",
           "group": "Advanced",
           "description": "An OT (Optimality Theory) typology is comprised of a set of grammars which themselves are sets of total orders. Every typology has an associated geometry which provides an inherent classification of the grammars that constitute it. In this course we will develop these notions, showing how constraints, which at the lowest level are numerical comparisons between linguistic candidates, can be abstractly viewed as providing comparisons between entire grammars. From this perspective, constraints provide both order and equivalence structures on the grammars, an “Equivalence-augmented Partial Order” (EPO), which determine all licit typological classifications of a given theory. The set of all such EPOs for a typology is termed the Mother of all Tableaux (MOAT). We will develop these notions in both the concrete and abstract, using basic syllable theory as an entrée into the abstract categories of OT typologies.",
-          "id": "1-14"
+          "id": "46"
         }
       ],
       [
@@ -202,7 +200,7 @@ week1 = [
           "title": "Computational Models for Semantic Change and their Applications in Multidisciplinary Research",
           "group": "Introductory",
           "description": "",
-          "id": "1-15",
+          "id": "23",
           //"website": "https://sites.google.com/view/esslli2023course",
           //"course-material": [
           //  {"title": "Course website", "link": "https://sites.google.com/view/esslli2023course"}
@@ -217,14 +215,14 @@ week1 = [
           "title": "Intuitionistic Modal Logic",
           "group": "Foundational",
           "description": "Among those mixing together Boolean concepts and modal concepts, the search for minimality has prompted multifarious debates. Most of these debates have now faded. In fact, they have not survived the end of the syntactic era of modal logic. Before the advent, in the 1960s, of the concept of Kripke frames, it was unclear which modal logic is the most appropriate candidate for the title of ``minimal modal logic''. Today, although the modal logic K does not contain any of the formulas expressing the properties usually associated to the modal concepts of necessity and possibility, everyone accepts the fact that K is the minimal modal logic. Among those combining together intuitionistic concepts and modal concepts, the quest for minimality has caused numerous discussions. Some of these discussions are still alive. Indeed, two approaches are in direct opposition: the intuitionistic approach set out by Fischer Servi (1977, 1978, 1984) giving rise to the intuitionistic modal logic IK and the constructive approach expounded by Wijesekera (1990) giving rise to the intuitionistic modal logics WK and CK. And there is no consensus of what should be the ``minimal intuitionistic modal logic''. The reason for being of the intuitionistic approach set out by Fischer Servi is mainly the fact that a minimal intuitionistic modal logic should contain the formulas whose standard translation in a first-order language are intuitionistically valid. Therefore, the supporters of this approach consider intuitionistic modal logic IK that contains the formulas ◊(pVq)->◊pV◊q and ¬<>false despite their non-constructive character. The justification of the constructive approach expounded by Wijesekera chiefly rests on the fact that the formulas of a minimal intuitionistic modal logic should have a constructive character. As a result, the upholders of this approach consider intuitionistic modal logic WK that does not contain the formula ◊(pVq)->◊pV◊q. The most radical of them also consider intuitionistic modal logic CK that does not contain either the formula ¬<>false. There is no sense in comparing the arguments for and against the intuitionistic approach giving rise to the intuitionistic modal logic IK and the constructive approach giving rise to the intuitionistic modal logics WK and CK. To convince the reader of this opinion, it suffices to mention how these approaches differently define the truth condition of diamond-formulas in their relational semantics, although they consider the same truth condition of box-formulas. This difference in the definition of the truth condition of diamond-formulas shows that the connective ◊ à la Fischer Servi and the connective ◊ à la Wijesekera are as separate as are, for example, the connectives of disjunction and conjunction in any intermediate logic. In this course, we firstly offer a self-contained overview of intermediate logics and modal logics. Secondly, we survey the different intuitionistic and constructive approaches to modal logic that have been proposed in the literature. We thirdly present the most important motivations for the introduction of such approaches: Curry-Howard correspondence between proofs and programs, Brouwer-Heyting-Kolmogorov interpretation of logic, type systems for staged computation, formalization of distributed computation, hardware verification, etc. Fourthly, we develop the proof theory, the relational semantics and the algebraic semantics of the different intuitionistic and constructive approaches to modal logic. We fifthly introduce an appropriate candidate for the title of minimal intuitionistic modal logic, an intuitionistic modal logic strictly contained in IK and comparable neither with WK, nor with CK. For some of its extensions, we study the axiomatization/completeness and the decidability/complexity of the set of their valid formulas. This course will mainly address logical and computational aspects of the combination of intuitionistic concepts and modal concepts.",
-          "id": "1-17",
+          "id": "11",
         },
         {
           "lecturer": "Xinghan Liu and Emiliano Lorini",
           "title": "Logics for Explaining AI Systems",
           "group": "Introductory",
           "description": "The notion of explanation plays a pivotal role in artificial intelligence and machine learning, in which there is an increasing demand of explaining the behavior of systems trained on data, especially deep learning systems. Different notions of of explanation have been proposed and studied in the area of eXplainable AI (XAI), varying according to different dimensions such as global versus local and model-agnostic versus model-specific. In this course we will introduce several modal logics for explaining the behaviors and predictions of AI systems, including classifier systems and causal models, of which artificial neural networks are special instances. These logics support reasoning about different types of explanations including abductive, contrastive, counterfactual and causal explanation. We will discuss the proof-theoretic, decidability and complexity aspects of these logics and illustrate their expressiveness with examples.",
-          "id": "1-24",
+          "id": "39",
         }
       ],
       [
@@ -234,7 +232,7 @@ week1 = [
           "group": "Workshop",
           "website": "placeholder",
           "description": "Conversational Grounding is the process whereby participants in a conversation establish new common ground; that is, shared information that can subsequently be referred to. The conversational grounding process includes not just transmission of information via declarative utterances, but also visual, inferential, and interactive feedback processes. While there has been a substantial work on conversational grounding, many open problems remain, particularly when applied to different situations and activities, involving different numbers and types of participants, different perceptual and action affordances, and different goals. Moreover, new resources involving large language models change the nature of grounding processes and create new challenges even when they may improve the ability to solve some issues. The moment is therefore to bring together researchers working on aspects of Conversational Grounding for a workshop to increase common ground on the topic, and disseminate new best practices for computing, modeling and implementing conversational grounding in dialogue systems.",
-          "id": "1-12",
+          "id": "66",
         }
       ]
     ]
@@ -255,78 +253,43 @@ week1 = [
     "groups": [
       [
         {
-          "lecturer": "Peter Fritz",
-          "title": "Propositional Quantifiers",
-          "group": "Introductory",
-          "description": "Propositional quantifiers are quantifiers binding variables in the position of sentences. For instance, when added to standard propositional logic, they allow us to express the claim that for every proposition p, there is a proposition q such that p is materially equivalent to the negation of q.\nThis course will focus on propositional quantifiers in the context of modal logics, where they are especially useful. For example, in the context of a doxastic interpretation of modal logic, they allow us to make generalizations about what is and is not believed by an agent. With this, we can state that everything the agent believes is the case, that the agent believes that they believe something false, or that everything believed by one agent is believed by a second agent.\nStandard possible world models for modal logics can be extended straightforwardly to propositional quantifiers, by letting these quantifiers range over arbitrary sets of worlds. However, in many cases, this straightforward model theory leads to logics which are not recursively axiomatizable. In addition to these simple models, we will therefore consider a range of alternative models, including models based on complete Boolean algebras, and possible worlds models in which propositional quantifiers range over a restricted domain of sets of worlds.\nThe aim of the course is to show the usefulness of propositional quantifiers in modal logics using examples, to provide a systematic overview of the work that has been done in this field, and to highlight some of the many interesting questions which remain open.\nThe course level will be Introductory.",
-          "id": "1-19"
+          "lecturer": "Linmin Zhang",
+          "title": "Scalarity and additivity in natural language",
+          "group": "Advanced",
+          "description": "This course addresses the connection between scalarity and additivity in natural language. Scalarity has mainly been investigated within degree semantics, which aims to study how natural language expresses measurement and comparison along an abstract dimension, i.e., a scale composed of a totally ordered set of scalar values (degrees or intervals). Additivity is mainly about expressions that bring an existential presupposition in a domain of entities: e.g., additive particles like \"another\" presuppose the existence of a similar item. Recent research suggests a connection between scalarity and additivity (e.g., Greenberg 2010, Thomas 2010, Zhang and Ling 2021): comparison means additivity along a scale. This course addresses the conceptual, empirical, and technical aspects of this connection across domains. The course will start with an additivity-based perspective on comparatives, introducing the conceptual benefits and technical details of connecting research on scalarity and additivity. Then we will discuss various research questions within this perspective.",
+          "id": "17"
         },
         {
-          "lecturer": "Yoad Winter",
-          "title": "The Semantics of Reciprocity",
-          "group": "Advanced",
-          "description": "The proposed course will provide an overview of reciprocity from logical and (cross-)linguistic perspectives. After a short introduction to the formal semantics of plurals, the first part of the course will analyze meanings of reciprocal quantifiers (‘each other’). We will address their cross-linguistic relations with distributivity and collectivity, anaphora and reflexivity, and analyze pragmatic and lexical effects on their selection. The second part of the course will discuss reciprocal predicates (‘meet’, ‘hug’, ‘friend’), their logical effects on symmetry of n-ary relational meanings, and conceptual interactions with events and thematic roles. Overall, the proposed course will serve as an up-to-date example of the heterogeneity of formal semantics, illustrating its development from a subfield of philosophical logic to an interdisciplinary domain in linguistics that also engages with syntactic theory, lexical and typological analysis, and psycholinguistics.",
-          "course-material": [
-            {"title": "Course slides", "link": "https://www.phil.uu.nl/~yoad/esslli2023-course.pdf"}
-          ],
-          "id": "1-20"
         }
       ],
       [
         {
-          "lecturer": "Eric Pacuit",
-          "title": "Computational Game Theory in Julia",
+          "lecturer": "Jonathan Rawski and David Chiang",
+          "title": "Expressivity of Transformers: Logic, Circuits, and Formal Languages",
           "group": "Introductory",
-          "description": "There are two objectives for this course. The first objective is to introduce the Julia programming language, with a special focus on developing programs to study game theory using the Agents.jl package (https://juliadynamics.github.io/Agents.jl) and the GameTheory.jl package (https://quantecon.github.io/GameTheory.jl). The second objective is to provide an introduction to game theory emphasizing issues of particular relevance to students at ESSLLI, such as signaling games and repeated games on networks. The course will include a number of tutorials that will give students hands-on experience writing Julia programs. No previous experience with the Julia programming language will be assumed.",
-          "id": "1-21",
-          "room": "P01"
+          "description": "A major advancement in language modeling is the use of the transformer architecture. But, what problems can transformers solve, what problems can they not solve, and how can we prove it? This course examines the expressivity of transformers through the lens of computability and complexity theory. We will situate transformers within the landscape of automata, boolean circuits, and formal logics. We will discuss what is currently known about transformers' capabilities and limitations, address the practical implications of these results for natural language processing, and identify some directions for future work. Participants will gain a comprehensive understanding of transformers' expressive power in terms of the problems they fundamentally can and cannot solve.",
+          "id": "37",
         },
         {
-          "lecturer": "Kyle Richardson and Vivek Srikumar",
-          "title": "Formal Techniques for Neural-symbolic Modeling",
-          "group": "Advanced",
-          "description": "This is intended to be an advanced course on current methods for combining symbolic logic and neural networks, with applications to problems in natural language processing (NLP). In particular, we focus on techniques that use  symbolic knowledge and declarative constraints to train machine learning models by compiling the corresponding symbolic logic into a differentiable form, also known as the logic as a loss function family of approaches. Details of current approach in NLP, as well as the formal and algorithmic techniques needed to doing this, will be covered in detail and drawn from the broader literature of neural-symbolic learning and reasoning.",
-          "id": "1-22"
         }
       ],
       [
         {
-          "lecturer": "Wesley Holliday",
-          "title": "Possibility Semantics",
-          "group": "Introductory",
-          "description": "Possibility Semantics is a generalization of Possible World Semantics, based on partial possibilities instead of complete possible worlds. In recent years, this approach has been applied to the semantics of modal and non-classical logics, natural language semantics, and semi-constructive mathematics. In this course, we will provide: a more accessible introduction to Possibility Semantics than is available in the technical literature (Day 1); in-depth sample applications of Possibility Semantics to the formal semantics of epistemic modals in natural language (Days 2-3), the modeling of knowledge and awareness (Day 4), temporal logic and the openness of the future (Day 5), and an introduction to propositional and first-order quantification in possibility semantics (Day 5, time permitting). No previous familiarity with Possibility Semantics will be assumed. Over the course of the week, we will suggest a number of open problems and avenues for future research.",
-          "id": "1-23",
-          "website": "https://sites.google.com/site/wesholliday/research/modality/modal-logic/possibility-semantics-esslli-2023",
-          "course-material": [
-            {"title": "Course website", "link": "https://sites.google.com/site/wesholliday/research/modality/modal-logic/possibility-semantics-esslli-2023"}
-          ],
-          "room": "P22"
+          "lecturer": "Alexandru Baltag and Sonja Smets",
+          "title": "Dynamic Logics for Communication and Data Exchange",
+          "group": "Foundational",
+          "description": "This course is addressed to students interested in the logical analysis of complex multi-agent scenarios involving data-exchange and communication. We look at various forms of information flow that can affect both the individual knowledge and the group knowledge of interacting agents. These scenarios include acts by which individuals or groups can publicly or privately access whole databases and `grab’ (read, copy, transmit or modify) all the information stored in them (including numerical, or other non-propositional, data). We present a family of dynamic logics, based on extensions of Dynamic Epistemic Logic that can handle exchanges in which the relevant data are not necessarily in propositional form. We study the expressive power of data-exchange logics, provide complete axiomatizations, show their decidability, and apply them to a range of examples, including sharing an internet resource, learning another agent’s password, hacking a private database, detecting a cryptographic attack, etc.",
+          "id": "61",
         },
         {
-          "lecturer": "Brian Logan",
-          "title": "Logics for Safe AI (course supported by EurAI)",
+          "lecturer": "Yanjing Wang",
+          "title": "Introduction to Bundled Modalities",
           "group": "Advanced",
-          "description": "This advanced course will introduce the use of logics for the specification, verification and synthesis of provably correct AI programs. The topics will range from verification of multi-agent systems, synthesis of strategies for coalitions of agents, the use of logic in ensuring safety properties in reinforcement learning, and synthesising reward functions in reinforcement learning from logical specifications.",
-          "id": "1-18"
-        },
-        {
-          "lecturer": "Nebojša Ikodinović and Dragan Doder",
-          "title": "Logics with Probability Operators and Quantifiers",
-          "group": "Advanced",
-          "description": "Many formalisms for representing, and reasoning with, uncertain knowledge are based on probabilistic logics that extend classical logic calculus with probability operators or quantifiers. The main goal of this course is to provide a solid foundation for students that want to use results and ideas from probabilistic logics  in their own field of study. We will introduce inductive logic, predicate logic with probability quantifiers and several logics with probability operators through a variety of examples from different fields (philosophy, decision theory, artificial intelligence, game theory etc.), and a more detailed presentation of related research problems (Specify some principles of rational belief and find their mathematical representation; Investigate logical consequence of the law of large number; Axiomatize propositional logic related to Markov processes). We will present an overview of main results and show that all those approaches are essentially connected. We will also present probabilistic extensions of various other logic systems.",
-          "id": "1-25",
-          "room": "P19"
+          "description": "Bundled modalities pack a quantifier and a modality together. In this course, I will introduce the idea, techniques, and applications of bundled modalities in epistemic logic, deontic logic, non-classical logic, and decidable fragments of first-order modal logic.",
+          "id": "35"
         }
       ],
       [
-        {
-          "lecturer": "Sonia Ramotowska and Fabian Schlotterbeck",
-          "title": "Procedural and computational models of semantic and pragmatic processes",
-          "group": "Workshop",
-          "website": "https://prosandcomps.github.io/",
-          "description": "Procedural and computational modeling frameworks have been applied successfully to various aspects of semantic and pragmatic processes, yielding not only a good fit to empirical data but also insights of theoretical relevance. On the one hand, computational (e.g., Bayesian or information theoretic) models rationalize speaker behavior and explain how the listener can use the given information efficiently to infer the intended meaning from an utterance. However, these models often leave the stepwise processing of linguistic information unspecified. On the other hand, procedural procedural (e.g., automata or ACT-R) models explain step-by-step cognitive processes behind meaning-related computations e.g., the process of building sentence representations. However, they often lack the means to combine different information types in an interactive fashion. The goal of this workshop is to bring together researchers applying these two modeling methodologies to discuss their strengths and weaknesses and work towards an integrated approach.",
-          "id": "1-26"
-        }
       ]
     ]
   }
