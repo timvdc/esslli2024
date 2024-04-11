@@ -154,7 +154,7 @@ week1 = [
           "title": "Games Logicians Play",
           "group": "Advanced",
           "description": "This course will introduce, discuss and illustrate with examples the most important games in logic, including: dialogue argumentation games, evaluation games, model building games, and model comparison games. These games can be used for model checking, constructive satisfiability testing, to characterize logical equivalences of models, and to prove non-definability results. Optionally, I will also introduce and discuss game-theoretic semantics with incomplete information for logical languages.",
-          "website": "Course webpage can be found at https://www2.philosophy.su.se/goranko/Courses2024/ESSLLI2024_GamesLogiciansPlay.html",
+          "website": "https://www2.philosophy.su.se/goranko/Courses2024/ESSLLI2024_GamesLogiciansPlay.html",
           "id": "20"
         }
       ],
@@ -301,70 +301,52 @@ week2 = [
     "groups": [
       [
         {
-          "lecturer": "Bart Geurts",
-          "title": "Common ground",
+          "lecturer": "Kajsa Djärv and Deniz Özyıldız",
+          "title": "Intonation and meaning",
           "group": "Foundational",
-          "description": "Common ground has been a central notion in theoretical pragmatics since the 1970s, and a fixture in theories of presupposition, reference, speech acts, implicature, and many other topics. Given that pragmatics is an interdisciplinary concern, it is hardly surprising that common ground has been discussed across a range of disciplines, including philosophy, linguistics, psychology, and computer science. But for all its importance, there has been relatively little discussion of foundational issues. Stalnaker (2002, 2014) is a notable exception, but he only discusses his own view. There are radically different views on the nature of common ground, i.e. what common ground IS, and there have been no attempts to compare and contrast these views at any length, and consider their implications for the analysis of speech acts and fiction, for example.  In brief, that is the  objective of this course.",
-          "id": "2-0",
-          "note": "CANCELLED"
+            "description": "Natural language syntax and semantics interacts with prosodic structure. The sentence “All politicians aren’t corrupt,” for example, is scopally ambiguous between “all > not” and “not > all” interpretations, which intonation may disambiguate. Acquaintance with such facts is of general interest, presenting an exciting opportunity to raise architectural questions about natural language and to expose course participants to a diverse set of formal methods (e.g., constraint-based grammars, model theoretic semantics). We begin the course with elements of intonational phonology: The realization of suprasegmental features—i.e., pitch, loudness and duration—is structured and governed by abstract mental categories. We then turn to modeling how these prosodic structures interface with syntactic structure, as well as semantic and pragmatic interpretation. The empirical basis for these models involve both classical observations on the role of intonation in regulating discourse coherence, and ongoing debates on the effect of intonation on presupposition triggering and projection.",
+          "id": "63",
         },
         {
-          "lecturer": "Niki Pfeifer",
-          "title": "Probability logic, language, and cognition",
-          "group": "Introductory",
-          "description": "Uncertainty is ubiquitous in everyday life communication and reasoning. In this course, we will learn methods and tools to understand language and cognition under uncertainty. We will get interdisciplinary perspectives by combining formal-philosophical and experimental-psychological approaches. In particular, we will understand why coherence-based probability logic offers a unified rationality framework for studying diverse phenomena including conditionals, counterfactuals, connexivity, quantification, reasoning, and argumentation on the normative level. Moreover, on the descriptive level, we will become familiar with recent experimental-psychological results on linguistic phenomena, cognition, and reasoning under uncertainty. Specifically, we will learn about formal and experimental work on nonmonotonic reasoning, conditionals, counterfactuals, quantification, connexivity, and argumentation. Finally, we will achieve a deeper understanding of what it means to be rational under incomplete knowledge and uncertainty.",
-          "id": "2-1",
-          "room": "P01"
-        }
-      ],
-      [
-        {
-          "lecturer": "Bruno Guillaume and Kim Gerdes",
-          "title": "Treebanking: methodology, tools and applications",
-          "group": "Introductory",
-          "description": "This introductory course will present a general introduction to dependency-based syntactic treebanks and to two existing frameworks: Universal Dependencies (UD) and its variant Surface Syntactic Universal Dependencies (SUD). After the general introduction of the topic, we will describe a set of tools that are available to help the development of new treebanks (Grew-match and Arborator-grew), with a focus on under-resourced languages. We present some experiments applying these tools to the construction of new treebanks of Spoken French, Zaar, and Beja. Finally, we will illustrate a few applications which are currently developed in the Autogramm project. One application is the automatic extraction of grammatical observations  from treebanks to help linguists in the study of the grammar of new languages (with an example of Wolof). A second application, the use of these annotated treebanks in quantitative typology will be presented.",
-          "id": "2-2"
-        },
-        {
-          "lecturer": "Ryan Cotterell",
-          "title": "Formal Language Theory and Neural Networks",
+          "lecturer": "Sonia Ramotowska and Fabian Schlotterbeck",
+          "title": "When \"not difficult\" does not mean \"easy\" — what processing models of negation tell us about language comprehension",
           "group": "Advanced",
-          "description": "This tutorial is a comprehensive introduction to neural networks, focusing on recurrent neural networks (RNNs) and transformers, and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. Finally, we will discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models.",
-          "id": "2-10",
-          "room": "P22"
+          "description": "Negation is fundamental to formal languages, ubiquitous in natural languages and central in everyday communication. For millennia, philosophers, logicians, and linguists investigated negation. More recently, the processing of negation became a cornerstone of psycholinguistics and cognitive science. Experiments firmly established that negative sentences are more difficult to process than affirmative ones. However, the source of this difficulty is still debated. Since the 1970s, competing explanations have been proposed and coined into processing models of negation. During this course, we will dissect and compare prominent processing models of negation that explain processing difficulties by implementing answers to fundamental questions about pragmatic language use, amodal representations, cognitive biases, conflict between cognitive representations, as well as the nature of verification and comprehension processes. Example questions we will address include: (1)Are there circumstances that completely alleviate the processing difficulty of negation? (2)Is this processing difficulty language-specific or due to domain-general mechanisms of conflict resolution?",
+          "id": "24",
         }
       ],
       [
         {
-          "lecturer": "Rustam Galimullin and Louwe B. Kuijer",
-          "title": "Quantification in Dynamic Epistemic Logic",
-          "group": "Introductory",
-          "description": "Dynamic epistemic logics (DELs) allow one to reason about how knowledge of agents evolves as a result of various information-changing events. Some of the notable examples of DELs include public announcement logic, arrow update logic, and action model logic. Adding quantification over epistemic events in those DELs shifts the perspective from the effects of a particular event to the question of (non-)existence of an event leading to some epistemic outcome. For example, we may want to verify that there is a communication between Alice and Bob such that they both learn some secret, while eavesdropper Eve remains unaware of the secret. In the course, we will present some of the more well-known DELs with quantification and provide highlights of the proofs behind significant technical results. Moreover, we will also discuss some of the tantalising open question spanning the landscape of logics with quantification over information change.",
-          "id": "2-4",
-          "website": "https://rgalimullin.gitlab.io/esslli23.html",
-          "course-material": [
-            {"title": "Course website", "link": "https://rgalimullin.gitlab.io/esslli23.html"}
-          ],
+          "lecturer": "Kengatharaiyer Sarveswaran and Tafseer Ahmed",
+          "title": "The Challenges of Processing South Asian Languages",
+          "group": "Foundational",
+          "description": "This course provides a comprehensive exploration of the intricacies of South Asian languages, with a focus on the Indo-Aryan and Dravidian language families. The course outline is crafted to immerse learners in the distinctive linguistic characteristics of South Asian languages, primarily the languages of Indo-Aryan and Dravidian families, encompassing areas such as script, encoding, transliteration, normalization, rich morphology, and syntax. A significant portion of the course is dedicated to examining how these aspects are applied within the scope of natural language processing (NLP). Designed to equip learners with a thorough understanding, the course aims to highlight both the challenges and the possible solutions pertinent to language processing. Therefore, the course not only offers an introduction to languages in South Asia, home to one-fourth of the global population and with a diaspora of approximately 40 million individuals but also introduces concepts that are generally applicable to multilingual NLP and low-resource languages.",
+          "id": "69"
         },
         {
-          "lecturer": "Beniamino Accattoli",
-          "title": "Time and Space for the lambda Calculus",
-          "group": "Advanced",
-          "description": "The lambda calculus is the core model behind functional programs and proof assistants, as well as a formalism for representing the proofs of intuitionistic logic.  Finding reasonable time and space complexity measures for the lambda calculus, that is, measures that are equivalent to those of Turing machines, have been two long-standing problems, solved only in 2014 (for time) and 2022 (for space).  The course aims at explaining three aspects of this topic: 1) The difficulties behind these problems; 2) The tools to solve them, which are based on an abstract theory of implementations of the lambda calculus; 3) How the time and space cost of terms can be captured via type systems for lambda-terms, namely via multi types, a variant of standard type systems for the lambda-calculus.",
-          "id": "2-5"
+          "lecturer": "Manon Scholivet and Carlos Ramisch",
+          "title": "Experimental methodology in computational linguistics",
+          "group": "Introductory",
+          "description": "Recent years saw experiments and empirical evaluation become a central component of computational linguistics. However, methodological principles and experimental design are often neglected, leading to shaky conclusions, stressful paper writing, and unfavourable reviews. Our course focuses on experimental methodology in NLP: key notions, recommended practices and avoidable traps. As methodology is often considered boring or unimportant, we start from examples, and realistic situations before introducing abstract notions. Practical exercises allow making the subject more fun, grounding abstract notions on concrete examples, and training skills such as structuring research questions, designing experiences, analysing and presenting results. We collaboratively build an ideal of scientific methodology and compare it with current practice, trying to avoid simplistic good/bad judgments. Skills developed should help move our habits towards this ideal. We see this as a privileged moment to study notions frequently used without full understanding, but greatly influencing our research's quality.",
+          "id": "31",
         }
       ],
       [
         {
-          "lecturer": "Valentin Goranko and Dmitry Shkatov",
-          "title": "First-order Modal and Temporal Logics: state of the art and perspectives",
-          "group": "Workshop",
-          "website": "https://dshkatov.github.io/fomtl2023/",
-          "description": "First-order modal and temporal logics are of fundamental importance for reasoning about necessity, possibility, and temporality. They offer a broad range of actual and potential applications to philosophy, artificial intelligence, computer science, cognitive science, and linguistics.\nThe workshop is intended to bring together researchers and graduate students in the field of first-order modal and temporal logics, to present the state of the art in the field and to discuss the most important directions for future work in the area.",
-          "id": "2-6",
-          "room": "P20"
+          "lecturer": "Arne Meier and Jonni Virtema",
+          "title": "Complexity and expressivity of propositional dependence logics",
+          "group": "Advanced",
+          "description": "During the last decade, there has been a rise of interest in the study of a unified logical theory for the concept of dependence. A multitude of logics has been introduced in the first-order, propositional, and modal contexts. The common dominator for these logics is the adaptation of team semantics as a core notion. These new logics have several applications in many different areas of research such as database theory, linguistics, and philosophy. The main goal of this course is to introduce propositional variants of dependence and inclusion logic and to investigate their expressivity and computational complexity of satisfiability, validity, and model checking. The students will acquire technical key observations and techniques in the context of propositional team semantics which will be useful to improve the overall understanding of expressivity and complexity of logics as well as skills and knowledge regarding reductions and algorithms.",
+          "id": "45",
+        },
+        {
+          "lecturer": "Davide Catta and Christian Retoré",
+          "title": "Linear Logic",
+          "group": "Introductory",
+          "description": "Linear logic introduced in 1987 by Girard is a refinement of both classical and intuitionistic logics, with substantial outcomes in computer science: functional and logic programming, denotational semantics, concurrency and sharing, (implicit) complexity theory, computational linguistics. It is by now a standard topic in logic and theoretical computer science. Instead of emphasizing truth values, as in classical logic, or proofs, as in intuitionistic logic, linear logic emphasizes the role of formulas as resources. In this course, our aim is to introduce fundamental concepts and techniques of linear logic through a proof-theoretic approach. We will first present the sequent calculus formalism of linear logic, and present the graph theoretical syntax of linear logic, proof nets. Then, we will delve into its denotational semantics, the semantics of proofs, in terms of coherence spaces. The course will end with a non-commutative extension of linear logic, pomset logic, whose relation to deep inference has been recently clarified.",
+          "id": "72"
         }
-      ]
+      ],
     ]
   },
   {
@@ -377,67 +359,54 @@ week2 = [
     "groups": [
       [
         {
-          "lecturer": "Elin McCready and Grégoire Winterstein",
-          "title": "Communitarian Semantics",
+          "lecturer": "Madeleine Butschety",
+          "title": "Inclusory Phenomena in Natural Language",
           "group": "Introductory",
-          "description": "In the past 15 years, the study of linguistic expressions with meanings keyed to social domains has taken off in linguistics and philosophy. Empirical domains include slurs, gendered expressions, honorifics, discourse markers, and sociolinguistic indexicals, among others; phenomena include epistemic injustice, standpoints, argumentation, and dogwhistling, among others. The aim of this course is twofold: first, to introduce recent developments in this area to students together with the technical tools, both formal and computational, that have been used to analyze them, and, second, to give a birds-eye view of the study of meaning that situates work in this area in the broader semantic landscape.",
-          "id": "2-7"
+          "description": "This course addresses inclusory constructions from two different perspectives: On the one hand, we will examine which linguistic expressions can be involved in the emergence of inclusory meaning cross-linguistically. On the other hand, we will investigate how inclusory meaning can be captured by means of formal semantics in the first place. Because only a certain 'class' of elements happens to play a key role in this respect, namely additives ('too, also'-type) and comitatives ('with'-type) – i.e. expressions whose meaning usually has a conjunctive flavour. In inclusory constructions, however, they establish a 'part of'-relation instead, which is the hallmark of inclusory meaning, but at the same time forces us to reconsider or modify or formal- logical assumptions about these elements. The aim of this course is to provide an overview of an under-explored empirical phenomenon and to illustrate the formal challenges it presents us with.",
+          "id": "40"
         },
         {
-          "lecturer": "Luka Crnic and Yosef Grodzinsky",
-          "title": "Monotonicity: Grammar, Processing, and Neural Reflections",
+          "lecturer": "Bart Geurts",
+          "title": "Common ground",
+          "group": "Foundational",
+          "description": "Common ground has been a central notion in theoretical pragmatics since the 1970s, and a fixture in theories of presupposition, reference, speech acts, implicature, and many other topics. Given that pragmatics is an interdisciplinary concern, it is hardly surprising that common ground has been discussed across a range of disciplines, including philosophy, linguistics, psychology, and computer science. But for all its importance, there has been relatively little discussion of foundational issues. There are radically different views on the nature of common ground, i.e. what common ground \emph{is}, and there have been no attempts to compare and contrast these views at any length, and consider their implications for the analysis of speech acts and fiction, for example. In brief, that is the main objective of the course. We will compare and contrast three main views, two of which have been developed by Stalnaker: the container view and the psychological view. The latter is probably the dominant view on common ground, although there are quite a few researchers who consider it to be incoherent. The third view has its roots in Lewis's work on ``common knowledge''; it treats common ground as a normative concept. Each of these views is associated with a distinctive take on pragmatics, and especially with a distinctive account of what speech acts are and how they interact with the common ground.",
+          "id": "6"
+        }
+      ],
+      [
+        {
+          "lecturer": "Mark Steedman",
+          "title": "Combinatory Categorial Grammar and the Minimalist Program",
           "group": "Advanced",
-          "description": "​​One of the main discoveries of linguistic theory has been that grammar is sensitive to the monotonicity properties of the objects it generates. A related discovery in experimental (neuro)linguistics has been that the monotonicity properties of linguistic objects also affect their processing, and appear to be neuroanatomically localized. We plan to focus on polarity items and quantification more generally. On the empirical side, we will examine how monotonicity impacts grammatical operations, their processing, and their neural reflexes. On the methodological side, we will consider how theoretical and experimental methods can and should be jointly employed to address these questions.",
-          "id": "2-8"
+          "description": "This is the title for a one-week advanced course to follow \"Introduction to Combinatory Categorial Grammar\" by the same proposer",
+          "id": "56",
+        },
+        {
+          "lecturer": "Gerhard Jäger",
+          "title": "Statistical typology",
+          "group": "Introductory",
+          "description": "In the field of linguistic typology, the variation in grammatical properties across natural languages is not random but is influenced by a mix of linguistic universals, genetic relationships, and language contact. This course, building on the foundational work of Joseph Greenberg and subsequent developments, aims to explore these complex interrelations. Recent years have seen significant advancements due to more sophisticated statistical tools and the expansion of cross-linguistic databases. The course is designed for students of linguistics and neighboring disciplines, focusing on two key areas: phylogenetic methods and spatial statistics. Through these lenses, we will examine how linguistic features are inherited, and how they spread under language contact. The curriculum will include practical applications of these methods, enabling participants to analyze typological databases effectively. By the end of this course, attendees will have a clearer understanding of how universal tendencies, common descent, and language contact shape the grammar of natural languages. They will also gain hands-on experience with modern statistical tools and techniques essential for linguistic research.",
+          "id": "14",
         }
       ],
       [
         {
-          "lecturer": "John P. McCrae",
-          "title": "Introduction to Linguistic Data Science",
+          "lecturer": "Eric Pacuit",
+          "title": "Social Choice and Machine Learning",
           "group": "Introductory",
-          "description": "Big data is fundamentally changing the way that linguists can investigate linguistic facts leading to a new research area which combines data science with linguistics. This course provides an introduction to the new area of linguistic data science by means of an introductory course with hands-on data analysis that is focused on key questions in linguistics. This course will first provide a basic introduction to data science and in particular how this can be applied to large corpora using natural language processing techniques. We will then show how this can be used to find answers to problems in syntax, semantics, multilinguality and other areas of linguistics, along with a summary giving perspectives on how these methods can be applied to students' own research.",
-          "id": "2-9",
-          "room": "P01"
+          "description": "This course will introduce students to an exciting new area of research at the intersection of social choice theory and machine learning. The course will begin with an introduction to social choice theory, with an focus on the mathematical analysis of voting methods, probabilistic voting, strategic voting, and new group decision making paradigms, such as liquid democracy. The main objective of the course is to explain how machine learning tools and ideas have been used to complement existing social-choice theoretic results. The course will also discuss recent work using large-language models to enhance group decision-making processes.",
+          "website": "https://pacuit.org/esslli2024/social-choice-machine-learning/",
+          "id": "30",
         },
         {
-          "lecturer": "Lidia Pivovarova and Andrey Kutuzov",
-          "title": "Computational approaches to semantic change detection",
+          "lecturer": "Tiziano Dalmonte and Marianna Girlando",
+          "title": "Proof theory of modal logic",
           "group": "Advanced",
-          "description": "During the last three years, automatic detection of language change has been intensified by the introduction of several datasets manually annotated for this task, and by a series of shared tasks. However, a gap still exists between theoretic understanding of various linguistic phenomena contributing to language change and abilities of computational methods to capture these phenomena. The goal of this course is to provide a broad overview of this novel research area and discuss in detail various methods used to detect word meaning shift. We will also discuss open problems and possible practical applications. Every day of the course will feature a lecture and a small practice session. The course will allow students to start working in this research area.",
-          "id": "2-3",
-          "course-material": [
-            {"title": "Course GitHub", "link": "https://github.com/lmphcs/semshift_esslli2023"}
-          ],
-        }
+          "description": "In this course we explore the proof theory of modal logic. It is well-known that Gentzen-style sequent calculi fail to meet basic requirements in the case of modal logic: for instance, no cut-free sequent calculus is known for the modal logic S5. In order to overcome these difficulties, several extensions of Gentzen's formalism have been studied in the literature. These can be approximately grouped into two categories: labelled calculi, which extend the language of the calculus with explicit semantic information, and structured calculi, such as nested or hypersequent calculi, which instead include additional structural connectives into the structure of the sequents. We will discuss the main properties of these proof systems, including cut-freeness and modularity. Moreover, we will showcase how labelled and structured calculi are suitable to obtain decision procedures for the logics, focusing specifically on countermodel extraction from failed derivations. To conclude, we will compare the various proof systems (Gentzen-style, labelled, structured) by defining formal translations that allow one to convert derivations of one kind into equivalent derivations of the other kind.",
+          "id": "51",
+          }
       ],
       [
-        {
-          "lecturer": "Matteo Acclavio and Paolo Pistone",
-          "title": "An Introduction to Proof Equivalence",
-          "group": "Introductory",
-          "description": "The goal of this course is to provide an overview on important results and current research trends in proof theory around the notion of proof equivalence. This is the problem of understanding when two formal derivations represent ``the same'' proof, both intuitively and in more precise semantical terms. The search for more canonical representations of logical arguments has lead to the design of new proof systems based on ideas from graph theory or category theory.  Research on proof equivalence has received considerable attention in the proof-theory community, and has led in recent years to several applications in computer science (e.g. for program equivalence or proof-search). However, a structured presentation of fundamental results and perspectives in this area is still missing, and we consider this course as a first step in the direction of filling this gap.",
-          "id": "2-11",
-          "room": "P22"
-        },
-        {
-          "lecturer": "Balder ten Cate and Carsten Lutz",
-          "title": "Logic, Data Examples, and Learning",
-          "group": "Introductory",
-          "description": "In logic, data examples are useful when a logical formula must be  synthesized or communicated. This includes tasks such as  the reverse engineering of logical queries, debugging and refinement  of formal specifications, as well as various forms of learning.\nThis course provides a uniform introduction to the use of data examples in logic, covering logical formalisms that range from propositional logic  to first-order logic (including conjunctive queries and description logics), and addressing the following questions:\n* When, and to what extent, can a logical formula be described by a    small number of data examples. (\"From Formulas to Data Examples\")\n* How to construct a fitting formula from a set of data examples?    When more than one fitting formula exists, which one should be    preferred?  (\"From Data Examples to Formulas\")\n* When is a fitting formula likely to generalize from input examples to     unseen data examples, and how many input examples are     required to achieve this? (\"PAC Learning\")\n* In interactive design and refinement systems, data examples provide     a means of communication between the system and the user. This    can be modeled as an interactive learning setting with a learner and    an oracle. When is efficient interactive learning of this type possible?",
-          "id": "2-12",
-          "room": "PB"
-        }
-      ],
-      [
-        {
-          "lecturer": "Michael Moortgat and Mehrnoosh Sadrzadeh",
-          "title": "Modalities in substructural logics: Applications at the interfaces of logic, language and computation (Monday and Tuesday only)",
-          "group": "Workshop",
-          "website": "https://sites.google.com/view/esslli2023course/workshop",
-          "description": "By calling into question the implicit structural rules that are taken for granted in classical logic, substructural logics have brought to the fore new forms of reasoning with applications in many interdisciplinary areas of interest. Modalities, in the substructural setting, provide the tools to control and finetune the logical resource management. The workshop explores the uses of substructural modalities in areas where logic meets linguistics and computer science. The workshop is supported by the EU-funded MOSAIC project (Modalities in Substructural Logics: Theory, Methods and Applications). A complementary proposed course is \"Modal Lambek Calculus and its Natural Language Applications\".\n<b>Resources:</b><ul style=\"margin-left: 2em;\"><li><a href=\"https://sites.google.com/view/esslli2023course/workshop\" target=\"_blank\">Workshop website</a></li><li><a href=\"https://easychair.org/cfp/AMSLO23\" target=\"_blank\">EasyChair</a></li></ul>",
-          "id": "2-13"
-        }
       ]
     ]
   },
@@ -451,66 +420,46 @@ week2 = [
     "groups": [
       [
         {
-          "lecturer": "Annemarie van Dooren and Anouk Dieuleveut",
-          "title": "Decomposing the meaning of modals",
-          "group": "Foundational",
-          "description": "Modal statements, like “The keys must be in the drawer” or “We must take the train”, involve a complex interplay of syntax, semantics, and pragmatics. The goal of this introductory class is to understand how we can decompose the meaning of modal words like can or must, by going through their standard quantificational analysis inherited from modal logic, with particular attention to the work of Kratzer. The class will combine insights from various disciplines: logic, philosophy and formal semantic theories of modality, cross-linguistic fieldwork, psycholinguistics experiments, and language acquisition.",
-          "id": "2-14"
+          "lecturer": "Arash Eshghi and Julian Hough",
+          "title": "Real-time Language Processing in Conversational AI",
+          "group": "Advanced",
+          "description": "This practical Advanced Course aims to introduce students with computational linguistics backgrounds to incremental language processing for Spoken Dialogue Systems (SDS). Students will be shown the benefits of incrementality for improving speed, naturalness and fluidity of conversing with machines. Concretely, we will be looking at SDSs where processing information from user speech on a word-by-word basis is crucial. The course will cover how to deal with various natural, incremental phenomena in dialogue - such as spoken disfluencies, utterance continuations and interruptions - which standard dialogue systems cannot deal with, using incremental, semantically-driven natural language understanding and generation models. Each session is divided into a lecture, and a practical. During the practicals students work gradually towards building their own fully incremental SDS in a small domain, using the technical tools and API that we will provide. Our aim is that by the end of the course, students will appreciate the multi-faceted complexity of real-time language processing in dialogue.",
+          "id": "70"
         },
         {
-          "lecturer": "Cornelia Ebert and Markus Steinbach",
-          "title": "The semantics of visual communication. Theoretical approaches to visual meaning aspects in co-speech gestures and sign language",
-          "group": "Advanced",
-          "description": "In recent formal semantic research, both sign language and co-speech gestures have been analyzed by applying the theories established for spoken languages to visual meaning aspects. Only little attention has been paid to modelling the specific properties of the visual transmission channel. However, it is now becoming evident that the formal linguistic repertoire needs to be extended to meet the modality-specific requirements of visual communication such as the higher degree of iconicity of gestures and signs, the systematic use of the body of the speaker or signer and the space in front of the body to express, for instance, logical variables, comparative constructions, tense, topographic relations or context shift and the option to demonstrate actions and events. In this class, we will discuss selected examples illustrating the expressive power of visible communication and discuss recent formal accounts that enhance the formal linguistic apparatus to develop formally precise theories that can deal with and model the semantics of visual and multimodal communication.",
-          "id": "2-15"
-        }
-      ],
-      [
-        {
-          "lecturer": "Timothée Bernard and Pascal Amsili",
-          "title": "Natural language syntax: parsing and complexity",
-          "group": "Foundational",
-          "description": "This course aims to provide an introduction to the fields of formal grammars and syntactic parsing, with a focus on their application to natural language. We introduce the concepts of formal language, formal grammar and automaton, and the notion of complexity reflected by the Chomsky-Schützenberger hierarchy. We present how natural language and popular syntactic formalisms fit into this picture. We review at length the evolution of parsing algorithms for natural language, from the classic chart-based paradigm to contemporary shift-reduce parsers, graph-based algorithms, and CCG parsing. We discuss the impact on the field of the advances in machine-learning and introduce some of the key aspects of neural-based parsers and in particular the use of the vector representations of linguistic units produced by language models.",
-          "id": "2-16"
-        },
-        {
-          "lecturer": "Martha Palmer and James Pustejovsky",
-          "title": "A Uniform Meaning Representation for NLP Systems",
-          "group": "Advanced",
-          "description": "Impressive progress has been made in many aspects of natural language processing (NLP) in recent years. Most notably, the achievements of transformer-based large language models such as ChatGPT would seem to obviate the need for any type of semantic representation beyond what can be encoded as contextualized word embeddings of surface text. Advances have been particularly notable in areas where large training data sets exist and it is advantageous to build an end-to-end training architecture without resorting to intermediate representations. For any truly interactive NLP applications, however, a more complete understanding of the information conveyed by each sentence is needed to advance the state of the art. Here \"understanding'' entails the use of some form of meaning representation. NLP techniques that can accurately capture the required elements of the meaning of each utterance in a formal representation are critical to making progress in these areas and have long been a central goal of the field.\nAs with end-to-end NLP applications, the dominant approach for deriving meaning representations from raw textual data is through the use of machine learning and appropriate training data. This allows the development of systems that can assign appropriate meaning representations to previously unseen sentences. Generating training data that represents meaning, however, is a very different undertaking from collecting human translated text or transcribed speech as it is not ``naturally occurring.'' It requires the development of a consensus on formal meaning representations that can be used by humans to annotate significant amounts of data for the sole purpose of training the machine learning algorithms.  This has been an elusive target because it is a delicate balancing act between a number of factors. It must provide fair and equal treatment for multiple languages, be intuitive enough to enable fast, consistent human annotation, and support the training of accurate, useful automatic modules that work well in downstream applications.  A meaning representation that strikes the right balance would solve one of the long-standing intellectual problems in the field and  have a transformative effect on NLP specifically, and on Artificial Intelligence in general.\nIn this course, we describe the framework of Uniform Meaning Representations (UMRs), a recent cross-lingual, multi-sentence incarnation of Abstract Meaning Representations (AMRs), that addresses these issues and comprises such a transformative representation. Incorporating Named Entity tagging, discourse relations, intra-sentential coreference, a partial treatment of negation and modality, and the popular PropBank-style predicate argument structures with semantic role labels, into a single directed acyclic graph structure,  UMR builds on AMR and keeps the essential characteristics of AMR while making it cross-lingual and extending it to a document-level representation.\nWe introduce the basic structural representation of UMR and describe its application to multiple languages. We present a formal semantic interpretation of UMR incorporating a continuation-based semantics for scope phenomena involving modality, negation, and quantification. We describe how UMR encodes TAM (Tense Aspect Modality) information in multiple languages. We describe parsing algorithms that generate AMR and UMR representations over multiple languages. Finally, we introduce an extension to UMR for encoding gesture in multimodal dialogue, Gesture AMR (GAMR), which aligns with speech-based UMR to account for situated grounding in dialogue.",
-          "id": "2-17",
-          "room": "P01"
-        }
-      ],
-      [
-        {
-          "lecturer": "Giulio Guerrieri",
-          "title": "The lambda-calculus: from simple types to non-idempotent intersection types",
+          "lecturer": "Friederike Moltmann",
+          "title": "Revisiting Event Semantics",
           "group": "Introductory",
-          "description": "The (pure, untyped) lambda-calculus is a Turing-complete model of computation, simply based on function abstraction and application using variable binding and substitution. Thanks to thesimplicity of the formal system, it is well suited for theoretical investigations in mathematical logic, categorical theory, computability and even complexity. On the other hand, the lambda-calculus is at the core of many functional programming languages (such as LISP, Haskell, OCaml) and proof-assistants (such as Coq and Agda).\nThere are many variants of the lambda-calculus where functions can be applied only if they are capable of accepting the given input's \"type\" of data. Typed lambda-calculi are weaker than the untyped lambda calculus, in the sense that the former can express less than the latter can, but on the other hand typed lambda-calculi can only represent \"well-behaved\" programs, in that \"well-typed programs cannot go wrong\" (R. Milner).\nIn this course we investigate two typed versions of the lambda-calculus. The first one is the simply typed lambda-calculus, which is the computational counterpart--via Curry-Howard correspondence--of natural deduction for intuitionistic propositional logic. We will show that there every evaluation strategy terminates (strong normalization) for every simply typed lambda-term, but the type system is too restrictive because there are \"well-behaved\" programs that cannot be represented there.\nThe second typed variant of the lambda-calculus we will study is the one endowed with a non-idempotent intersection type system. Such a type system increase the typability power of simple types by introducing a new intersection type constructor ∧, which commutative, associative and non-idempotent (A ∧ A is not equivalent to A). The intuition is that term of type A ∧ A ∧ B can be seen as a resource that, during execution, can be used once as a data of type B and twice as a data of type A. Non-idempotent intersection types constitute a powerful tool to reason about qualitative semantic properties of programs: we will show that they characterize different notions of termination in the lambda-calculus, for different notions of evaluation. In this respect, non-idempotent intersection types are able to capture all and only the \"well-behaved\" programs, if we assume that a \"good behavior\" is the fact that evaluation terminates. Moreover, they not only provide qualitative characterization of operational properties, but also quantitative ones, in the sense that any type derivation of a term gives a bound to the execution time for that term (the number of steps to reach a normal form).",
-          "id": "2-18",
-          "room": "P22",
-          "website": "https://pageperso.lis-lab.fr/~giulio.guerrieri/ESSLLI2023.html",
-          "course-material": [
-            {"title": "Course website", "link": "https://pageperso.lis-lab.fr/~giulio.guerrieri/ESSLLI2023.html"}
-          ]
-        },
-        {
-          "lecturer": "Anupam Das",
-          "title": "Proof theory of arithmetic",
-          "group": "Advanced",
-          "description": "This course will introduce students to the fundamentals of the proof theory of arithmetic. We shall assume some previous familiarity with basic proof theory, but will go further to show how to apply these techniques in order to obtain metalogical results of profound importance at the interface between logic and computation. Namely, we shall present a seminal consistency proof of PA via (ordinal-assigned) infinitary cut-elimination, and following on from that derive the famous classification of PA's provably total recursive functions by ordinal recursion. The course will conclude by surveying other consistency proofs and classifications of PA's provably total recursive functions, namely via Goedel's T, a higher-typed of primitive recursion, as well as the adaptation of these results to important fragments and extensions of PA.",
-          "id": "2-19",
-          "website": "https://www.anupamdas.com/esslli23/"
+          "description": "The semantics of events has become a central topic in contemporary semantics as well as syntax ever since the seminal 1967 paper of Donald Davidson caught the interest of linguists. This course will give an overview of the latest developments of Davidsonian and Neo-Davidsonian event semantics and its syntactic representation and address severel important challenges to it that have received little attention. These include the notion of an abstract (or 'Kimean') state, the distinction between events and acts, the apparent categorization of verbs as event predicates as mass rather than dividing into mass and count, cartographic theory of adverbial modification and their linguistic motivations, and implications of theories of syntactic decomposition of verbs into light verb-noun complexes for event semantics. New theoretical proposal will be presented to address those challenges.",
+          "id": "18"
         }
       ],
       [
         {
-          "lecturer": "Michael Moortgat and Mehrnoosh Sadrzadeh",
-          "title": "Modalities in substructural logics: Applications at the interfaces of logic, language and computation (Monday and Tuesday only)",
+          "lecturer": "Agnieszka Faleńska and Filip Miletić",
+          "title": "Language in Social Context: Bridging NLP and Sociolinguistics",
+          "group": "Introductory",
+          "description": "This course explores the relationship between language and society by drawing on complementary perspectives from sociolinguistics and natural language processing. It discusses variation in language use in connection with (i) speakers’ sociodemographic properties such as age, gender, and socioeconomic status; (ii) speakers’ patterns of interaction; and (iii) the social meaning conveyed through the use of different linguistic variants. In bringing together NLP and sociolinguistics, we aim to establish a comparable level of depth across the disciplines. For students already acquainted with fundamental computational linguistics, the course will provide insights into the richness of language when viewed within a broader social context. For students with a background in sociolinguistics, we will present examples of various computational techniques that can be used to analyze linguistic variation. Students with previous experience in programming will be able to run the practical exercises independently and engage with different types of attested linguistic data.",
+          "id": "10"
+        }
+      ],
+      [
+        {
+          "lecturer": "Eric Pacuit",
+          "title": "Neighborhood Semantics for Modal Logic",
+          "group": "Advanced",
+          "description": "Neighborhood models are generalizations of the standard relational models for modal logic invented independently by Dana Scott and Richard Montague in 1970. These models provide a simple semantics for many interesting non-normal modal logics, such as Coalitional Logic, Game Logic, and weak logics of beliefs. This course will introduce the basic techniques and results of neighborhood semantics for modal logic and explain the exact relationship between the standard relational semantics and neighborhood semantics for modal logics. The main objective is to demonstrate precisely where neighborhood models fit within the large family of semantic frameworks for modal logic and discuss both the pitfalls and potential uses of neighborhood models.",
+          "id": "33",
+          "website": "https://pacuit.org/esslli2024/neighborhood-semantics/"
+        },
+      ],
+      [
+        {
+          "lecturer": "Louis Rouillé",
+          "title": "Semantic foundations for narratology",
           "group": "Workshop",
-          "website": "https://sites.google.com/view/esslli2023course/workshop",
-          "id": "2-13"
+          "description": "Many of us think that Kendall Walton’s general theory of make-believe is the best available framework for theorising about fictional discourse. In this framework, modeling truth, reference and speech-acts in fiction starts from this idea that fictional texts are best construed as props in a game of make-believe. within this “functionalist” framework, an adequate semantic analysis of fictional discourse typically requires deploying a narrative element: on top of the representation of a storyworld, one needs a specific narrator-narrative-narratee structure. The semantics of fiction thus leads to narratology. We will look at how semantics and narratology do and should interact when it comes to modeling fictional discourse: first, investigating recent, controversial notions from the semantics of fiction which have a narratological flavour (esp. the fictional periphery, narrator-less fictions, the real-world vs. in-universe perspectives); second, looking at some recent advances in narratology explicitly raising foundational issues (esp. models for second-person narratives, metanarrative fictions).",
+          "id": "7"
         }
       ]
     ]
@@ -531,61 +480,53 @@ week2 = [
     "groups": [
       [
         {
-          "lecturer": "Zhaohui Luo",
-          "title": "Advanced Topics in Formal Semantics Based on Modern Type Theories",
+          "lecturer": "Edoardo Rivello",
+          "title": "Semantic theories of truth",
+          "group": "Introductory",
+          "description": "This course is an introduction to semantic theories of truth, a composite and currently active area within the more general field of research on truth and semantic paradoxes. Semantic theories of truth address by mathematical means several problems raised in logic and philosophy of language by the semantic paradoxes by focusing on the semantic aspect of the issue, namely, on the goal of finding the correct interpretation to be given to the predicate ‘true’ both in natural and in formalised languages. Each lecture will focus on a “truth-theoretic puzzle”, namely, on an example of use of the word ‘true’ raising some problem for a semantic theory. Each puzzle will be examined both in natural language and in its mathematical version, giving the opportunity of introducing one of the contemporary formal approaches to truth as a way of answering the challenge issued by the puzzle.",
+          "id": "48",
+        },
+      ],
+      [
+        {
+          "lecturer": "Kyle Richardson and Gijs Wijnholds",
+          "title": "Language model programming: paradigms, techniques and applications",
           "group": "Advanced",
-          "description": "Formal semantics based on modern type theories (MTT-semantics) provides us with not only a viable alternative to Montague’s semantics, but potentially an attractive full-blown semantic tool with advantages in many respects. However, the salient features of MTT-semantics may only be discussed properly when more advanced semantic topics are considered. For example, people may ask: how does it fare with semantic issues such as events and anaphoric reference, and could it offer a good treatment of intriguing linguistic features such as copredication? In the past, some of these advanced issues have only been dealt with briefly [1], but more recently they have been studied more in depth in the proposer’s monograph [2]. In this course, after an overview introduction, I shall consider the following topics in MTT-semantics: event semantics, anaphoric references, copredication and dependent categorial grammars. I’ll also compare the treatments with those studied in the Montagovian approach and discuss their respective merits.\n[1] S. Chatzikyriakidis and Z. Luo. Formal Semantics in Modern Type Theories. Wiley/ISTE, 2020. \n[2] Z. Luo. Modern Type Theories: Their Development and Applications. Tsinghua University Press, 2022. In press.",
-          "id": "2-20",
-          "course-material": [
-            {"title": "Course proposal", "link": "https://2023.esslli.eu/images/2023/documents/Formal-Semantics/ESSLLI23proposal.pdf"},
-            {"title": "Slides for Lecture I", "link": "https://2023.esslli.eu/images/2023/documents/Formal-Semantics/ESSLLI23slidesL1.pdf"},
-            {"title": "Slides for all 5 lectures", "link": "https://www.cs.rhul.ac.uk/home/zhaohui/lecture-notes.html"},
-            {"title": "Papers/books on MTT-semantics", "link": "https://www.cs.rhul.ac.uk/home/zhaohui/lexsem.html"}
-          ]
+          "description": "Language model programming is the attempt to relate large language model (LLM) development to conventional programming. Making a direct connection between programming and LLM development allows one to bring more rigor to current techniques in NLP (e.g., by exploiting known concepts from programming language theory), and can even motivate the development of new programming languages that make LLM development easier, safer and more efficient. This course reviews the literature on language model programming, starting from advanced prompting techniques in NLP to recent attempts in the programming language literature to build novel programming frameworks for LLMs. We then discuss and motivate alternative paradigms such as declarative model programming and probabilistic programming (based instead on tools such as logic and probabilistic inference). The course gives participants an understanding of the relevant literature, focusing especially on applications such as constrained decoding, interfacing LLMs with tools and model alignment.",
+          "id": "47",
         },
         {
-          "lecturer": "Patrick Elliott and Lisa Hofmann",
-          "title": "Explaining anaphoric accessibility: navigating non-veridical environments in dynamic semantics",
-          "group": "Advanced",
-          "description": "Classical dynamic accounts of anaphora rely on logical operators arbitrarily manipulating anaphoric information. Alongside conceptual concerns of explanatory (in)adequacy, classical accounts are known to make poor empirical predictions for non-veridical environments (see, e.g., Roberts 1987, Krahmer and Muskens 1995). In this course, we motivate an alternative approach, which treats logical operators as fundamentally truth-functional. In the first half of the course, we explore an approach to anaphora based on the Strong Kleene account of presupposition projection. The initial goal will be to derive and improve upon Groenendijk & Stokhof's (1991) accessibility generalizations, with a particular focus on negation and disjunction. The latter half of the course zooms in on counterfactual content: The initial Strong Kleene account fails to capture key constraints on the (anti)veridicality of anaphorically active content. We revise the account by intensionalizing discourse referents, which are in turn interpreted relative to both a local and a global intensional context.",
-          "id": "2-21"
+          "lecturer": "Luis Estrada-González",
+          "title": "Recent work on paraconsistent logic",
+          "group": "Introductory",
+          "description": "Paraconsistent logic is a family of theories on what can be logically concluded from contradictions, different from the family of theories according to which contradictions entail everything. By touching on core areas of theoretical inquiry, such as truth, falsity, logicality, negation, or rationality, paraconsistent logic has opened new research directions in philosophy, science, and technology. This is an introductory course to some of the most important work on paraconsistent logic from the last decade. I start by exploring two proposals for refining the notion of paraconsistent logic, because the mere failure of Ex Contradictione Quodlibet (ECQ) –that everything follows from a contradiction– might not be sufficient to characterize a paraconsistent logic. The first proposal consists of demanding a pronouncement about the law of non-contradiction (LNC) as well, as apparently there is some tension in rejecting ECQ but accepting LNC. The second proposal asks for considering the appropriate versions of ECQ when meta-arguments –i.e. arguments between arguments– are involved. No matter how paraconsistent logics are presented or defined, they typically lack validities that seem at least useful, if not necessary, for reasoning in general. Thus, some techniques to recover the validities lost in a paraconsistent logic are presented, paying special attention to using unary recover operators to express within the language that a proposition is consistent or inconsistent. Finally, less shy paraconsistent attitudes are presented, namely those leading to logics validating contradictions (and perhaps other classically false or contingent schemas) and the program of doing inconsistent mathematics without any intention of recovering classically valid results if they happen to fail. Suitable motivations and examples of these two latter approaches will be presented.",
+          "id": "32"
         }
       ],
       [
         {
-          "lecturer": "Tim Van de Cruys",
-          "title": "Computational Creativity",
+          "lecturer": "Lorenz Demey and Hans Smessaert",
+          "title": "Introduction to Logical Geometry",
           "group": "Introductory",
-          "description": "This course provides an introduction to the field of computational creativity. We will examine different approaches to the computational modeling of creativity, and see how they relate to theories of human creativity. The course focuses primarily on computational creativity from a language-oriented perspective. As such, we will examine different applications of creative language generation (such as metaphor, humor, neologisms, poetry, and stories) from a computational perspective. Additionally, cross-modal and multi-modal approaches to computational creativity will be explored. Along the way, we will discuss a number of crucial topics, such as the preconditions of computational creativity, the evaluation of computationally creative systems, and the ethical implications.",
-          "id": "2-22",
-          "room": "P22"
+          "description": "Aristotelian diagrams, such as the square of opposition, have a rich history in philosophical logic, and today they are also widely used in other disciplines, such as linguistics and computer science. In recent years, these diagrams have also begun to be studied as objects of independent logical and diagrammatic interest, giving rise to the burgeoning field of logical geometry. This course will (i) give students a sense of the wide and interdisciplinary range of (sometimes unexpected) applications of Aristotelian diagrams, (ii) discuss some of the fundamental logical and diagrammatic issues related to these diagrams, and (iii) introduce the methods and tools developed in logical geometry for studying these topics. In particular, we will deal with applications such as Russell's theory of definite descriptions and the Region Connection Calculus, logical and diagrammatic issues such as logic-sensitivity and informational optimality of Aristotelian diagrams, and methods such as bitstring semantics.",
+          "id": "3"
         },
         {
-          "lecturer": "Fausto Carcassi and Michael Franke",
-          "title": "The probabilistic Language of Thought",
+          "lecturer": "Valentin Goranko",
+          "title": "Logics for strategic reasoning about rational agents in social context",
           "group": "Advanced",
-          "description": "Computational modeling of cognition is at the heart of cognitive science. However, our most developed and expensive models, artificial neural networks, struggle to match some striking human skills: few- or zero-shot learning (figuring out a rule from few examples) and manipulating compositionally structured representations and symbols with a rich logical structure. This course focuses on a promising framework to model these human cognitive skills: the probabilistic Language of Thought (LoT). We will start with the philosophical underpinnings of the program in the work of Jerry Fodor. Then, we will discuss recent developments, combining the LoT with probabilistic approaches to learning to develop models of category acquisition across a variety of conceptual domains. This will require a discussion of several technical tools (formal grammars, compositional semantics, Bayesian inference). Finally, we will look at recent promising developments in the field (neurosymbolic learning, the child as a hacker).",
-          "id": "2-23"
+          "description": "This course is intended for a broad audience with basic knowledge of modal and temporal logics. It will first introduce and discuss some important and popular logics for unconditional strategic reasoning in multi-agent systems. Then it will focus on some recently developed refined and richer systems of such logics, where the agents’ strategic abilities are considered in the ‘social context’ of all agents, with their objectives, abilities to act, and ‘social attitudes’ (incl. inclination to cooperate or not with the others), as well as on their knowledge or beliefs about that social context. These will be considered under various assumptions: with complete, incomplete, or imperfect information; with no memory, bounded or unbounded memory of the agents; with dynamically changing social contexts, etc. Formal logical systems and some technical results about them will be outlined in the course and several unexplored directions for further research and open problems will be mentioned. ",
+          "id": "21",
+          "website": "https://www2.philosophy.su.se/goranko/Courses2024/ESSLLI2024_LogicsForStrategicReasoning.html"
         }
       ],
       [
         {
-          "lecturer": "Louwe B. Kuijer",
-          "title": "Conditional logics of preference: how to make the best choice",
-          "group": "Introductory",
-          "description": "This course is about preference structures. These are versatile models, consisting of a set of alternatives and a relation, denoted <, between them that indicates \"betterness\" or \"preference\" of some kind. The versatility comes from the fact that preferences, and the alternatives that they rank, can mean many things in different contexts.\nThe most straightforward meaning is if < represents a utility comparison of an agent, e.g., \"coffee < tea\". But < could also represent a plausibility ordering (more plausible is \"better\"), a defeat relation among strategies (\"scissors < rock\"), et cetera. By studying preference structure we can improve our understanding of all these different interpretations of <.\nWe will study these structures through the vehicle of conditional logics. These logics have an operator B(p|q), with the meaning that \"if q holds, then p is the best choice\". In particular, we will investigate how B(p|q) depends on assumptions about <.",
-          "id": "2-24"
-        },
-        {
-          "lecturer": "Fan Yang",
-          "title": "Logics of dependence and independence",
-          "group": "Advanced",
-          "description": "This course provides a concise introduction to logics of dependence and independence (DIL), which are  formalisms for reasoning about dependence and independence relations in sciences. We will study the novel semantics of DIL -- team semantics. The basic idea of team semantics is that dependency properties can only manifest themselves in multitudes, and thus formulas of DIL are evaluated on sets of assignments (called teams) instead of single assignments as in the usual Tarskian semantics. A team can be naturally viewed as a database, a dataset, an information state, etc. Thanks to the simple structure of teams and the abundance of their interpretations in various fields of science, DIL have found a number of applications in addressing issues in database theory, social choice, quantum theory, formal linguistics, and so on. This course will also discuss recent developments on these applications.",
-          "id": "2-25",
-          "course-material": [
-            {"title": "Course website", "link": "https://sites.google.com/view/dil-esslli23/"}
-          ],
-          "website": "https://sites.google.com/view/dil-esslli23/"
+          "lecturer": "Alexander Gheorghiu and Tao Gu",
+          "title": "Symposium on Proof-theoretic Semantics",
+          "group": "Workshop",
+          "description": "Proof-theoretic Semantics (P-tS) is a rapidly developing, novel approach to meaning in logic. It is based on the principle that the meaning of expressions in our language, in particular to logical constants, is that of 'proof' (rather than 'truth'). The Symposium on Proof-theoretic Semantics aims to expose the field to a wider community of researchers. It provides novel perspectives on the relationship between proof theory and semantics in logic. In particular, this workshop is suitable for researchers interested in proof systems for logics, systems and tools for evaluation, and the use of logic for reasoning --- both formally in systems verification and modelling, symbolic artificial intelligence, etc., and informally in conceptional frameworks supporting the deployment of logic in mathematics, informatics, and philosophy.",
+          "id": "7"
         }
       ]
     ]
