@@ -156,7 +156,7 @@ week1 = [
           "title": "Games Logicians Play",
           "group": "Advanced",
           "description": "This course will introduce, discuss and illustrate with examples the most important games in logic, including: dialogue argumentation games, evaluation games, model building games, and model comparison games. These games can be used for model checking, constructive satisfiability testing, to characterize logical equivalences of models, and to prove non-definability results. Optionally, I will also introduce and discuss game-theoretic semantics with incomplete information for logical languages.",
-          "website": "Course webpage can be found at https://www2.philosophy.su.se/goranko/Courses2024/ESSLLI2024_GamesLogiciansPlay.html"
+          "website": "Course webpage can be found at https://www2.philosophy.su.se/goranko/Courses2024/ESSLLI2024_GamesLogiciansPlay.html",
           "id": "1-11"
         }
       ],
