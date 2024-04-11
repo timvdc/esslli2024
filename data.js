@@ -113,63 +113,61 @@ week1 = [
     "groups": [
       [
         {
-          "lecturer": "Salvatore Florio and Carlo Nicolai",
-          "title": "Formal Theories of Properties",
+          "lecturer": "Dan Zeman",
+          "title": "	The Semantics and Pragmatics of Slurs",
           "group": "Introductory",
-          "description": "This course is an introduction to formal theories of properties, where these include propositions as well as relations. We motivate the foundational importance of properties across disciplines and the need for formal models. We then review different ways of developing formal theories of properties, corresponding to different logical and metaphysical choices. Finally, we assess the costs and benefits of various theories. Our discussion includes a survey of classic contributions as well as recent developments in the area.",
+          "description": "Whether we like it or not, “bad words” are ubiquitous in natural language. While using such words has sometimes no significant effects, in many cases their use can produce real harm, by denigrating, silencing, and marginalizing the people they target. Slurs are one such type of “bad words”. Most researchers agree that the main function of slurs is that of derogating or dehumanizing, of signalling that their targets are unworthy of equal standing or full respect as persons. Figuring out how slurs achieve their main function is an important topic in contemporary philosophy of language and linguistics. In this introductory course, my aim is to present the main characteristics of slurs and their uses (not limited to derogation), explore the main views on their semantics and pragmatics, and show how they are connected to larger social phenomena like power structures and communal identities.",
           "id": "1-6"
         },
         {
-          "lecturer": "Giuseppe Sanfilippo",
-          "title": "Logical Operations Among Conditionals as Conditional Random Quantities",
-          "group": "Advanced",
-          "description": "Giuseppe Sanfilippo Abstract\nIn the subjectivistic theory, the probability P(E) measure the degree of belief on E being true. The consistency of the probability assessments is guaranteed by a coherence principle. All basic probabilistic properties follow from coherence. A large number of philosophers and psychologists assume valid that the probability of a natural language conditional, P(if H then A), coincides with the conditional subjective probability P(A|H) of the conditional event A|H. Usually, a conditional event is looked at as a three-valued object and compound conditionals have been defined in trivalent logics. We verify that none of these logics satisfies all the basic probabilistic properties valid for unconditional events. Then, we consider an approach to compound conditionals in the setting of conditional random quantities. We verify that all the basic logical and probabilistic properties are preserved and  we illustrate applications to the psychology of uncertain reasoning, to connexive logic and to non-monotonic reasoning.",
+          "lecturer": "Cameron Domenico Kirk-Giannini and Henry Schiller",
+          "title": "Speech Acts: Dynamic Force and Conversational Update",
+          "group": "Introductory",
+          "description": "Stalnaker’s theory of the dynamic effect of assertion treats assertoric updates as intersective functions from one context to another. For Stalnaker, this is the characteristic way in which assertion changes the state of a conversation: its dynamic force. This course will introduce students to work in formal pragmatics on the dynamic force of various speech acts. We’ll begin with an introduction to speech act theory and discourse context, and then introduce Stalnaker’s theory of assertion as well as some challenges to that theory. The next part of the course will consider formal theories of directives and questions. In this section, our aim will be to assess whether we can account for the dynamic effects of these speech acts while remaining within the Stalnakerian model — and if not, how else we might account for those effects. Finally, we’ll turn our attention to topics that push the boundaries of traditional theories of formal pragmatics, such as felicitous underspecification and peripheral content.",
           "id": "1-7"
         }
       ],
       [
         {
-          "lecturer": "Kata Balogh and Simon Petitjean",
-          "title": "Tree-Adjoining Grammars: Theory and implementation",
+          "lecturer": "Mark Steedman",
+          "title": "Categorial Foundations of Natural Language Structures",
           "group": "Introductory",
-          "description": "This course provides an introduction into the Tree-Adjoining Grammar (TAG) formalism, in particular Lexicalized Tree-Adjoining Grammar (LTAG), together with grammar implementations and tools for parsing with TAG: XMG and TuLiPA. During the course we will show the importance of TAG and related formalisms in computational linguistics, providing syntactic and semantic analyses of different linguistic phenomena, as well as introducing implementations that show the adequacy of the formalism for natural language analysis.",
+          "description": "The course analyses the problem of natural language structure, as characterized by language diversity, requirements of language acquisition by children, extreme ambiguity, and discontinuity (where elements that seem to belong together semantically are separated in the sentence), in terms of an extension of classical Categorial Grammar. The problem will be analyzed in its own right and from the ground up, without any specifically linguistic theoretical assumptions. However, along the way, links to various existing linguistic and computational theories of language will be established, as needed by the students.",
           "id": "1-8"
         },
         {
-          "lecturer": "Enrica Troiano and Valerio Basile",
-          "title": "Data Perspectivism in Computational Linguistics",
-          "group": "Advanced",
-          "description": "The creation of resources for Natural Language Processing (NLP) typically involves human participants. Presented with some verbal material, independent annotators express their personal understanding of a given linguistic phenomenon. The judgments they provide often have tremendous internal variability: language is ambiguous, and its comprehension subjective, in such a way that multiple interpretations can hold for the same piece of data. In this light, putting into sharp focus how to deal with annotation disagreements is of paramount importance for any data collection activity, to clarify when humans' divergent views affect the quality of the final resource or rather represent different (yet all legitimate) text understanding perspectives.\nThis course will introduce students to the \"perspectivist\" approach to data collection, i.e., one that embraces the diversity of human annotations. It will cover potential sources of disagreement to consider when designing annotation schemes, strategies to evaluate the quality of data in a perspectivist framework, as well as methods to make use of disagreements for learning automatic models.",
+          "lecturer": "Andreas Liesenfeld and Mark Dingemanse",
+          "title": "Introduction to Conversational AI",
+          "group": "Foundational",
+          "description": "Conversations come naturally to us. While we humans learn language through conversation, interactive language use is arguably the holy grail of speech and language processing. With large language modelling (LLM) approaches, progress was made towards building more interactive agents. Yet, modelling human-like conversational AI remains a moonshot. This foundational course delves into why modelling conversational competence is so challenging. It also takes stock of recent engineering breakthroughs in building conversational AI systems using instruction-tuned LLM models such as ChatGPT, Llama or Mistral. Students will learn the basics of interactive language modelling and explore the scientific and theoretical foundations of understanding structure and variation in conversational speech data in hands-on tutorials. We will work through recent empirical and computational work on speech corpora, speech recognition, and technology assessment. Aspects of conversational infrastructure covered include turn-taking, interactive repair, and action ascription. We conclude by touching upon societal and ethical issues that emerge alongside the rise of conversational AI. This course might appeal to anyone interested in recent approaches to conversational AI and understanding why talking machines still struggle to hold up their end of a conversation. Some experience working with Python and Jupyter notebook required.",
           "id": "1-9",
-          "room": "P01"
         }
       ],
       [
         {
-          "lecturer": "Francesca Poggiolesi",
-          "title": "Proofs and explanations",
-          "group": "Introductory",
-          "description": "Amongst the several types of existing explanations, in the last decade philosophers have become receptive to the so called non causal or conceptual explanations. Conceptual explanations do not derive their explanatory power from a network of causal relations, but rather from a network of conceptual relations. Thus, conceptual explanations are prime facie a natural object for logical analysis. A rising amount of work has been dedicated to the application of proof-theoretical methods to formalise the notion of conceptual explanation: this work not only combines well-known proof-theoretic techniques, such as cut-elimination or normalization, with a deep philosophical analysis, but also it has introduced in logic the notion of explanation, a notion which has been so far largely neglected. The goal of this course is to make the student acquainted with the notion of conceptual explanation together with the proof-theoretic method used for its formalization.",
+          "lecturer": "Mikhail Rybakov and Dmitry Shkatov",
+          "title": "Computational aspects of first-order modal logics",
+          "group": "Advanced",
+          "description": "The course will introduce students to computational aspects of first-order modal logics. The course will contain a brief, self-contained introduction to first-order modal logics and then will cover the most important techniques for proving decidability, undecidability, and lack of recursive enumerability for first-order modal logics and their fragments. The course is intended for a broad audience of graduate students interested in modal reasoning and its computational aspects. This includes students of logic, philosophy, computer science, linguistics, and mathematics. The course will assume a basic familiarity with the classical first-order logic and with Kripke semantics for propositional modal logics.",
           "id": "1-10",
-          "room": "P22"
         },
         {
-          "lecturer": "Alessio Mansutti and Christoph Haase",
-          "title": "Linear arithmetic theories: algorithms and applications",
+          "lecturer": "Valentin Goranko",
+          "title": "Games Logicians Play",
           "group": "Advanced",
-          "description": "Arithmetic theories are logical theories for reasoning about number systems. They find several applications across computer science, including in verification, AI and compiler op- timisation. The foundations of arithmetic theories lie at the interface of logic, geometry and automata theory.\nThis course is an introduction to linear arithmetic theories, with an emphasis on Pres- burger arithmetic, the first-order theory of the integers with addition and order. We start by exploring the subject bottom up, introducing linear arithmetic theories with problems coming from optimisation and AI. Subsequently, we cover classic algorithms for linear and integer programming. The last three lectures focus on three algorithmic paradigms to decide Presburger arithmetic based on quantifier elimination, finite-state automata, and geometric decision procedures. We emphasise differences between these techniques by studying exten- sions of Presburger arithmetic that can be tackled in a natural way only within one of the three. We also demonstrate software offering support for these paradigms: RedLog (quan- tifier elimination), Walnut (finite-state automata), and SageMath (geometric procedures",
+          "description": "This course will introduce, discuss and illustrate with examples the most important games in logic, including: dialogue argumentation games, evaluation games, model building games, and model comparison games. These games can be used for model checking, constructive satisfiability testing, to characterize logical equivalences of models, and to prove non-definability results. Optionally, I will also introduce and discuss game-theoretic semantics with incomplete information for logical languages.",
+          "website": "Course webpage can be found at https://www2.philosophy.su.se/goranko/Courses2024/ESSLLI2024_GamesLogiciansPlay.html"
           "id": "1-11"
         }
       ],
       [
         {
-          "lecturer": "Milica Denić",
-          "title": "Workshop on Internal and external pressures shaping language",
+          "lecturer": "Carla Umbach and Yael Greenberg",
+          "title": "Incremental constructions within and across languages: Where degrees, eventualities and discourse dynamics interact",
           "group": "Workshop",
-          "website": "https://sites.google.com/view/iepsl-esslli2023workshop/",
-          "description": "Human languages vary in their phonology, morphosyntax and semantics, but there are important constraints on this variation. What explains these typological similarities and differences across languages? Recent work has combined tools from linguistics, cognitive psychology and computer science to address this question. In addition to empirical discoveries, this has led to novel hypotheses for how similarities and differences are to be accounted for, invoking internal (e.g. cognitive) and/or external (e.g. communicative, historical, geographical) pressures on language structure. The aims of the workshop are two-fold: (i) expand the knowledge of different internal and external pressures on language, and how they explain cross-linguistic similarities and differences in different aspects of language structure, (ii) invite a critical discussion of implications of this work for the study of human cognition more generally.",
+          "website": "placeholder",
+          "description": "Incrementality ('adding up to a larger whole', König 1991) can be expressed by English 'more' (1), German 'noch/mehr', Hebrew 'od', Mandarin 'hai' etc. (1) Some/3 kids sang at the party. Then some/3 more kids danced. While studies of individual incremental constructions (INCRs) exist, there are still many gaps in their understanding. This workshop aims to fill such gaps (A) by studying how INCRs syntactically and semantically vary, both across and within languages, and (B) by trying to integrate insights from two approaches to incrementality, which thus far have not interacted: Degree-based approaches (e.g. Greenberg 2010, Thomas 2011), taking INCRs to express additive measurements of eventualities, and discourse-based approaches (e.g. Eckardt 2007, Umbach 2012, Grubic 2018) taking INCRs to be focus/QUD-sensitive, managing the growth of information along discourse-salient dimensions (e.g. event/discourse time). The topic of this workshop is closely related to that of the Week 1 course on 'Scalarity and Additivity in Natural Language'. Course participants are welcome.",
           "id": "1-12",
-          "room": "P20"
         }
       ]
     ]
