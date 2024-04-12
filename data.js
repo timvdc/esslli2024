@@ -6,7 +6,7 @@ evening_lecturers = [
         "group": "Evening",
         "description": "TBD",
         "id": "evening1",
-        "date": "2023-07-30",
+        "date": "2024-07-30",
         "time": "19:00-20:30",
 
     /*
