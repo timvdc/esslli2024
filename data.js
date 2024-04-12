@@ -1,49 +1,51 @@
 evening_lecturers = [
   {
-    "lecturer": "Marko Robnik Šikonja",
-    "title": "Large language models for cross-lingual transfer",
-    "group": "Evening",
-    "description": "Currently, the most successful approach to natural language processing is based on large pretrained language models using the transformer architecture of neural networks. These are typically pretrained on huge text corpora on the tasks of predicting next tokens or masked tokens. While most existing models are predominantly monolingual, multilingual variants also exist and can help in cross-lingual transfer of knowledge and models. We will present a few types of large language models, focusing on cross-lingual transfer. We will show their strengths and weaknesses in text classification, summarization, and question answering.",
-    "id": "evening1",
-    "date": "2023-08-01",
-    "time": "19:00-20:30",
-    "room": "PA",
-    "moderator": "Slavko Žitnik",
-    "website": "https://fri.uni-lj.si/en/about-faculty/employees/marko-robnik-sikonja"
-  },{
-    "lecturer": "Malvina Nissim",
-    "title": "Language Technology <preposition> Society",
-    "group": "Evening",
-    "description": "The recognition of society’s role in language technology has become essential and cannot be overlooked. Still, plenty of research in Natural Language Processing does not explicitly account for such interplay. This evening lecture will zoom in on precisely this aspect. “Precisely” is an ambitious term, since the very definition of the relationship between language technology and society is subject to multiple interpretations, both in the context of scientific research as well as in connection with the general public, who currently is very much exposed to, interested in, and involved with language-based artificial intelligence tools. Through recent work I’ve carried out with my group, and through personal reflections, I will unpack this exciting relationship from different angles.",
-    "id": "evening2",
-    "date": "2023-08-03",
-    "time": "19:00-21:00",
-    "room": "PA",
-    "moderator": "Valerio Basile",
-    "website": "https://malvinanissim.github.io/"
-  },{
-    "lecturer": "Beniamino Accattoli",
-    "title": "The Cost of the lambda Calculus and the Semantics of Sharing",
-    "group": "Evening",
-    "description": "The lambda calculus is an expressive mathematical formalism that elegantly captures the core of functional programming languages, while providing at the same time compact representations of intuitionistic logic proofs.\nThe first part of the talk shall survey the recent advances in the study of reasonable cost models for the lambda calculus, that is, of time and space cost measures that are equivalent to those of Turing machines. In particular, it shall overview how understanding the role of sharing in the evaluation process is crucial for both time and space, but for opposite reasons.\nThe second part of the talk shall show that extending the lambda calculus with first-class sharing is not a minor extension, as crucial semantic properties and results break, and new tools and richer theories need to be developed.",
-    "id": "evening3",
-    "date": "2023-08-08",
-    "time": "19:00-20:30",
-    "room": "PA",
-    "moderator": "Valentin Goranko",
-    "website": "https://sites.google.com/site/beniaminoaccattoli/"
-  },{
-    "lecturer": "Darja Fišer",
-    "title": "The Good, the Bad and the Ugly of Language Technology Infrastructure",
-    "group": "Evening",
-    "description": "Advances in digitization and datafication have been transformative for linguistics and other disciplines that work with language materials. This has increased the need for research infrastructures that supports the development, documentation, archiving, dissemination, reuse and citation of language resources and tools which is prerequisite for verifiable, reproducible and ethical research. Still, the potential of research infrastructures in language technology remains undervalued and underutilised in the real world of language-based research and education. Based on the work conducted within my research group as well as through personal observations, I will address the good, the bad and the ugly aspects of adopting the research infrastructure principles that is built around the Open Science and FAIR data paradigm.",
-    "id": "evening4",
-    "date": "2023-08-10",
-    "time": "19:00-21:00",
-    "room": "PA",
-    "moderator": "John McCrae",
-    "website": "https://www.inz.si/en/Scientific-research-department/Darja-Fiser_en/"
-  }
+    /*
+        "lecturer": "Marko Robnik Šikonja",
+        "title": "Large language models for cross-lingual transfer",
+        "group": "Evening",
+        "description": "Currently, the most successful approach to natural language processing is based on large pretrained language models using the transformer architecture of neural networks. These are typically pretrained on huge text corpora on the tasks of predicting next tokens or masked tokens. While most existing models are predominantly monolingual, multilingual variants also exist and can help in cross-lingual transfer of knowledge and models. We will present a few types of large language models, focusing on cross-lingual transfer. We will show their strengths and weaknesses in text classification, summarization, and question answering.",
+        "id": "evening1",
+        "date": "2023-08-01",
+        "time": "19:00-20:30",
+        "room": "PA",
+        "moderator": "Slavko Žitnik",
+        "website": "https://fri.uni-lj.si/en/about-faculty/employees/marko-robnik-sikonja"
+      },{
+        "lecturer": "Malvina Nissim",
+        "title": "Language Technology <preposition> Society",
+        "group": "Evening",
+        "description": "The recognition of society’s role in language technology has become essential and cannot be overlooked. Still, plenty of research in Natural Language Processing does not explicitly account for such interplay. This evening lecture will zoom in on precisely this aspect. “Precisely” is an ambitious term, since the very definition of the relationship between language technology and society is subject to multiple interpretations, both in the context of scientific research as well as in connection with the general public, who currently is very much exposed to, interested in, and involved with language-based artificial intelligence tools. Through recent work I’ve carried out with my group, and through personal reflections, I will unpack this exciting relationship from different angles.",
+        "id": "evening2",
+        "date": "2023-08-03",
+        "time": "19:00-21:00",
+        "room": "PA",
+        "moderator": "Valerio Basile",
+        "website": "https://malvinanissim.github.io/"
+      },{
+        "lecturer": "Beniamino Accattoli",
+        "title": "The Cost of the lambda Calculus and the Semantics of Sharing",
+        "group": "Evening",
+        "description": "The lambda calculus is an expressive mathematical formalism that elegantly captures the core of functional programming languages, while providing at the same time compact representations of intuitionistic logic proofs.\nThe first part of the talk shall survey the recent advances in the study of reasonable cost models for the lambda calculus, that is, of time and space cost measures that are equivalent to those of Turing machines. In particular, it shall overview how understanding the role of sharing in the evaluation process is crucial for both time and space, but for opposite reasons.\nThe second part of the talk shall show that extending the lambda calculus with first-class sharing is not a minor extension, as crucial semantic properties and results break, and new tools and richer theories need to be developed.",
+        "id": "evening3",
+        "date": "2023-08-08",
+        "time": "19:00-20:30",
+        "room": "PA",
+        "moderator": "Valentin Goranko",
+        "website": "https://sites.google.com/site/beniaminoaccattoli/"
+      },{
+        "lecturer": "Darja Fišer",
+        "title": "The Good, the Bad and the Ugly of Language Technology Infrastructure",
+        "group": "Evening",
+        "description": "Advances in digitization and datafication have been transformative for linguistics and other disciplines that work with language materials. This has increased the need for research infrastructures that supports the development, documentation, archiving, dissemination, reuse and citation of language resources and tools which is prerequisite for verifiable, reproducible and ethical research. Still, the potential of research infrastructures in language technology remains undervalued and underutilised in the real world of language-based research and education. Based on the work conducted within my research group as well as through personal observations, I will address the good, the bad and the ugly aspects of adopting the research infrastructure principles that is built around the Open Science and FAIR data paradigm.",
+        "id": "evening4",
+        "date": "2023-08-10",
+        "time": "19:00-21:00",
+        "room": "PA",
+        "moderator": "John McCrae",
+        "website": "https://www.inz.si/en/Scientific-research-department/Darja-Fiser_en/"
+    */
+      }
 ]
 
 week1 = [
