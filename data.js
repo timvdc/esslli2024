@@ -1,5 +1,14 @@
 evening_lecturers = [
   {
+        
+        "lecturer": "TBD",
+        "title": "TBD",
+        "group": "Evening",
+        "description": "TBD",
+        "id": "evening1",
+        "date": "2023-07-30",
+        "time": "19:00-20:30",
+
     /*
         "lecturer": "Marko Robnik Šikonja",
         "title": "Large language models for cross-lingual transfer",
@@ -208,8 +217,6 @@ week1 = [
           //  {"title": "Course website", "link": "https://sites.google.com/view/esslli2023course"}
           //]
         },
-        {
-        }
       ],
       [
         {
@@ -247,7 +254,7 @@ week1 = [
   {
     "time": "3.50pm - 4.50pm",
     "groups": [],
-    "title": "Student Session (StuS)<br/>Room: PA",
+    "title": "Student Session (StuS)<br/>",
     "link": "courses-workshops-accepted/student-session-call.html"
   },
   {
@@ -261,8 +268,6 @@ week1 = [
           "description": "This course addresses the connection between scalarity and additivity in natural language. Scalarity has mainly been investigated within degree semantics, which aims to study how natural language expresses measurement and comparison along an abstract dimension, i.e., a scale composed of a totally ordered set of scalar values (degrees or intervals). Additivity is mainly about expressions that bring an existential presupposition in a domain of entities: e.g., additive particles like \"another\" presuppose the existence of a similar item. Recent research suggests a connection between scalarity and additivity (e.g., Greenberg 2010, Thomas 2010, Zhang and Ling 2021): comparison means additivity along a scale. This course addresses the conceptual, empirical, and technical aspects of this connection across domains. The course will start with an additivity-based perspective on comparatives, introducing the conceptual benefits and technical details of connecting research on scalarity and additivity. Then we will discuss various research questions within this perspective.",
           "id": "17"
         },
-        {
-        }
       ],
       [
         {
@@ -272,8 +277,6 @@ week1 = [
           "description": "A major advancement in language modeling is the use of the transformer architecture. But, what problems can transformers solve, what problems can they not solve, and how can we prove it? This course examines the expressivity of transformers through the lens of computability and complexity theory. We will situate transformers within the landscape of automata, boolean circuits, and formal logics. We will discuss what is currently known about transformers' capabilities and limitations, address the practical implications of these results for natural language processing, and identify some directions for future work. Participants will gain a comprehensive understanding of transformers' expressive power in terms of the problems they fundamentally can and cannot solve.",
           "id": "37",
         },
-        {
-        }
       ],
       [
         {
@@ -474,7 +477,7 @@ week2 = [
   {
     "time": "3.50pm - 4.50pm",
     "groups": [],
-    "title": "Student Session (StuS)<br/>Room: PA",
+    "title": "Student Session (StuS)<br/>Room",
     "link": "courses-workshops-accepted/student-session-call.html"
   },
   {
