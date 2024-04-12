@@ -477,7 +477,7 @@ week2 = [
   {
     "time": "3.50pm - 4.50pm",
     "groups": [],
-    "title": "Student Session (StuS)<br/>Room",
+    "title": "Student Session (StuS)<br/>",
     "link": "courses-workshops-accepted/student-session-call.html"
   },
   {
