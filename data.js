@@ -352,7 +352,7 @@ week2 = [
       [
         {
           "lecturer": "Arne Meier and Jonni Virtema",
-          "title": "Complexity and expressivity of propositional dependence logics",
+          "title": "Complexity and expressivity of propositional logics with team semantics",
           "group": "Advanced",
           "description": "During the last decade, there has been a rise of interest in the study of a unified logical theory for the concept of dependence. A multitude of logics has been introduced in the first-order, propositional, and modal contexts. The common dominator for these logics is the adaptation of team semantics as a core notion. These new logics have several applications in many different areas of research such as database theory, linguistics, and philosophy. The main goal of this course is to introduce propositional variants of dependence and inclusion logic and to investigate their expressivity and computational complexity of satisfiability, validity, and model checking. The students will acquire technical key observations and techniques in the context of propositional team semantics which will be useful to improve the overall understanding of expressivity and complexity of logics as well as skills and knowledge regarding reductions and algorithms.",
           "id": "45",
