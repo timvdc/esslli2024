@@ -1,26 +1,39 @@
 evening_lecturers = [
   {
         
-        "lecturer": "TBD",
+      "lecturer": "Dirk Geeraerts (KU Leuven)",
         "title": "TBD",
         "group": "Evening",
         "description": "TBD",
         "id": "evening1",
         "date": "2024-07-30",
         "time": "19:00-20:30",
-
-    /*
-        "lecturer": "Marko Robnik Šikonja",
-        "title": "Large language models for cross-lingual transfer",
+  },{
+    
+        "lecturer": "TBD",
+        "title": "TBD",
         "group": "Evening",
-        "description": "Currently, the most successful approach to natural language processing is based on large pretrained language models using the transformer architecture of neural networks. These are typically pretrained on huge text corpora on the tasks of predicting next tokens or masked tokens. While most existing models are predominantly monolingual, multilingual variants also exist and can help in cross-lingual transfer of knowledge and models. We will present a few types of large language models, focusing on cross-lingual transfer. We will show their strengths and weaknesses in text classification, summarization, and question answering.",
-        "id": "evening1",
-        "date": "2023-08-01",
+      "description": "TBD",
+        "id": "evening2",
+        "date": "2024-08-01",
         "time": "19:00-20:30",
-        "room": "PA",
-        "moderator": "Slavko Žitnik",
-        "website": "https://fri.uni-lj.si/en/about-faculty/employees/marko-robnik-sikonja"
-      },{
+  },{
+      "lecturer": "David Adger (Queen Mary University, London)",
+      "title": "TBD (Dick Oehrle Memorial Lecture)",
+      "group": "Evening",
+      "description": "TBD",
+      "id": "evening3",
+      "date": "2024-08-06",
+      "time": "19:00-20:30",
+  },{
+      "lecturer": "Janet Pierrehumbert (Oxford University)",
+      "title": "TBD",
+      "group": "Evening",
+      "description": "TBD",
+      "id": "evening4",
+      "date": "2024-08-08",
+      "time": "19:00-20:30",
+	/*
         "lecturer": "Malvina Nissim",
         "title": "Language Technology <preposition> Society",
         "group": "Evening",
@@ -72,7 +85,7 @@ week1 = [
         {
           "lecturer": "Matthew Mandelkern and Melissa Fusco",
           "title": "Conditionals, probability, and decision",
-          "group": "Introductory",
+          "group": "Advanced",
           "description": "This advanced course in Language and Logic will explore interactions between the theory of the conditional and the theory of rational decision. Stalnaker (1971) and many following have argued that there is a close connection between conditionals and rational decision: at a first pass, you should do the act that, in expectation, WOULD bring about the best consequences IF you were to do it. This intuitive picture both constrains, and is constrained by, the theory of the conditional (in particular, its logic and semantics, and corresponding probabilities). The course will explore the interacting perspectives of decision theory (Fusco’s specialty) and conditional semantics (Mandelkern’s specialty).",
           "id": "19"
         }
@@ -89,7 +102,7 @@ week1 = [
           "lecturer": "Damir Cavar and Billy Dickson",
           "title": "Generative AI and Symbolic Knowledge Representations: Large Language Models, Knowledge, and Reasoning",
           "group": "Introductory",
-          "description": "This course is intended to be an Advanced Course addressing Large Language Models, or in general Large Models (multi-modal) and Knowledge Representations for reasoning and semantic processing. We discuss: - What are knowledge representations? This is about Ontologies, Knowledge Graphs, and semantic web approaches to handle for example Description Logic representations and reasoning. - What are Large Language Models and, ultimately, Large Models? This is mainly addressing so-called Generative AI, approaches to building and training models, and their application and limits, when the input is unstructured text or visual information only. - How can LMs and computational semantics approaches be combined? This addresses general problems of LMs (e.g., hallucinations), and we discuss how symbolic (and also probabilistic) knowledge representations can be linked to LMs generating more reliable responses, summaries, even pragmatic aspects like implicatures and presuppositions. We also discuss how LMs can be trained on knowledge and semantic representations to improve their reasoning capabilities. This course can be accompanied by extensive material, code, and instructions shared with students and the community, including hands-on access to the respective technologies. Depending on the audience, interest, and goals, we can adjust the level and content and design the course to include a discussion of state-of-the-art approaches to the generation of Ontologies, taxonomies, and Knowledge Graph representations. This course might sound technologically challenging, but we can assure you that it is actually within the scope of advanced undergraduate students, certainly appropriate for interested graduate students coming with basic computation experience, knowledge of statistics, and interest in logic, semantics, and knowledge representations.",
+          "description": "This course is intended to be an Introductory Course addressing Large Language Models, or in general Large Models (multi-modal) and Knowledge Representations for reasoning and semantic processing. We discuss: - What are knowledge representations? This is about Ontologies, Knowledge Graphs, and semantic web approaches to handle for example Description Logic representations and reasoning. - What are Large Language Models and, ultimately, Large Models? This is mainly addressing so-called Generative AI, approaches to building and training models, and their application and limits, when the input is unstructured text or visual information only. - How can LMs and computational semantics approaches be combined? This addresses general problems of LMs (e.g., hallucinations), and we discuss how symbolic (and also probabilistic) knowledge representations can be linked to LMs generating more reliable responses, summaries, even pragmatic aspects like implicatures and presuppositions. We also discuss how LMs can be trained on knowledge and semantic representations to improve their reasoning capabilities. This course can be accompanied by extensive material, code, and instructions shared with students and the community, including hands-on access to the respective technologies. Depending on the audience, interest, and goals, we can adjust the level and content and design the course to include a discussion of state-of-the-art approaches to the generation of Ontologies, taxonomies, and Knowledge Graph representations. This course might sound technologically challenging, but we can assure you that it is actually within the scope of advanced undergraduate students, certainly appropriate for interested graduate students coming with basic computation experience, knowledge of statistics, and interest in logic, semantics, and knowledge representations.",
           "id": "25",
         }
       ],
@@ -434,7 +447,7 @@ week2 = [
         {
           "lecturer": "Friederike Moltmann",
           "title": "Revisiting Event Semantics",
-          "group": "Introductory",
+          "group": "Advanced",
           "description": "The semantics of events has become a central topic in contemporary semantics as well as syntax ever since the seminal 1967 paper of Donald Davidson caught the interest of linguists. This course will give an overview of the latest developments of Davidsonian and Neo-Davidsonian event semantics and its syntactic representation and address severel important challenges to it that have received little attention. These include the notion of an abstract (or 'Kimean') state, the distinction between events and acts, the apparent categorization of verbs as event predicates as mass rather than dividing into mass and count, cartographic theory of adverbial modification and their linguistic motivations, and implications of theories of syntactic decomposition of verbs into light verb-noun complexes for event semantics. New theoretical proposal will be presented to address those challenges.",
           "id": "18"
         }
