@@ -1,7 +1,7 @@
 evening_lecturers = [
   {
         
-      "lecturer": "Dirk Geeraerts (KU Leuven)",
+      "lecturer": "Sonja Smets (University of Amsterdam)",
         "title": "TBD",
         "group": "Evening",
         "description": "TBD",
@@ -10,7 +10,7 @@ evening_lecturers = [
         "time": "19:00-20:30",
   },{
     
-        "lecturer": "TBD",
+        "lecturer": "Dirk Geeraerts (KU Leuven)",
         "title": "TBD",
         "group": "Evening",
       "description": "TBD",
