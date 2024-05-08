@@ -187,7 +187,7 @@ week1 = [
           "lecturer": "Yael Greenberg and Carla Umbach",
           "title": "Incremental constructions within and across languages: Where degrees, eventualities and discourse dynamics interact",
           "group": "Workshop",
-          "website": "<a href="http://www.carla-umbach.de/ESSLLI2024/">http://www.carla-umbach.de/ESSLLI2024/</a>",
+          "website": "http://www.carla-umbach.de/ESSLLI2024/",
           "description": "Incrementality ('adding up to a larger whole', König 1991) can be expressed by English 'more' (1), German 'noch/mehr', Hebrew 'od', Mandarin 'hai' etc. (1) Some/3 kids sang at the party. Then some/3 more kids danced. While studies of individual incremental constructions (INCRs) exist, there are still many gaps in their understanding. This workshop aims to fill such gaps (A) by studying how INCRs syntactically and semantically vary, both across and within languages, and (B) by trying to integrate insights from two approaches to incrementality, which thus far have not interacted: Degree-based approaches (e.g. Greenberg 2010, Thomas 2011), taking INCRs to express additive measurements of eventualities, and discourse-based approaches (e.g. Eckardt 2007, Umbach 2012, Grubic 2018) taking INCRs to be focus/QUD-sensitive, managing the growth of information along discourse-salient dimensions (e.g. event/discourse time). The topic of this workshop is closely related to that of the Week 1 course on 'Scalarity and Additivity in Natural Language'. Course participants are welcome.",
           "id": "2",
         }
