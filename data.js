@@ -223,7 +223,7 @@ week1 = [
           "lecturer": "Haim Dubossarsky and Pierluigi Cassotti",
           "title": "Computational Models for Semantic Change and their Applications in Multidisciplinary Research",
           "group": "Introductory",
-          "description": "",
+          "description": "This course introduces students to lexical semantic change research. It will provide an overview of NLP models for word meaning representations from past to state-of-the-art. It will survey existing resources of diachronic data in the form of historical corpora, reliable datasets, and evaluation. It will cover the application of semantic change methods for varied fields like historical linguistics, sociology, or cultural studies. Focusing on tools for detecting and interpreting semantic change, the course emphasizes their relevance to any research disciplines that uses text as its main medium of study. By analyzing diachronic corpora with state-of-the-art methods, students gain insights into societal attitudes towards various topics over time, from technology acceptance to racial bias in legal texts. The course blends theoretical foundations with hands-on practice, enabling participants to navigate computational tools in NLP effectively. Delving into challenges and adjustments for cross-disciplinary deployment, the course train students to select appropriate methods for their research scenarios. Ultimately, participants will emerge with a nuanced understanding of semantic change and the practical skills to apply computational tools judiciously in diverse research contexts.",
           "id": "23",
           //"website": "https://sites.google.com/view/esslli2023course",
           //"course-material": [
