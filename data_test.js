@@ -1,4 +1,4 @@
-var evening_lecturers = [
+window.evening_lecturers = [
   {
         
       "lecturer": "Sonja Smets (University of Amsterdam)",
@@ -70,7 +70,7 @@ var evening_lecturers = [
       }
 ];
 
-var week1 = [
+window.week1 = [
   {
     "time": "9.00am - 10.30am",
     "groups": [
@@ -313,7 +313,7 @@ var week1 = [
   }
 ];
 
-var week2 = [
+window.week2 = [
   {
     "time": "9.00am - 10.30am",
     "groups": [
