@@ -544,7 +544,7 @@ week2 = [
           "title": "Symposium on Proof-theoretic Semantics",
           "group": "Workshop",
           "description": "Proof-theoretic Semantics (P-tS) is a rapidly developing, novel approach to meaning in logic. It is based on the principle that the meaning of expressions in our language, in particular to logical constants, is that of 'proof' (rather than 'truth'). The Symposium on Proof-theoretic Semantics aims to expose the field to a wider community of researchers. It provides novel perspectives on the relationship between proof theory and semantics in logic. In particular, this workshop is suitable for researchers interested in proof systems for logics, systems and tools for evaluation, and the use of logic for reasoning --- both formally in systems verification and modelling, symbolic artificial intelligence, etc., and informally in conceptional frameworks supporting the deployment of logic in mathematics, informatics, and philosophy.",
-          "id": "7"
+          "id": "41"
         }
       ]
     ]
