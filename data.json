@@ -57,7 +57,7 @@
       [
         {
           "lecturer": "John McCrae",
-          "title": "Introduction to Linguistic Data Science ",
+          "title": "Introduction to Linguistic Data Science",
           "group": "Foundational",
           "description": "Big data is fundamentally changing the way that linguists can investigate linguistic facts leading to a new research area which combines data science with linguistics. This course provides an introduction to the new area of linguistic data science by means of an introductory course with hands-on data analysis that is focused on key questions in linguistics. This course will first provide a basic introduction to data science and in particular how this can be applied to large corpora using natural language processing techniques. We will then show how this can be used to find answers to problems in syntax, semantics, multilinguality and other areas of linguistics, along with a summary giving perspectives on how these methods can be applied to students’ own research.",
           "id": "4"
