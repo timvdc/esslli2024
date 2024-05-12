@@ -1,4 +1,4 @@
-evening_lecturers = [
+var evening_lecturers = [
   {
         
       "lecturer": "Sonja Smets (University of Amsterdam)",
@@ -68,9 +68,9 @@ evening_lecturers = [
         "website": "https://www.inz.si/en/Scientific-research-department/Darja-Fiser_en/"
     */
       }
-]
+];
 
-week1 = [
+var week1 = [
   {
     "time": "9.00am - 10.30am",
     "groups": [
@@ -311,9 +311,9 @@ week1 = [
       ]
     ]
   }
-]
+];
 
-week2 = [
+var week2 = [
   {
     "time": "9.00am - 10.30am",
     "groups": [
@@ -549,4 +549,4 @@ week2 = [
       ]
     ]
   }
-]
+];
