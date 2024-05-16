@@ -213,7 +213,7 @@
           "lecturer": "Justine Cassell and David Traum",
           "title": "Conversational Grounding in the Age of Large Language Models",
           "group": "Workshop",
-          "website": "placeholder",
+          "website": "https://articulab.hcii.cs.cmu.edu/conversational-grounding-in-the-age-of-large-language-models/",
           "description": "Conversational Grounding is the process whereby participants in a conversation establish new common ground; that is, shared information that can subsequently be referred to. The conversational grounding process includes not just transmission of information via declarative utterances, but also visual, inferential, and interactive feedback processes. While there has been a substantial work on conversational grounding, many open problems remain, particularly when applied to different situations and activities, involving different numbers and types of participants, different perceptual and action affordances, and different goals. Moreover, new resources involving large language models change the nature of grounding processes and create new challenges even when they may improve the ability to solve some issues. The moment is therefore to bring together researchers working on aspects of Conversational Grounding for a workshop to increase common ground on the topic, and disseminate new best practices for computing, modeling and implementing conversational grounding in dialogue systems.",
           "id": "66"
         }
