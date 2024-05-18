@@ -18,9 +18,9 @@
             "time": "19:00-20:30"
 	},{
 	    "lecturer": "David Adger (Queen Mary University, London)",
-	    "title": "TBD (Dick Oehrle Memorial Lecture)",
+	    "title": "Mereological Syntax and Grammatical Locality (Dick Oehrle Memorial Lecture)",
 	    "group": "Evening",
-	    "description": "TBD",
+	    "description": "In this lecture, I sketch out some quite severe theoretical problems with the current approach in Minimalist Syntax to dealing with the locality of grammatical dependencies in natural language. I trace some of these problems back to the theory’s set-theoretic foundations, and propose an alternative view of what syntactic objects are, that takes them to have a part-whole based, as opposed to a set-member based structure. I show how a developing this idea in a few simple ways can provide a new and elegant theory that sidesteps the problems in standard Minimalist theory and directly captures some central results about the locality of grammatical dependencies. Time permitting, I’ll also show that it opens up a novel way of thinking about island effects that is consistent with recent empirical and experimental findings.",
 	    "id": "evening3",
 	    "date": "2024-08-06",
 	    "time": "19:00-20:30"
