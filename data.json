@@ -26,9 +26,9 @@
 	    "time": "19:00-20:30"
 	},{
       "lecturer": "Janet Pierrehumbert (Oxford University)",
-      "title": "TBD",
+      "title": "On the distributional hypothesis - why it works and how it doesn’t.",
       "group": "Evening",
-      "description": "TBD",
+      "description": "Large Language Models (LLMs), such as ChatGPT, induce vector-space representations of word meanings by assuming that the meanings of words are “revealed by the company they keep” — in short, that the meanings of words are revealed by their co-occurrence distributions with other words. This works surprisingly well, and the linguistic theories of syntax and discourse reveal why.  However, LLMs do not tap other types of distributions that figure prominently in scientific theories of language. This talk will analyze some cases where their performance falls short of human performance as a result. It will look at cases in which formal semantics specifies representations with hidden variables, which range over inferred rather than overt aspects of the context. It will also show that LLMs lack meta-level relations that linguistic theory shows to be essential for capturing abstract generalizations.",
       "id": "evening4",
       "date": "2024-08-08",
       "time": "19:00-20:30"
