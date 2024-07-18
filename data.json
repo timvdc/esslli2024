@@ -4,7 +4,7 @@
       "lecturer": "Sonja Smets (University of Amsterdam)",
       "title": "Logic and Computation of Social Behavior.",
       "group": "Evening",
-      "description": "Following the recent development in which logical methods can be applied to the formal analysis of social networks, I present work on the use of logic to study social influence and herd behavior in epistemic social networks. In such networks, we first consider agents who adopt a new fashion or behavior depending on whether a 'sufficiently large enough group' of their neighbors already has adopted the behavior. We provide different types of models as well as a simple qualitative modal language to reason about the concept of a 'strong enough' trigger of influence. Using fixed-point operators in our logic, important results from network theory about the characterization of informational cascades follow immediately from our logical axioms. Unfolding the influence dynamics in an epistemic social network allows us to characterize the epistemic conditions under which the dynamic diffusion process can speed up or slow down. The results presented in this talk are based on on-going joint work with Alexandru Baltag at the University of Amsterdam in [1] and on the paper in [2].\n[1] Alexandru Baltag and Sonja Smets. Logic goes viral: Modalities for Social Networks, Manuscript in preparation, 2024.\n[2] Alexandru Baltag, Zoé Christoff, Rasmus K. Rendsvig, Sonja Smets, Dynamic Epistemic Logics of Diffusion and Prediction in Social Networks, Studia Logica,  June 2019, Volume 107 (3), pp 489–531.",
+      "description": "Following the recent development in which logical methods can be applied to the formal analysis of social networks, I present work on the use of logic to study social influence and herd behavior in epistemic social networks. In such networks, we first consider agents who adopt a new fashion or behavior depending on whether a 'sufficiently large enough group' of their neighbors already has adopted the behavior. We provide different types of models as well as a simple qualitative modal language to reason about the concept of a 'strong enough' trigger of influence. Using fixed-point operators in our logic, important results from network theory about the characterization of informational cascades follow immediately from our logical axioms. Unfolding the influence dynamics in an epistemic social network allows us to characterize the epistemic conditions under which the dynamic diffusion process can speed up or slow down. The results presented in this talk are based on on-going joint work with Alexandru Baltag at the University of Amsterdam in [1] and on the paper in [2].\n\n[1] Alexandru Baltag and Sonja Smets. Logic goes viral: Modalities for Social Networks, Manuscript in preparation, 2024.\n\n[2] Alexandru Baltag, Zoé Christoff, Rasmus K. Rendsvig, Sonja Smets, Dynamic Epistemic Logics of Diffusion and Prediction in Social Networks, Studia Logica,  June 2019, Volume 107 (3), pp 489–531.",
       "id": "evening1",
       "date": "2024-07-30",
 	"time": "19:00-20:30",
@@ -17,7 +17,8 @@
       "description": "A reference to Zellig Harris and John R. Firth is a standard, almost obligatory introductory step in current work in distributional semantics. But such references usually remain shallow, without entailing a real engagement with the actual work of both authors. This talk will try to (partially) fill that gap by indicating some differences between the position of Harris and contemporary approaches, and likewise, differences between Harris and Firth. Such an analysis may help, not only to get a clearer idea of the variety of current forms of distributional semantics, but also to identify a number of hidden issues, viz. involving the role of linguistic intuition and semantic interpretation in a distributional framework.",
       "id": "evening2",
       "date": "2024-08-01",
-      "time": "19:00-20:30"
+	"time": "19:00-20:30",
+	"moderator": "Haim Dubossarsky (Queen Mary University of London)"
     },
     {
       "lecturer": "David Adger (Queen Mary University, London)",
@@ -26,7 +27,8 @@
       "description": "In this lecture, I sketch out some quite severe theoretical problems with the current approach in Minimalist Syntax to dealing with the locality of grammatical dependencies in natural language. I trace some of these problems back to the theory’s set-theoretic foundations, and propose an alternative view of what syntactic objects are, that takes them to have a part-whole based, as opposed to a set-member based structure. I show how a developing this idea in a few simple ways can provide a new and elegant theory that sidesteps the problems in standard Minimalist theory and directly captures some central results about the locality of grammatical dependencies. Time permitting, I’ll also show that it opens up a novel way of thinking about island effects that is consistent with recent empirical and experimental findings.",
       "id": "evening3",
       "date": "2024-08-06",
-      "time": "19:00-20:30"
+	"time": "19:00-20:30",
+	"moderator": "Mark Steedman (University of Edinburgh)"
     },
     {
       "lecturer": "Janet Pierrehumbert (Oxford University)",
@@ -35,7 +37,8 @@
       "description": "Large Language Models (LLMs), such as ChatGPT, induce vector-space representations of word meanings by assuming that the meanings of words are “revealed by the company they keep” — in short, that the meanings of words are revealed by their co-occurrence distributions with other words. This works surprisingly well, and the linguistic theories of syntax and discourse reveal why.  However, LLMs do not tap other types of distributions that figure prominently in scientific theories of language. This talk will analyze some cases where their performance falls short of human performance as a result. It will look at cases in which formal semantics specifies representations with hidden variables, which range over inferred rather than overt aspects of the context. It will also show that LLMs lack meta-level relations that linguistic theory shows to be essential for capturing abstract generalizations.",
       "id": "evening4",
       "date": "2024-08-08",
-      "time": "19:00-20:30"
+	"time": "19:00-20:30",
+	"moderator": "Marie-Francine Moens (KU Leuven)"
     }
   ],
   "week1": [
