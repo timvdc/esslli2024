@@ -191,14 +191,16 @@
           {
             "lecturer": "Jun Chen and Swantje Toennis",
             "title": "Theoretical and empirical approaches to cleft constructions",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "AV 00.17",
             "description": "This course aims to cross-linguistically investigate cleft constructions from theory-driven and empirical perspectives. An English cleft construction is a sentence of the form It is ... who ..., as exemplified in (1).\n\n(1) It was Sally who danced.\n\nWe will first introduce hypotheses for capturing the meanings of clefts, their use conditions and their functions in discourse. In addition, we will discuss formal analyses that attempt to derive the cleft’s exhaustive inference (e.g., nobody other than Sally danced in (1)), and analyses demonstrating interactions between clefts and Questions Under Discussion (Roberts, 2012). Up-to-date psycholinguistic studies and corpus research which cross-linguistically test these theoretical claims (e.g., in Chinese, German, etc.) will also be introduced alongside. We will examine various experimental designs, and investigate empirical results, which seem to clash with theoretical predictions. The goal of this course is not only to convey state-of-the-art knowledge on cleft constructions to the students, but also to inspire and explore new theoretical and empirical ideas together with the students.",
             "id": "22"
           },
           {
             "lecturer": "Nazarre Merchant and Alan Prince",
             "title": "Analyzing OT Typologies: Order, Equivalence and the Mother of all Tableaux",
-            "group": "Advanced",
+              "group": "Advanced",
+	      "room": "AV 01.12",
             "description": "An OT (Optimality Theory) typology is comprised of a set of grammars which themselves are sets of total orders. Every typology has an associated geometry which provides an inherent classification of the grammars that constitute it. In this course we will develop these notions, showing how constraints, which at the lowest level are numerical comparisons between linguistic candidates, can be abstractly viewed as providing comparisons between entire grammars. From this perspective, constraints provide both order and equivalence structures on the grammars, an “Equivalence-augmented Partial Order” (EPO), which determine all licit typological classifications of a given theory. The set of all such EPOs for a typology is termed the Mother of all Tableaux (MOAT). We will develop these notions in both the concrete and abstract, using basic syllable theory as an entrée into the abstract categories of OT typologies.",
             "id": "46"
           }
@@ -207,7 +209,8 @@
           {
             "lecturer": "Haim Dubossarsky and Pierluigi Cassotti",
             "title": "Computational Models for Semantic Change and their Applications in Multidisciplinary Research",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "Emma Vorlat",
             "description": "This course introduces students to lexical semantic change research. It will provide an overview of NLP models for word meaning representations from past to state-of-the-art. It will survey existing resources of diachronic data in the form of historical corpora, reliable datasets, and evaluation. It will cover the application of semantic change methods for varied fields like historical linguistics, sociology, or cultural studies. Focusing on tools for detecting and interpreting semantic change, the course emphasizes their relevance to any research disciplines that uses text as its main medium of study. By analyzing diachronic corpora with state-of-the-art methods, students gain insights into societal attitudes towards various topics over time, from technology acceptance to racial bias in legal texts. The course blends theoretical foundations with hands-on practice, enabling participants to navigate computational tools in NLP effectively. Delving into challenges and adjustments for cross-disciplinary deployment, the course train students to select appropriate methods for their research scenarios. Ultimately, participants will emerge with a nuanced understanding of semantic change and the practical skills to apply computational tools judiciously in diverse research contexts.",
             "id": "23"
           }
@@ -216,14 +219,16 @@
           {
             "lecturer": "Philippe Balbiani and Cigdem Gencer",
             "title": "Intuitionistic Modal Logic",
-            "group": "Foundational",
+              "group": "Foundational",
+	      "room": "AV 02.17",
             "description": "Among those mixing together Boolean concepts and modal concepts, the search for minimality has prompted multifarious debates. Most of these debates have now faded. In fact, they have not survived the end of the syntactic era of modal logic. Before the advent, in the 1960s, of the concept of Kripke frames, it was unclear which modal logic is the most appropriate candidate for the title of ``minimal modal logic''. Today, although the modal logic K does not contain any of the formulas expressing the properties usually associated to the modal concepts of necessity and possibility, everyone accepts the fact that K is the minimal modal logic. Among those combining together intuitionistic concepts and modal concepts, the quest for minimality has caused numerous discussions. Some of these discussions are still alive. Indeed, two approaches are in direct opposition: the intuitionistic approach set out by Fischer Servi (1977, 1978, 1984) giving rise to the intuitionistic modal logic IK and the constructive approach expounded by Wijesekera (1990) giving rise to the intuitionistic modal logics WK and CK. And there is no consensus of what should be the ``minimal intuitionistic modal logic''.\n\nThe reason for being of the intuitionistic approach set out by Fischer Servi is mainly the fact that a minimal intuitionistic modal logic should contain the formulas whose standard translation in a first-order language are intuitionistically valid. Therefore, the supporters of this approach consider intuitionistic modal logic IK that contains the formulas ◊(pVq)->◊pV◊q and ¬<>false despite their non-constructive character. The justification of the constructive approach expounded by Wijesekera chiefly rests on the fact that the formulas of a minimal intuitionistic modal logic should have a constructive character. As a result, the upholders of this approach consider intuitionistic modal logic WK that does not contain the formula ◊(pVq)->◊pV◊q. The most radical of them also consider intuitionistic modal logic CK that does not contain either the formula ¬<>false. There is no sense in comparing the arguments for and against the intuitionistic approach giving rise to the intuitionistic modal logic IK and the constructive approach giving rise to the intuitionistic modal logics WK and CK. To convince the reader of this opinion, it suffices to mention how these approaches differently define the truth condition of diamond-formulas in their relational semantics, although they consider the same truth condition of box-formulas. This difference in the definition of the truth condition of diamond-formulas shows that the connective ◊ à la Fischer Servi and the connective ◊ à la Wijesekera are as separate as are, for example, the connectives of disjunction and conjunction in any intermediate logic.\n\nIn this course, we firstly offer a self-contained overview of intermediate logics and modal logics. Secondly, we survey the different intuitionistic and constructive approaches to modal logic that have been proposed in the literature. We thirdly present the most important motivations for the introduction of such approaches: Curry-Howard correspondence between proofs and programs, Brouwer-Heyting-Kolmogorov interpretation of logic, type systems for staged computation, formalization of distributed computation, hardware verification, etc. Fourthly, we develop the proof theory, the relational semantics and the algebraic semantics of the different intuitionistic and constructive approaches to modal logic. We fifthly introduce an appropriate candidate for the title of minimal intuitionistic modal logic, an intuitionistic modal logic strictly contained in IK and comparable neither with WK, nor with CK. For some of its extensions, we study the axiomatization/completeness and the decidability/complexity of the set of their valid formulas. This course will mainly address logical and computational aspects of the combination of intuitionistic concepts and modal concepts.",
             "id": "11"
           },
           {
             "lecturer": "Xinghan Liu and Emiliano Lorini",
             "title": "Logics for Explaining AI Systems",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "AV 03.12",
             "description": "The notion of explanation plays a pivotal role in artificial intelligence and machine learning, in which there is an increasing demand of explaining the behavior of systems trained on data, especially deep learning systems. Different notions of of explanation have been proposed and studied in the area of eXplainable AI (XAI), varying according to different dimensions such as global versus local and model-agnostic versus model-specific. In this course we will introduce several modal logics for explaining the behaviors and predictions of AI systems, including classifier systems and causal models, of which artificial neural networks are special instances. These logics support reasoning about different types of explanations including abductive, contrastive, counterfactual and causal explanation. We will discuss the proof-theoretic, decidability and complexity aspects of these logics and illustrate their expressiveness with examples.",
             "id": "39"
           }
@@ -232,7 +237,8 @@
           {
             "lecturer": "Justine Cassell and David Traum",
             "title": "Conversational Grounding in the Age of Large Language Models",
-            "group": "Workshop",
+              "group": "Workshop",
+	      "room": "Ruth Benedict",
             "website": "https://articulab.hcii.cs.cmu.edu/conversational-grounding-in-the-age-of-large-language-models/",
             "description": "Conversational Grounding is the process whereby participants in a conversation establish new common ground; that is, shared information that can subsequently be referred to. The conversational grounding process includes not just transmission of information via declarative utterances, but also visual, inferential, and interactive feedback processes. While there has been a substantial work on conversational grounding, many open problems remain, particularly when applied to different situations and activities, involving different numbers and types of participants, different perceptual and action affordances, and different goals. Moreover, new resources involving large language models change the nature of grounding processes and create new challenges even when they may improve the ability to solve some issues. The moment is therefore to bring together researchers working on aspects of Conversational Grounding for a workshop to increase common ground on the topic, and disseminate new best practices for computing, modeling and implementing conversational grounding in dialogue systems.",
             "id": "66"
@@ -258,7 +264,8 @@
           {
             "lecturer": "Linmin Zhang",
             "title": "Scalarity and additivity in natural language",
-            "group": "Advanced",
+              "group": "Advanced",
+	      "room": "AV 00.17",
             "description": "This course addresses the connection between scalarity and additivity in natural language. Scalarity has mainly been investigated within degree semantics, which aims to study how natural language expresses measurement and comparison along an abstract dimension, i.e., a scale composed of a totally ordered set of scalar values (degrees or intervals). Additivity is mainly about expressions that bring an existential presupposition in a domain of entities: e.g., additive particles like \"another\" presuppose the existence of a similar item. Recent research suggests a connection between scalarity and additivity (e.g., Greenberg 2010, Thomas 2010, Zhang and Ling 2021): comparison means additivity along a scale. This course addresses the conceptual, empirical, and technical aspects of this connection across domains. The course will start with an additivity-based perspective on comparatives, introducing the conceptual benefits and technical details of connecting research on scalarity and additivity. Then we will discuss various research questions within this perspective.",
             "id": "17"
           }
@@ -267,7 +274,8 @@
           {
             "lecturer": "Jonathan Rawski and David Chiang",
             "title": "Expressivity of Transformers: Logic, Circuits, and Formal Languages",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "Emma Vorlat",
             "description": "A major advancement in language modeling is the use of the transformer architecture. But, what problems can transformers solve, what problems can they not solve, and how can we prove it? This course examines the expressivity of transformers through the lens of computability and complexity theory. We will situate transformers within the landscape of automata, boolean circuits, and formal logics. We will discuss what is currently known about transformers' capabilities and limitations, address the practical implications of these results for natural language processing, and identify some directions for future work. Participants will gain a comprehensive understanding of transformers' expressive power in terms of the problems they fundamentally can and cannot solve.",
             "id": "37"
           }
@@ -276,14 +284,16 @@
           {
             "lecturer": "Alexandru Baltag and Sonja Smets",
             "title": "Dynamic Logics for Communication and Data Exchange",
-            "group": "Foundational",
+              "group": "Foundational",
+	      "room": "AV 01.12",
             "description": "This course is addressed to students interested in the logical analysis of complex multi-agent scenarios involving data-exchange and communication. We look at various forms of information flow that can affect both the individual knowledge and the group knowledge of interacting agents. These scenarios include acts by which individuals or groups can publicly or privately access whole databases and `grab’ (read, copy, transmit or modify) all the information stored in them (including numerical, or other non-propositional, data). We present a family of dynamic logics, based on extensions of Dynamic Epistemic Logic that can handle exchanges in which the relevant data are not necessarily in propositional form. We study the expressive power of data-exchange logics, provide complete axiomatizations, show their decidability, and apply them to a range of examples, including sharing an internet resource, learning another agent’s password, hacking a private database, detecting a cryptographic attack, etc.",
             "id": "61"
           },
           {
             "lecturer": "Yanjing Wang",
             "title": "Introduction to Bundled Modalities",
-            "group": "Advanced",
+              "group": "Advanced",
+	      "room": "Ruth Benedict",
             "description": "Bundled modalities pack a quantifier and a modality together. In this course, I will introduce the idea, techniques, and applications of bundled modalities in epistemic logic, deontic logic, non-classical logic, and decidable fragments of first-order modal logic.",
             "website": "http://wangyanjing.com/introduction-to-bundled-modalities/",
             "id": "35"
