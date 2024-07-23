@@ -67,14 +67,16 @@
           {
             "lecturer": "John McCrae",
             "title": "Introduction to Linguistic Data Science",
-            "group": "Foundational",
+              "group": "Foundational",
+	      "room": "AV 02.17",
             "description": "Big data is fundamentally changing the way that linguists can investigate linguistic facts leading to a new research area which combines data science with linguistics. This course provides an introduction to the new area of linguistic data science by means of an introductory course with hands-on data analysis that is focused on key questions in linguistics. This course will first provide a basic introduction to data science and in particular how this can be applied to large corpora using natural language processing techniques. We will then show how this can be used to find answers to problems in syntax, semantics, multilinguality and other areas of linguistics, along with a summary giving perspectives on how these methods can be applied to students’ own research.",
             "id": "4"
           },
           {
             "lecturer": "Damir Cavar and Billy Dickson",
             "title": "Generative AI and Symbolic Knowledge Representations: Large Language Models, Knowledge, and Reasoning",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "Emma Vorlat",
             "description": "This course is intended to be an Introductory Course addressing Large Language Models, or in general Large Models (multi-modal) and Knowledge Representations for reasoning and semantic processing. We address the following questions:\n\n- What are knowledge representations? This is about ontologies, Knowledge Graphs, and semantic web approaches to handle, for example, Description, Logic representations, and reasoning.\n - What are Large Language Models and, ultimately, Large Models? This mainly addresses so-called Generative AI, approaches to building and training models, and their application and limits when the input is unstructured text or visual information only.\n\nHow can LMs and computational semantics approaches be combined? This addresses general problems of LMs (e.g., hallucinations), and we discuss how symbolic (and also probabilistic) knowledge representations can be linked to LMs generating more reliable responses, summaries, and even pragmatic aspects like implicatures and presuppositions. We also discuss how LMs can be trained on knowledge and semantic representations to improve their reasoning capabilities.\nThis course is accompanied by extensive material, code, and instructions shared with students and the community, including hands-on access to the respective technologies. Depending on the audience, interest, and goals, we can adjust the level and content and design the course to include a discussion of state-of-the-art approaches to the generation of ontologies, taxonomies, and Knowledge Graph representations. This course might sound technologically challenging, but we can assure you that it is actually within the scope of undergraduate students and is certainly appropriate for interested graduate students coming with basic computation experience, knowledge of statistics, and interest in logic, semantics, and knowledge representations.",
             "website": "https://damir.cavar.me/ESSLLI24_LLM_KG.github.io/",
             "id": "25"
@@ -84,14 +86,16 @@
           {
             "lecturer": "Dan Frumin and Jorge A. Pérez",
             "title": "Propositions as Sessions: Logical Foundations of Concurrent Computation",
-            "group": "Foundational",
+              "group": "Foundational",
+	      "room": "AV 03.12",
             "description": "The Curry-Howard(-deBruijn) correspondence, also known under the slogan of “Propositions as Types”, is arguably the most important bridge between logic and computation. The connection between intuitionistic logic and lambda-calculus is the most familiar instance of this bridge. The correspondence can be seen as a fruitful principle for logically-informed foundations of programming languages. This introductory course will explore recent work on the Curry-Howard correspondence between substructural logics and concurrent processes, dubbed as “Propositions as Sessions”. Following a gradual approach, participants will learn how Girard’s linear logic and its extensions serve as a basis for structuring message-passing concurrent programs through the discipline of session types. No specific prerequisites are assumed for this course, except for familiarity with formal logic; participants will get familiar with the selected topics in Substructural Logics, Concurrency Theory, and Programming Languages. The course will close with an overview of prospective research challenges.",
             "id": "50"
           },
           {
             "lecturer": "Balder ten Cate and Frank Wolter",
             "title": "A Modern Introduction to Craig Interpolation",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "Ruth Benedict",
             "description": "Craig interpolants are, intuitively, logical formulas that ``explain'' why an entailment between formulas P and Q holds by reference to the shared vocabulary of P and Q. They nowadays play a fundamental role not only in mathematical and philosophical logic, but also in applied areas ranging from automated deduction to program verification, databases and knowledge representation. They are used, for instance, as explainers of why sets of program states are disjoint and as synthesisers of concepts, programs and queries. The purpose of this course is to introduce the logical foundations and applications of Craig interpolation. We cover formalisms ranging from propositional and first-order logic to description and temporal logic. We illustrate modern applications, focusing on databases and knowledge representation. Finally, we also discuss recent research on what to do if a logic does not enjoy the Craig interpolation property, i.e., when there are entailments without Craig interpolants. We give an an introduction to Craig Interpolation and its modern applications in computer science, including databases, knowledge representation, complexity theory, and program verification.",
             "id": "43"
           }
@@ -111,14 +115,16 @@
           {
             "lecturer": "Dan Zeman",
             "title": "The Semantics and Pragmatics of Slurs",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "AV 00.17",
             "description": "Whether we like it or not, “bad words” are ubiquitous in natural language. While using such words has sometimes no significant effects, in many cases their use can produce real harm, by denigrating, silencing, and marginalizing the people they target. Slurs are one such type of “bad words”. Most researchers agree that the main function of slurs is that of derogating or dehumanizing, of signalling that their targets are unworthy of equal standing or full respect as persons. Figuring out how slurs achieve their main function is an important topic in contemporary philosophy of language and linguistics. In this introductory course, my aim is to present the main characteristics of slurs and their uses (not limited to derogation), explore the main views on their semantics and pragmatics, and show how they are connected to larger social phenomena like power structures and communal identities.",
             "id": "62"
           },
           {
             "lecturer": "Cameron Domenico Kirk-Giannini and Henry Schiller",
             "title": "Speech Acts: Dynamic Force and Conversational Update",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "AV 01.12",
             "description": "Stalnaker’s theory of the dynamic effect of assertion treats assertoric updates as intersective functions from one context to another. For Stalnaker, this is the characteristic way in which assertion changes the state of a conversation: its dynamic force. This course will introduce students to work in formal pragmatics on the dynamic force of various speech acts. We’ll begin with an introduction to speech act theory and discourse context, and then introduce Stalnaker’s theory of assertion as well as some challenges to that theory. The next part of the course will consider formal theories of directives and questions. In this section, our aim will be to assess whether we can account for the dynamic effects of these speech acts while remaining within the Stalnakerian model — and if not, how else we might account for those effects. Finally, we’ll turn our attention to topics that push the boundaries of traditional theories of formal pragmatics, such as felicitous underspecification and peripheral content.",
             "id": "15"
           }
@@ -127,14 +133,16 @@
           {
             "lecturer": "Mark Steedman",
             "title": "Categorial Foundations of Natural Language Structures",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "Emma Vorlat",
             "description": "The course analyses the problem of natural language structure, as characterized by language diversity, requirements of language acquisition by children, extreme ambiguity, and discontinuity (where elements that seem to belong together semantically are separated in the sentence), in terms of an extension of classical Categorial Grammar. The problem will be analyzed in its own right and from the ground up, without any specifically linguistic theoretical assumptions. However, along the way, links to various existing linguistic and computational theories of language will be established, as needed by the students.",
             "id": "55"
           },
           {
             "lecturer": "Andreas Liesenfeld and Mark Dingemanse",
             "title": "Introduction to Conversational AI",
-            "group": "Foundational",
+              "group": "Foundational",
+	      "room": "AV 02.17",
             "description": "Conversations come naturally to us. While we humans learn language through conversation, interactive language use is arguably the holy grail of speech and language processing. With large language modelling (LLM) approaches, progress was made towards building more interactive agents. Yet, modelling human-like conversational AI remains a moonshot. This foundational course delves into why modelling conversational competence is so challenging. It also takes stock of recent engineering breakthroughs in building conversational AI systems using instruction-tuned LLM models such as ChatGPT, Llama or Mistral. Students will learn the basics of interactive language modelling and explore the scientific and theoretical foundations of understanding structure and variation in conversational speech data in hands-on tutorials. We will work through recent empirical and computational work on speech corpora, speech recognition, and technology assessment. Aspects of conversational infrastructure covered include turn-taking, interactive repair, and action ascription. We conclude by touching upon societal and ethical issues that emerge alongside the rise of conversational AI. This course might appeal to anyone interested in recent approaches to conversational AI and understanding why talking machines still struggle to hold up their end of a conversation. Some experience working with Python and Jupyter notebook required.",
             "id": "9"
           }
@@ -143,14 +151,16 @@
           {
             "lecturer": "Mikhail Rybakov and Dmitry Shkatov",
             "title": "Computational aspects of first-order modal logics",
-            "group": "Advanced",
+              "group": "Advanced",
+	      "room": "AV 03.12",
             "description": "The course will introduce students to computational aspects of first-order modal logics. The course will contain a brief, self-contained introduction to first-order modal logics and then will cover the most important techniques for proving decidability, undecidability, and lack of recursive enumerability for first-order modal logics and their fragments. The course is intended for a broad audience of graduate students interested in modal reasoning and its computational aspects. This includes students of logic, philosophy, computer science, linguistics, and mathematics. The course will assume a basic familiarity with the classical first-order logic and with Kripke semantics for propositional modal logics.",
             "id": "53"
           },
           {
             "lecturer": "Valentin Goranko",
             "title": "Games Logicians Play",
-            "group": "Advanced",
+              "group": "Advanced",
+	      "room": "AV 04.17",
             "description": "This course will introduce, discuss and illustrate with examples the most important games in logic, including: dialogue argumentation games, evaluation games, model building games, and model comparison games. These games can be used for model checking, constructive satisfiability testing, to characterize logical equivalences of models, and to prove non-definability results. Optionally, I will also introduce and discuss game-theoretic semantics with incomplete information for logical languages.",
             "website": "https://www2.philosophy.su.se/goranko/Courses2024/ESSLLI2024_GamesLogiciansPlay.html",
             "id": "20"
@@ -160,7 +170,8 @@
           {
             "lecturer": "Yael Greenberg and Carla Umbach",
             "title": "Incremental constructions within and across languages: Where degrees, eventualities and discourse dynamics interact",
-            "group": "Workshop",
+              "group": "Workshop",
+	      "room": "Ruth Benedict",
             "website": "http://www.carla-umbach.de/ESSLLI2024/",
             "description": "Incrementality ('adding up to a larger whole', König 1991) can be expressed by English 'more' (1), German 'noch/mehr', Hebrew 'od', Mandarin 'hai' etc.\n\n(1) Some/3 kids sang at the party. Then some/3 more kids danced.\n\nWhile studies of individual incremental constructions (INCRs) exist, there are still many gaps in their understanding. This workshop aims to fill such gaps (A) by studying how INCRs syntactically and semantically vary, both across and within languages, and (B) by trying to integrate insights from two approaches to incrementality, which thus far have not interacted: Degree-based approaches (e.g. Greenberg 2010, Thomas 2011), taking INCRs to express additive measurements of eventualities, and discourse-based approaches (e.g. Eckardt 2007, Umbach 2012, Grubic 2018) taking INCRs to be focus/QUD-sensitive, managing the growth of information along discourse-salient dimensions (e.g. event/discourse time).\n\nThe topic of this workshop is closely related to that of the Week 1 course on 'Scalarity and Additivity in Natural Language'. Course participants are welcome.",
             "id": "2"
