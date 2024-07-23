@@ -49,14 +49,16 @@
           {
             "lecturer": "Howard Gregory",
             "title": "Language and Logics",
-            "group": "Foundational",
+              "group": "Foundational",
+	      "room": "AV 00.17",
             "description": "This course introduces the use of formal logic in natural language semantics. It has no prerequisites, but an introductory linguistics course is desirable. The coverage will be limited to classical first order logic (FOL). This is far from the only logic used in linguistics, but it is presupposed by most advanced work. FOL is presented in a way which highlights the assumptions and choices made and the plurality of logics (as promised by the title), providing pointers to further directions of study.",
             "id": "12"
           },
           {
             "lecturer": "Matthew Mandelkern and Melissa Fusco",
             "title": "Conditionals, probability, and decision",
-            "group": "Advanced",
+              "group": "Advanced",
+	      "room": "AV 01.12",
             "description": "This advanced course in Language and Logic will explore interactions between the theory of the conditional and the theory of rational decision. Stalnaker (1971) and many following have argued that there is a close connection between conditionals and rational decision: at a first pass, you should do the act that, in expectation, WOULD bring about the best consequences IF you were to do it. This intuitive picture both constrains, and is constrained by, the theory of the conditional (in particular, its logic and semantics, and corresponding probabilities). The course will explore the interacting perspectives of decision theory (Fusco’s specialty) and conditional semantics (Mandelkern’s specialty).",
             "id": "19"
           }
