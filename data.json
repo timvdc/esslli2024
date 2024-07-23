@@ -311,14 +311,16 @@
           {
             "lecturer": "Kajsa Djärv and Deniz Özyıldız",
             "title": "Intonation and meaning",
-            "group": "Foundational",
+              "group": "Foundational",
+	      "room": "AV 00.17",
             "description": "Natural language syntax and semantics interacts with prosodic structure. The sentence “All politicians aren’t corrupt,” for example, is scopally ambiguous between “all > not” and “not > all” interpretations, which intonation may disambiguate. Acquaintance with such facts is of general interest, presenting an exciting opportunity to raise architectural questions about natural language and to expose course participants to a diverse set of formal methods (e.g., constraint-based grammars, model theoretic semantics). We begin the course with elements of intonational phonology: The realization of suprasegmental features—i.e., pitch, loudness and duration—is structured and governed by abstract mental categories. We then turn to modeling how these prosodic structures interface with syntactic structure, as well as semantic and pragmatic interpretation. The empirical basis for these models involve both classical observations on the role of intonation in regulating discourse coherence, and ongoing debates on the effect of intonation on presupposition triggering and projection.",
             "id": "63"
           },
           {
             "lecturer": "Sonia Ramotowska and Fabian Schlotterbeck",
             "title": "When \"not difficult\" does not mean \"easy\" — what processing models of negation tell us about language comprehension",
-            "group": "Advanced",
+              "group": "Advanced",
+	      "room": "AV 01.12",
             "description": "Negation is fundamental to formal languages, ubiquitous in natural languages and central in everyday communication. For millennia, philosophers, logicians, and linguists investigated negation. More recently, the processing of negation became a cornerstone of psycholinguistics and cognitive science. Experiments firmly established that negative sentences are more difficult to process than affirmative ones. However, the source of this difficulty is still debated. Since the 1970s, competing explanations have been proposed and coined into processing models of negation. During this course, we will dissect and compare prominent processing models of negation that explain processing difficulties by implementing answers to fundamental questions about pragmatic language use, amodal representations, cognitive biases, conflict between cognitive representations, as well as the nature of verification and comprehension processes. Example questions we will address include: (1)Are there circumstances that completely alleviate the processing difficulty of negation? (2)Is this processing difficulty language-specific or due to domain-general mechanisms of conflict resolution?",
             "id": "24"
           }
@@ -327,14 +329,16 @@
           {
             "lecturer": "Kengatharaiyer Sarveswaran and Tafseer Ahmed",
             "title": "The Challenges of Processing South Asian Languages",
-            "group": "Foundational",
+              "group": "Foundational",
+	      "room": "Emma Vorlat",
             "description": "This course provides a comprehensive exploration of the intricacies of South Asian languages, with a focus on the Indo-Aryan and Dravidian language families. The course outline is crafted to immerse learners in the distinctive linguistic characteristics of South Asian languages, primarily the languages of Indo-Aryan and Dravidian families, encompassing areas such as script, encoding, transliteration, normalization, rich morphology, and syntax. A significant portion of the course is dedicated to examining how these aspects are applied within the scope of natural language processing (NLP). Designed to equip learners with a thorough understanding, the course aims to highlight both the challenges and the possible solutions pertinent to language processing. Therefore, the course not only offers an introduction to languages in South Asia, home to one-fourth of the global population and with a diaspora of approximately 40 million individuals but also introduces concepts that are generally applicable to multilingual NLP and low-resource languages.",
             "id": "69"
           },
           {
             "lecturer": "Manon Scholivet and Carlos Ramisch",
             "title": "Experimental methodology in computational linguistics",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "AV 02.17",
             "description": "Recent years saw experiments and empirical evaluation become a central component of computational linguistics. However, methodological principles and experimental design are often neglected, leading to shaky conclusions, stressful paper writing, and unfavourable reviews. Our course focuses on experimental methodology in NLP: key notions, recommended practices and avoidable traps. As methodology is often considered boring or unimportant, we start from examples, and realistic situations before introducing abstract notions. Practical exercises allow making the subject more fun, grounding abstract notions on concrete examples, and training skills such as structuring research questions, designing experiences, analysing and presenting results. We collaboratively build an ideal of scientific methodology and compare it with current practice, trying to avoid simplistic good/bad judgments. Skills developed should help move our habits towards this ideal. We see this as a privileged moment to study notions frequently used without full understanding, but greatly influencing our research's quality.",
             "website": "https://gitlab.com/zenresearch/esslli2024/",
             "id": "31"
@@ -344,14 +348,16 @@
           {
             "lecturer": "Arne Meier and Jonni Virtema",
             "title": "Complexity and expressivity of propositional logics with team semantics",
-            "group": "Advanced",
+              "group": "Advanced",
+	      "room": "Ruth Benedict",
             "description": "During the last decade, there has been a rise of interest in the study of a unified logical theory for the concept of dependence. A multitude of logics has been introduced in the first-order, propositional, and modal contexts. The common dominator for these logics is the adaptation of team semantics as a core notion. These new logics have several applications in many different areas of research such as database theory, linguistics, and philosophy. The main goal of this course is to introduce propositional variants of dependence and inclusion logic and to investigate their expressivity and computational complexity of satisfiability, validity, and model checking. The students will acquire technical key observations and techniques in the context of propositional team semantics which will be useful to improve the overall understanding of expressivity and complexity of logics as well as skills and knowledge regarding reductions and algorithms.",
             "id": "45"
           },
           {
             "lecturer": "Davide Catta and Christian Retoré",
             "title": "Linear Logic",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "AV 03.12",
             "description": "Linear logic introduced in 1987 by Girard is a refinement of both classical and intuitionistic logics, with substantial outcomes in computer science: functional and logic programming, denotational semantics, concurrency and sharing, (implicit) complexity theory, computational linguistics. It is by now a standard topic in logic and theoretical computer science. Instead of emphasizing truth values, as in classical logic, or proofs, as in intuitionistic logic, linear logic emphasizes the role of formulas as resources. In this course, our aim is to introduce fundamental concepts and techniques of linear logic through a proof-theoretic approach. We will first present the sequent calculus formalism of linear logic, and present the graph theoretical syntax of linear logic, proof nets. Then, we will delve into its denotational semantics, the semantics of proofs, in terms of coherence spaces. The course will end with a non-commutative extension of linear logic, pomset logic, whose relation to deep inference has been recently clarified.",
             "id": "72"
           }
@@ -370,14 +376,16 @@
           {
             "lecturer": "Friederike Moltmann",
             "title": "Revisiting Event Semantics",
-            "group": "Advanced",
+              "group": "Advanced",
+	      "room": "AV 00.17",
             "description": "The semantics of events has become a central topic in contemporary semantics as well as syntax ever since the seminal 1967 paper of Donald Davidson caught the interest of linguists. This course will give an overview of the latest developments of Davidsonian and Neo-Davidsonian event semantics and its syntactic representation and address severel important challenges to it that have received little attention. These include the notion of an abstract (or 'Kimean') state, the distinction between events and acts, the apparent categorization of verbs as event predicates as mass rather than dividing into mass and count, cartographic theory of adverbial modification and their linguistic motivations, and implications of theories of syntactic decomposition of verbs into light verb-noun complexes for event semantics. New theoretical proposal will be presented to address those challenges.",
             "id": "18"
           },
           {
             "lecturer": "Bart Geurts",
             "title": "Common ground",
-            "group": "Foundational",
+              "group": "Foundational",
+	      "room": "AV 01.12",
             "description": "Common ground has been a central notion in theoretical pragmatics since the 1970s, and a fixture in theories of presupposition, reference, speech acts, implicature, and many other topics. Given that pragmatics is an interdisciplinary concern, it is hardly surprising that common ground has been discussed across a range of disciplines, including philosophy, linguistics, psychology, and computer science. But for all its importance, there has been relatively little discussion of foundational issues. There are radically different views on the nature of common ground, i.e. what common ground is, and there have been no attempts to compare and contrast these views at any length, and consider their implications for the analysis of speech acts and fiction, for example. In brief, that is the main objective of the course. We will compare and contrast three main views, two of which have been developed by Stalnaker: the container view and the psychological view. The latter is probably the dominant view on common ground, although there are quite a few researchers who consider it to be incoherent. The third view has its roots in Lewis's work on ``common knowledge''; it treats common ground as a normative concept. Each of these views is associated with a distinctive take on pragmatics, and especially with a distinctive account of what speech acts are and how they interact with the common ground.",
             "id": "6"
           }
@@ -386,14 +394,16 @@
           {
             "lecturer": "Mark Steedman",
             "title": "Combinatory Categorial Grammar and the Minimalist Program",
-            "group": "Advanced",
+              "group": "Advanced",
+	      "room": "Emma Vorlat",
             "description": "This is the title for a one-week advanced course to follow \"Introduction to Combinatory Categorial Grammar\" by the same proposer.",
             "id": "56"
           },
           {
             "lecturer": "Gerhard Jäger",
             "title": "Statistical typology",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "AV 02.17",
             "description": "In the field of linguistic typology, the variation in grammatical properties across natural languages is not random but is influenced by a mix of linguistic universals, genetic relationships, and language contact. This course, building on the foundational work of Joseph Greenberg and subsequent developments, aims to explore these complex interrelations. Recent years have seen significant advancements due to more sophisticated statistical tools and the expansion of cross-linguistic databases. The course is designed for students of linguistics and neighboring disciplines, focusing on two key areas: phylogenetic methods and spatial statistics. Through these lenses, we will examine how linguistic features are inherited, and how they spread under language contact. The curriculum will include practical applications of these methods, enabling participants to analyze typological databases effectively. By the end of this course, attendees will have a clearer understanding of how universal tendencies, common descent, and language contact shape the grammar of natural languages. They will also gain hands-on experience with modern statistical tools and techniques essential for linguistic research.",
             "id": "14"
           }
@@ -402,7 +412,8 @@
           {
             "lecturer": "Eric Pacuit",
             "title": "Social Choice and Machine Learning",
-            "group": "Introductory",
+              "group": "Introductory",
+	      "room": "Ruth Benedict",
             "description": "This course will introduce students to an exciting new area of research at the intersection of social choice theory and machine learning. The course will begin with an introduction to social choice theory, with an focus on the mathematical analysis of voting methods, probabilistic voting, strategic voting, and new group decision making paradigms, such as liquid democracy. The main objective of the course is to explain how machine learning tools and ideas have been used to complement existing social-choice theoretic results. The course will also discuss recent work using large-language models to enhance group decision-making processes.",
             "website": "https://pacuit.org/esslli2024/social-choice-machine-learning/",
             "id": "30"
@@ -410,7 +421,8 @@
           {
             "lecturer": "Tiziano Dalmonte and Marianna Girlando",
             "title": "Proof theory of modal logic",
-            "group": "Advanced",
+              "group": "Advanced",
+	      "room": "AV 03.12",
               "description": "In this course we explore the proof theory of modal logic. It is well-known that Gentzen-style sequent calculi fail to meet basic requirements in the case of modal logic: for instance, no cut-free sequent calculus is known for the modal logic S5. In order to overcome these difficulties, several extensions of Gentzen's formalism have been studied in the literature. These can be approximately grouped into two categories: labelled calculi, which extend the language of the calculus with explicit semantic information, and structured calculi, such as nested or hypersequent calculi, which instead include additional structural connectives into the structure of the sequents. We will discuss the main properties of these proof systems, including cut-freeness and modularity. Moreover, we will showcase how labelled and structured calculi are suitable to obtain decision procedures for the logics, focusing specifically on countermodel extraction from failed derivations. To conclude, we will compare the various proof systems (Gentzen-style, labelled, structured) by defining formal translations that allow one to convert derivations of one kind into equivalent derivations of the other kind.",
 	      "website": "https://esslli24-pfthml.github.io/esslli24PfThML.github.io/",
               "id": "51"
