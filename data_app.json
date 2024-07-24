@@ -612,6 +612,7 @@
               "title": "Theoretical and empirical approaches to cleft constructions",
               "group": "Introductory",
               "location": "AV 00.17",
+              "discord": "https://discord.com/channels/1241387568105394277/1263587645867688017",
               "description": "This course aims to cross-linguistically investigate cleft constructions from theory-driven and empirical perspectives. An English cleft construction is a sentence of the form It is ... who ..., as exemplified in (1).\n\n(1) It was Sally who danced.\n\nWe will first introduce hypotheses for capturing the meanings of clefts, their use conditions and their functions in discourse. In addition, we will discuss formal analyses that attempt to derive the cleft\u2019s exhaustive inference (e.g., nobody other than Sally danced in (1)), and analyses demonstrating interactions between clefts and Questions Under Discussion (Roberts, 2012). Up-to-date psycholinguistic studies and corpus research which cross-linguistically test these theoretical claims (e.g., in Chinese, German, etc.) will also be introduced alongside. We will examine various experimental designs, and investigate empirical results, which seem to clash with theoretical predictions. The goal of this course is not only to convey state-of-the-art knowledge on cleft constructions to the students, but also to inspire and explore new theoretical and empirical ideas together with the students.",
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
@@ -633,6 +634,7 @@
               "group": "Advanced",
               "location": "AV 01.12",
               "description": "An OT (Optimality Theory) typology is comprised of a set of grammars which themselves are sets of total orders. Every typology has an associated geometry which provides an inherent classification of the grammars that constitute it. In this course we will develop these notions, showing how constraints, which at the lowest level are numerical comparisons between linguistic candidates, can be abstractly viewed as providing comparisons between entire grammars. From this perspective, constraints provide both order and equivalence structures on the grammars, an \u201cEquivalence-augmented Partial Order\u201d (EPO), which determine all licit typological classifications of a given theory. The set of all such EPOs for a typology is termed the Mother of all Tableaux (MOAT). We will develop these notions in both the concrete and abstract, using basic syllable theory as an entr\u00e9e into the abstract categories of OT typologies.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263587765031931996",
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
@@ -653,6 +655,7 @@
               "group": "Introductory",
               "location": "Emma Vorlat",
               "description": "This course introduces students to lexical semantic change research. It will provide an overview of NLP models for word meaning representations from past to state-of-the-art. It will survey existing resources of diachronic data in the form of historical corpora, reliable datasets, and evaluation. It will cover the application of semantic change methods for varied fields like historical linguistics, sociology, or cultural studies. Focusing on tools for detecting and interpreting semantic change, the course emphasizes their relevance to any research disciplines that uses text as its main medium of study. By analyzing diachronic corpora with state-of-the-art methods, students gain insights into societal attitudes towards various topics over time, from technology acceptance to racial bias in legal texts. The course blends theoretical foundations with hands-on practice, enabling participants to navigate computational tools in NLP effectively. Delving into challenges and adjustments for cross-disciplinary deployment, the course train students to select appropriate methods for their research scenarios. Ultimately, participants will emerge with a nuanced understanding of semantic change and the practical skills to apply computational tools judiciously in diverse research contexts.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263591213223645255",
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
@@ -673,6 +676,7 @@
               "group": "Foundational",
               "location": "AV 02.17",
               "description": "Among those mixing together Boolean concepts and modal concepts, the search for minimality has prompted multifarious debates. Most of these debates have now faded. In fact, they have not survived the end of the syntactic era of modal logic. Before the advent, in the 1960s, of the concept of Kripke frames, it was unclear which modal logic is the most appropriate candidate for the title of ``minimal modal logic''. Today, although the modal logic K does not contain any of the formulas expressing the properties usually associated to the modal concepts of necessity and possibility, everyone accepts the fact that K is the minimal modal logic. Among those combining together intuitionistic concepts and modal concepts, the quest for minimality has caused numerous discussions. Some of these discussions are still alive. Indeed, two approaches are in direct opposition: the intuitionistic approach set out by Fischer Servi (1977, 1978, 1984) giving rise to the intuitionistic modal logic IK and the constructive approach expounded by Wijesekera (1990) giving rise to the intuitionistic modal logics WK and CK. And there is no consensus of what should be the ``minimal intuitionistic modal logic''.\n\nThe reason for being of the intuitionistic approach set out by Fischer Servi is mainly the fact that a minimal intuitionistic modal logic should contain the formulas whose standard translation in a first-order language are intuitionistically valid. Therefore, the supporters of this approach consider intuitionistic modal logic IK that contains the formulas \u25ca(pVq)->\u25capV\u25caq and \u00ac<>false despite their non-constructive character. The justification of the constructive approach expounded by Wijesekera chiefly rests on the fact that the formulas of a minimal intuitionistic modal logic should have a constructive character. As a result, the upholders of this approach consider intuitionistic modal logic WK that does not contain the formula \u25ca(pVq)->\u25capV\u25caq. The most radical of them also consider intuitionistic modal logic CK that does not contain either the formula \u00ac<>false. There is no sense in comparing the arguments for and against the intuitionistic approach giving rise to the intuitionistic modal logic IK and the constructive approach giving rise to the intuitionistic modal logics WK and CK. To convince the reader of this opinion, it suffices to mention how these approaches differently define the truth condition of diamond-formulas in their relational semantics, although they consider the same truth condition of box-formulas. This difference in the definition of the truth condition of diamond-formulas shows that the connective \u25ca \u00e0 la Fischer Servi and the connective \u25ca \u00e0 la Wijesekera are as separate as are, for example, the connectives of disjunction and conjunction in any intermediate logic.\n\nIn this course, we firstly offer a self-contained overview of intermediate logics and modal logics. Secondly, we survey the different intuitionistic and constructive approaches to modal logic that have been proposed in the literature. We thirdly present the most important motivations for the introduction of such approaches: Curry-Howard correspondence between proofs and programs, Brouwer-Heyting-Kolmogorov interpretation of logic, type systems for staged computation, formalization of distributed computation, hardware verification, etc. Fourthly, we develop the proof theory, the relational semantics and the algebraic semantics of the different intuitionistic and constructive approaches to modal logic. We fifthly introduce an appropriate candidate for the title of minimal intuitionistic modal logic, an intuitionistic modal logic strictly contained in IK and comparable neither with WK, nor with CK. For some of its extensions, we study the axiomatization/completeness and the decidability/complexity of the set of their valid formulas. This course will mainly address logical and computational aspects of the combination of intuitionistic concepts and modal concepts.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263593674567323708",
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
@@ -693,6 +697,7 @@
               "group": "Introductory",
               "location": "AV 03.12",
               "description": "The notion of explanation plays a pivotal role in artificial intelligence and machine learning, in which there is an increasing demand of explaining the behavior of systems trained on data, especially deep learning systems. Different notions of of explanation have been proposed and studied in the area of eXplainable AI (XAI), varying according to different dimensions such as global versus local and model-agnostic versus model-specific. In this course we will introduce several modal logics for explaining the behaviors and predictions of AI systems, including classifier systems and causal models, of which artificial neural networks are special instances. These logics support reasoning about different types of explanations including abductive, contrastive, counterfactual and causal explanation. We will discuss the proof-theoretic, decidability and complexity aspects of these logics and illustrate their expressiveness with examples.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263593723183501353",
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
@@ -713,6 +718,8 @@
               "group": "Workshop",
               "location": "Ruth Benedict",
               "description": "Conversational Grounding is the process whereby participants in a conversation establish new common ground; that is, shared information that can subsequently be referred to. The conversational grounding process includes not just transmission of information via declarative utterances, but also visual, inferential, and interactive feedback processes. While there has been a substantial work on conversational grounding, many open problems remain, particularly when applied to different situations and activities, involving different numbers and types of participants, different perceptual and action affordances, and different goals. Moreover, new resources involving large language models change the nature of grounding processes and create new challenges even when they may improve the ability to solve some issues. The moment is therefore to bring together researchers working on aspects of Conversational Grounding for a workshop to increase common ground on the topic, and disseminate new best practices for computing, modeling and implementing conversational grounding in dialogue systems.",
+              "website": "https://articulab.hcii.cs.cmu.edu/conversational-grounding-in-the-age-of-large-language-models/",
+              "discord": "https://discord.com/channels/1241387568105394277/1263585744270917735",
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
@@ -733,6 +740,7 @@
               "group": "Advanced",
               "location": "AV 00.17",
               "description": "This practical Advanced Course aims to introduce students with computational linguistics backgrounds to incremental language processing for Spoken Dialogue Systems (SDS). Students will be shown the benefits of incrementality for improving speed, naturalness and fluidity of conversing with machines. Concretely, we will be looking at SDSs where processing information from user speech on a word-by-word basis is crucial. The course will cover how to deal with various natural, incremental phenomena in dialogue - such as spoken disfluencies, utterance continuations and interruptions - which standard dialogue systems cannot deal with, using incremental, semantically-driven natural language understanding and generation models. Each session is divided into a lecture, and a practical. During the practicals students work gradually towards building their own fully incremental SDS in a small domain, using the technical tools and API that we will provide. Our aim is that by the end of the course, students will appreciate the multi-faceted complexity of real-time language processing in dialogue.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263588417669955634",
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
@@ -753,6 +761,7 @@
               "group": "Introductory",
               "location": "Emma Vorlat",
               "description": "This course addresses inclusory constructions from two different perspectives: On the one hand, we will examine which linguistic expressions can be involved in the emergence of inclusory meaning cross-linguistically. On the other hand, we will investigate how inclusory meaning can be captured by means of formal semantics in the first place. Because only a certain 'class' of elements happens to play a key role in this respect, namely additives ('too, also'-type) and comitatives ('with'-type) \u2013 i.e. expressions whose meaning usually has a conjunctive flavour. In inclusory constructions, however, they establish a 'part of'-relation instead, which is the hallmark of inclusory meaning, but at the same time forces us to reconsider or modify or formal- logical assumptions about these elements. The aim of this course is to provide an overview of an under-explored empirical phenomenon and to illustrate the formal challenges it presents us with.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263588367916994592",
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
@@ -773,6 +782,7 @@
               "group": "Introductory",
               "location": "AV 01.12",
               "description": "This course explores the relationship between language and society by drawing on complementary perspectives from sociolinguistics and natural language processing. It discusses variation in language use in connection with (i) speakers\u2019 sociodemographic properties such as age, gender, and socioeconomic status; (ii) speakers\u2019 patterns of interaction; and (iii) the social meaning conveyed through the use of different linguistic variants. In bringing together NLP and sociolinguistics, we aim to establish a comparable level of depth across the disciplines. For students already acquainted with fundamental computational linguistics, the course will provide insights into the richness of language when viewed within a broader social context. For students with a background in sociolinguistics, we will present examples of various computational techniques that can be used to analyze linguistic variation. Students with previous experience in programming will be able to run the practical exercises independently and engage with different types of attested linguistic data.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263592038616793088",
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
@@ -793,6 +803,8 @@
               "group": "Advanced",
               "location": "AV 03.12",
               "description": "Neighborhood models are generalizations of the standard relational models for modal logic invented independently by Dana Scott and Richard Montague in 1970. These models provide a simple semantics for many interesting non-normal modal logics, such as Coalitional Logic, Game Logic, and weak logics of beliefs. This course will introduce the basic techniques and results of neighborhood semantics for modal logic and explain the exact relationship between the standard relational semantics and neighborhood semantics for modal logics. The main objective is to demonstrate precisely where neighborhood models fit within the large family of semantic frameworks for modal logic and discuss both the pitfalls and potential uses of neighborhood models.",
+              "website": "https://pacuit.org/esslli2024/neighborhood-semantics/",
+              "discord": "https://discord.com/channels/1241387568105394277/1263592582835863643",
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
@@ -813,6 +825,8 @@
               "group": "Workshop",
               "location": "Ruth Benedict",
               "description": "Many of us think that Kendall Walton\u2019s general theory of make-believe is the best available framework for theorising about fictional discourse. In this framework, modeling truth, reference and speech-acts in fiction starts from this idea that fictional texts are best construed as props in a game of make-believe. within this \u201cfunctionalist\u201d framework, an adequate semantic analysis of fictional discourse typically requires deploying a narrative element: on top of the representation of a storyworld, one needs a specific narrator-narrative-narratee structure. The semantics of fiction thus leads to narratology. We will look at how semantics and narratology do and should interact when it comes to modeling fictional discourse: first, investigating recent, controversial notions from the semantics of fiction which have a narratological flavour (esp. the fictional periphery, narrator-less fictions, the real-world vs. in-universe perspectives); second, looking at some recent advances in narratology explicitly raising foundational issues (esp. models for second-person narratives, metanarrative fictions).",
+              "website": "https://rouillel.github.io/esslli-workshop.html",
+              "discord": "https://discord.com/channels/1241387568105394277/1263585874210324522",
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
@@ -868,6 +882,8 @@
               "group": "",
               "location": "Jean Monnet",
               "description": "",
+              "website": "https://2024.esslli.eu/placeholder-programme/student-session.html",
+              "discord": "https://discord.com/channels/1241387568105394277/1263595238753042492",
               "timeStart": "03:50 PM",
               "timeEnd": "04:50 PM",
               "tracks": [
@@ -914,6 +930,7 @@
               "group": "Advanced",
               "location": "AV 00.17",
               "description": "This course addresses the connection between scalarity and additivity in natural language. Scalarity has mainly been investigated within degree semantics, which aims to study how natural language expresses measurement and comparison along an abstract dimension, i.e., a scale composed of a totally ordered set of scalar values (degrees or intervals). Additivity is mainly about expressions that bring an existential presupposition in a domain of entities: e.g., additive particles like \"another\" presuppose the existence of a similar item. Recent research suggests a connection between scalarity and additivity (e.g., Greenberg 2010, Thomas 2010, Zhang and Ling 2021): comparison means additivity along a scale. This course addresses the conceptual, empirical, and technical aspects of this connection across domains. The course will start with an additivity-based perspective on comparatives, introducing the conceptual benefits and technical details of connecting research on scalarity and additivity. Then we will discuss various research questions within this perspective.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263587895265198163",
               "timeStart": "05:00 PM",
               "timeEnd": "06:30 PM",
               "tracks": [
