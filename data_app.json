@@ -1081,18 +1081,36 @@
             }
           ]
         },
+	  {
+	      "time": "6.30 - 8.30pm",
+	      "sessions": [
+		  {
+		      "lecturer": "",
+		      "title": "Welcome Reception",
+		      "group": "Breaks and Social Events",
+		      "location": "Alma 2",
+		      "description": "",
+		      "timeStart": "06:30 PM",
+		      "timeEnd": "08:30 PM",
+		      "tracks": [
+			  "Breaks and Social Events",
+		      ],
+		      "id": "welcome",
+		      "days": [
+			  "0"
+			  ]
+		  }
+		  ]
+	  },
         {
-          "time": "7.00pm - 8.30pm",
+          "time": "7.00pm - 8.00pm",
           "sessions": [
             {
               "lecturer": "Sonja Smets (University of Amsterdam)",
               "title": "Logic and Computation of Social Behavior",
               "group": "Evening",
               "location": "Jean Monnet",
-              "description": "Following the recent development in which logical methods can be applied to the formal analysis of social networks, I present work on the use of logic to study social influence and herd behavior in epistemic social networks. In such networks, we first consider agents who adopt a new fashion or behavior depending on whether a 'sufficiently large enough group' of their neighbors already has adopted the behavior. We provide different types of models as well as a simple qualitative modal language to reason about the concept of a 'strong enough' trigger of influence. Using fixed-point operators in our logic, important results from network theory about the characterization of informational cascades follow immediately from our logical axioms. Unfolding the influence dynamics in an epistemic social network allows us to characterize the epistemic conditions under which the dynamic diffusion process can speed up or slow down. The results presented in this talk are based on on-going joint work with Alexandru Baltag at the University of Amsterdam in [1] and on the paper in [2].
-
-[1] Alexandru Baltag and Sonja Smets. Logic goes viral: Modalities for Social Networks, Manuscript in preparation, 2024.
-[2] Alexandru Baltag, Zoé Christoff, Rasmus K. Rendsvig, Sonja Smets, Dynamic Epistemic Logics of Diffusion and Prediction in Social Networks, Studia Logica, June 2019, Volume 107 (3), pp 489–531.",
+              "description": "Following the recent development in which logical methods can be applied to the formal analysis of social networks, I present work on the use of logic to study social influence and herd behavior in epistemic social networks. In such networks, we first consider agents who adopt a new fashion or behavior depending on whether a 'sufficiently large enough group' of their neighbors already has adopted the behavior. We provide different types of models as well as a simple qualitative modal language to reason about the concept of a 'strong enough' trigger of influence. Using fixed-point operators in our logic, important results from network theory about the characterization of informational cascades follow immediately from our logical axioms. Unfolding the influence dynamics in an epistemic social network allows us to characterize the epistemic conditions under which the dynamic diffusion process can speed up or slow down. The results presented in this talk are based on on-going joint work with Alexandru Baltag at the University of Amsterdam in [1] and on the paper in [2]. [1] Alexandru Baltag and Sonja Smets. Logic goes viral: Modalities for Social Networks, Manuscript in preparation, 2024. [2] Alexandru Baltag, Zoé Christoff, Rasmus K. Rendsvig, Sonja Smets, Dynamic Epistemic Logics of Diffusion and Prediction in Social Networks, Studia Logica, June 2019, Volume 107 (3), pp 489–531.",
               "timeStart": "07:00 PM",
               "timeEnd": "08:00 PM",
               "tracks": [
