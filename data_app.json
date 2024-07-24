@@ -687,7 +687,7 @@
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
-                "Workshops"
+                "Workshops and Student Session"
               ],
               "id": "66",
               "days": [
@@ -787,7 +787,7 @@
               "timeStart": "02:00 PM",
               "timeEnd": "03:30 PM",
               "tracks": [
-                "Workshops"
+                "Workshops and Student Session"
               ],
               "id": "7",
               "days": [
@@ -1067,7 +1067,7 @@
               "timeStart": "05:00 PM",
               "timeEnd": "06:30 PM",
               "tracks": [
-                "Workshops"
+                "Workshops and Student Session"
               ],
               "id": "41",
               "days": [
@@ -1187,6 +1187,27 @@
               "id": "party",
               "days": [
                 "4"
+              ]
+            }
+          ]
+        },
+        {
+          "time": "7.30 - 9.00pm",
+          "sessions": [
+            {
+              "lecturer": "",
+              "title": "Football Match",
+              "group": "",
+              "location": "Sports field at Sportkot",
+              "description": "",
+              "timeStart": "07:30 PM",
+              "timeEnd": "09:00 PM",
+              "tracks": [
+                "Breaks and Social Events"
+              ],
+              "id": "football",
+              "days": [
+                "7"
               ]
             }
           ]
