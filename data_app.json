@@ -1211,6 +1211,27 @@
               ]
             }
           ]
+        },
+        {
+          "time": "6.45 - 7.15pm",
+          "sessions": [
+            {
+              "lecturer": "",
+              "title": "Closing Ceremony",
+              "group": "",
+              "location": "Jean Monnet",
+              "description": "",
+              "timeStart": "06:45 PM",
+              "timeEnd": "07:15 PM",
+              "tracks": [
+                "Breaks and Social Events"
+              ],
+              "id": "closing",
+              "days": [
+                "11"
+              ]
+            }
+          ]
         }
       ]
     }
