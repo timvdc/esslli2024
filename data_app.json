@@ -951,6 +951,7 @@
               "group": "Introductory",
               "location": "Emma Vorlat",
               "description": "A major advancement in language modeling is the use of the transformer architecture. But, what problems can transformers solve, what problems can they not solve, and how can we prove it? This course examines the expressivity of transformers through the lens of computability and complexity theory. We will situate transformers within the landscape of automata, boolean circuits, and formal logics. We will discuss what is currently known about transformers' capabilities and limitations, address the practical implications of these results for natural language processing, and identify some directions for future work. Participants will gain a comprehensive understanding of transformers' expressive power in terms of the problems they fundamentally can and cannot solve.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263591264322850827",
               "timeStart": "05:00 PM",
               "timeEnd": "06:30 PM",
               "tracks": [
@@ -971,6 +972,7 @@
               "group": "Foundational",
               "location": "AV 01.12",
               "description": "This course is addressed to students interested in the logical analysis of complex multi-agent scenarios involving data-exchange and communication. We look at various forms of information flow that can affect both the individual knowledge and the group knowledge of interacting agents. These scenarios include acts by which individuals or groups can publicly or privately access whole databases and `grab\u2019 (read, copy, transmit or modify) all the information stored in them (including numerical, or other non-propositional, data). We present a family of dynamic logics, based on extensions of Dynamic Epistemic Logic that can handle exchanges in which the relevant data are not necessarily in propositional form. We study the expressive power of data-exchange logics, provide complete axiomatizations, show their decidability, and apply them to a range of examples, including sharing an internet resource, learning another agent\u2019s password, hacking a private database, detecting a cryptographic attack, etc.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263593776085995550",
               "timeStart": "05:00 PM",
               "timeEnd": "06:30 PM",
               "tracks": [
@@ -991,6 +993,8 @@
               "group": "Advanced",
               "location": "Ruth Benedict",
               "description": "Bundled modalities pack a quantifier and a modality together. In this course, I will introduce the idea, techniques, and applications of bundled modalities in epistemic logic, deontic logic, non-classical logic, and decidable fragments of first-order modal logic.",
+              "website": "http://wangyanjing.com/introduction-to-bundled-modalities/",
+              "discord": "https://discord.com/channels/1241387568105394277/1263593846978379796",
               "timeStart": "05:00 PM",
               "timeEnd": "06:30 PM",
               "tracks": [
@@ -1011,6 +1015,7 @@
               "group": "Introductory",
               "location": "AV 00.17",
               "description": "This course is an introduction to semantic theories of truth, a composite and currently active area within the more general field of research on truth and semantic paradoxes. Semantic theories of truth address by mathematical means several problems raised in logic and philosophy of language by the semantic paradoxes by focusing on the semantic aspect of the issue, namely, on the goal of finding the correct interpretation to be given to the predicate \u2018true\u2019 both in natural and in formalised languages. Each lecture will focus on a \u201ctruth-theoretic puzzle\u201d, namely, on an example of use of the word \u2018true\u2019 raising some problem for a semantic theory. Each puzzle will be examined both in natural language and in its mathematical version, giving the opportunity of introducing one of the contemporary formal approaches to truth as a way of answering the challenge issued by the puzzle.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263594948733698088",
               "timeStart": "05:00 PM",
               "timeEnd": "06:30 PM",
               "tracks": [
@@ -1031,6 +1036,7 @@
               "group": "Introductory",
               "location": "AV 01.12",
               "description": "Paraconsistent logic is a family of theories on what can be logically concluded from contradictions, different from the family of theories according to which contradictions entail everything. By touching on core areas of theoretical inquiry, such as truth, falsity, logicality, negation, or rationality, paraconsistent logic has opened new research directions in philosophy, science, and technology. This is an introductory course to some of the most important work on paraconsistent logic from the last decade. I start by exploring two proposals for refining the notion of paraconsistent logic, because the mere failure of Ex Contradictione Quodlibet (ECQ) \u2013that everything follows from a contradiction\u2013 might not be sufficient to characterize a paraconsistent logic. The first proposal consists of demanding a pronouncement about the law of non-contradiction (LNC) as well, as apparently there is some tension in rejecting ECQ but accepting LNC. The second proposal asks for considering the appropriate versions of ECQ when meta-arguments \u2013i.e. arguments between arguments\u2013 are involved. No matter how paraconsistent logics are presented or defined, they typically lack validities that seem at least useful, if not necessary, for reasoning in general. Thus, some techniques to recover the validities lost in a paraconsistent logic are presented, paying special attention to using unary recover operators to express within the language that a proposition is consistent or inconsistent. Finally, less shy paraconsistent attitudes are presented, namely those leading to logics validating contradictions (and perhaps other classically false or contingent schemas) and the program of doing inconsistent mathematics without any intention of recovering classically valid results if they happen to fail. Suitable motivations and examples of these two latter approaches will be presented.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263594987606507520",
               "timeStart": "05:00 PM",
               "timeEnd": "06:30 PM",
               "tracks": [
@@ -1051,6 +1057,7 @@
               "group": "Advanced",
               "location": "AV 02.17",
               "description": "Language model programming is the attempt to relate large language model (LLM) development to conventional programming. Making a direct connection between programming and LLM development allows one to bring more rigor to current techniques in NLP (e.g., by exploiting known concepts from programming language theory), and can even motivate the development of new programming languages that make LLM development easier, safer and more efficient. This course reviews the literature on language model programming, starting from advanced prompting techniques in NLP to recent attempts in the programming language literature to build novel programming frameworks for LLMs. We then discuss and motivate alternative paradigms such as declarative model programming and probabilistic programming (based instead on tools such as logic and probabilistic inference). The course gives participants an understanding of the relevant literature, focusing especially on applications such as constrained decoding, interfacing LLMs with tools and model alignment.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263592141523910718",
               "timeStart": "05:00 PM",
               "timeEnd": "06:30 PM",
               "tracks": [
@@ -1071,6 +1078,7 @@
               "group": "Introductory",
               "location": "Emma Vorlat",
               "description": "Aristotelian diagrams, such as the square of opposition, have a rich history in philosophical logic, and today they are also widely used in other disciplines, such as linguistics and computer science. In recent years, these diagrams have also begun to be studied as objects of independent logical and diagrammatic interest, giving rise to the burgeoning field of logical geometry. This course will (i) give students a sense of the wide and interdisciplinary range of (sometimes unexpected) applications of Aristotelian diagrams, (ii) discuss some of the fundamental logical and diagrammatic issues related to these diagrams, and (iii) introduce the methods and tools developed in logical geometry for studying these topics. In particular, we will deal with applications such as Russell's theory of definite descriptions and the Region Connection Calculus, logical and diagrammatic issues such as logic-sensitivity and informational optimality of Aristotelian diagrams, and methods such as bitstring semantics.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263592620752633897",
               "timeStart": "05:00 PM",
               "timeEnd": "06:30 PM",
               "tracks": [
@@ -1091,6 +1099,8 @@
               "group": "Advanced",
               "location": "AV 03.12",
               "description": "This course is intended for a broad audience with basic knowledge of modal and temporal logics. It will first introduce and discuss some important and popular logics for unconditional strategic reasoning in multi-agent systems. Then it will focus on some recently developed refined and richer systems of such logics, where the agents\u2019 strategic abilities are considered in the \u2018social context\u2019 of all agents, with their objectives, abilities to act, and \u2018social attitudes\u2019 (incl. inclination to cooperate or not with the others), as well as on their knowledge or beliefs about that social context. These will be considered under various assumptions: with complete, incomplete, or imperfect information; with no memory, bounded or unbounded memory of the agents; with dynamically changing social contexts, etc. Formal logical systems and some technical results about them will be outlined in the course and several unexplored directions for further research and open problems will be mentioned. ",
+              "website": "https://www2.philosophy.su.se/goranko/Courses2024/ESSLLI2024_LogicsForStrategicReasoning.html",
+              "discord": "https://discord.com/channels/1241387568105394277/1263592663781867600",
               "timeStart": "05:00 PM",
               "timeEnd": "06:30 PM",
               "tracks": [
@@ -1111,6 +1121,7 @@
               "group": "Workshop",
               "location": "Ruth Benedict",
               "description": "Proof-theoretic Semantics (P-tS) is a rapidly developing, novel approach to meaning in logic. It is based on the principle that the meaning of expressions in our language, in particular to logical constants, is that of 'proof' (rather than 'truth'). The Symposium on Proof-theoretic Semantics aims to expose the field to a wider community of researchers. It provides novel perspectives on the relationship between proof theory and semantics in logic. In particular, this workshop is suitable for researchers interested in proof systems for logics, systems and tools for evaluation, and the use of logic for reasoning --- both formally in systems verification and modelling, symbolic artificial intelligence, etc., and informally in conceptional frameworks supporting the deployment of logic in mathematics, informatics, and philosophy.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263585960055148664",
               "timeStart": "05:00 PM",
               "timeEnd": "06:30 PM",
               "tracks": [
@@ -1135,7 +1146,7 @@
               "title": "Welcome Reception",
               "group": "",
               "location": "Alma 2",
-              "description": "",
+              "description": "The ESSLLI 2024 welcome reception is the perfect opportunity for participants to meet and socialize. While socializing, you'll get to taste a selection of local beers from around Leuven, as well as some of Belgium's more famous beers, including some of the renowned Trappist beers.",
               "timeStart": "06:30 PM",
               "timeEnd": "08:30 PM",
               "tracks": [
@@ -1225,7 +1236,7 @@
               "title": "Student Party",
               "group": "",
               "location": "Alma 2",
-              "description": "",
+              "description": "The ESSLLI 2024 student party will provide a relaxed end to the first week, after days of hard work and lectures. Belgians are very proud of their frietcultuur, and you'll get a chance to experience it, accompanied by a refreshing pintje.",
               "timeStart": "07:00 PM",
               "timeEnd": "10:00 PM",
               "tracks": [
@@ -1246,7 +1257,7 @@
               "title": "Football Match",
               "group": "",
               "location": "Sports field at Sportkot",
-              "description": "",
+              "description": "The ESSLLI football match is a long-standing tradition that brings participants and lecturers together for some friendly competition. Participants will compete against lecturers (provided the lecturers show up, of course). No special skills are required—just bring your enthusiasm and enjoy some casual competition.",
               "timeStart": "07:30 PM",
               "timeEnd": "09:00 PM",
               "tracks": [
@@ -1267,7 +1278,7 @@
               "title": "Closing Ceremony",
               "group": "",
               "location": "Jean Monnet",
-              "description": "",
+              "description": "Two weeks of hard work deserve a proper closing ceremony. We'll celebrate all that acquired knowledge and all those enlightened minds. The ceremony will also include the announcement of next year's organizers and location.",
               "timeStart": "06:45 PM",
               "timeEnd": "07:15 PM",
               "tracks": [
