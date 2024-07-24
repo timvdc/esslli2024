@@ -71,9 +71,9 @@
               "title": "Generative AI and Symbolic Knowledge Representations: Large Language Models, Knowledge, and Reasoning",
               "group": "Introductory",
               "location": "Emma Vorlat",
-		"description": "This course is intended to be an Introductory Course addressing Large Language Models, or in general Large Models (multi-modal) and Knowledge Representations for reasoning and semantic processing. We address the following questions:\n\n- What are knowledge representations? This is about ontologies, Knowledge Graphs, and semantic web approaches to handle, for example, Description, Logic representations, and reasoning.\n - What are Large Language Models and, ultimately, Large Models? This mainly addresses so-called Generative AI, approaches to building and training models, and their application and limits when the input is unstructured text or visual information only.\n\nHow can LMs and computational semantics approaches be combined? This addresses general problems of LMs (e.g., hallucinations), and we discuss how symbolic (and also probabilistic) knowledge representations can be linked to LMs generating more reliable responses, summaries, and even pragmatic aspects like implicatures and presuppositions. We also discuss how LMs can be trained on knowledge and semantic representations to improve their reasoning capabilities.\nThis course is accompanied by extensive material, code, and instructions shared with students and the community, including hands-on access to the respective technologies. Depending on the audience, interest, and goals, we can adjust the level and content and design the course to include a discussion of state-of-the-art approaches to the generation of ontologies, taxonomies, and Knowledge Graph representations. This course might sound technologically challenging, but we can assure you that it is actually within the scope of undergraduate students and is certainly appropriate for interested graduate students coming with basic computation experience, knowledge of statistics, and interest in logic, semantics, and knowledge representations.",
-		"website": "https://damir.cavar.me/ESSLLI24_LLM_KG.github.io/",
-		"discord": "http://discord.com/channels/1241387568105394277/1263591081619230761",
+              "description": "This course is intended to be an Introductory Course addressing Large Language Models, or in general Large Models (multi-modal) and Knowledge Representations for reasoning and semantic processing. We address the following questions:\n\n- What are knowledge representations? This is about ontologies, Knowledge Graphs, and semantic web approaches to handle, for example, Description, Logic representations, and reasoning.\n - What are Large Language Models and, ultimately, Large Models? This mainly addresses so-called Generative AI, approaches to building and training models, and their application and limits when the input is unstructured text or visual information only.\n\nHow can LMs and computational semantics approaches be combined? This addresses general problems of LMs (e.g., hallucinations), and we discuss how symbolic (and also probabilistic) knowledge representations can be linked to LMs generating more reliable responses, summaries, and even pragmatic aspects like implicatures and presuppositions. We also discuss how LMs can be trained on knowledge and semantic representations to improve their reasoning capabilities.\nThis course is accompanied by extensive material, code, and instructions shared with students and the community, including hands-on access to the respective technologies. Depending on the audience, interest, and goals, we can adjust the level and content and design the course to include a discussion of state-of-the-art approaches to the generation of ontologies, taxonomies, and Knowledge Graph representations. This course might sound technologically challenging, but we can assure you that it is actually within the scope of undergraduate students and is certainly appropriate for interested graduate students coming with basic computation experience, knowledge of statistics, and interest in logic, semantics, and knowledge representations.",
+              "website": "https://damir.cavar.me/ESSLLI24_LLM_KG.github.io/",
+              "discord": "http://discord.com/channels/1241387568105394277/1263591081619230761",
               "timeStart": "09:00 AM",
               "timeEnd": "10:30 AM",
               "tracks": [
@@ -442,7 +442,7 @@
                 "10",
                 "11"
               ]
-            },	      
+            },
             {
               "lecturer": "Bart Geurts",
               "title": "Common ground",
@@ -552,7 +552,7 @@
               "lecturer": "",
               "title": "Lunch",
               "group": "",
-		"location": "Alma 1 (self-paid)",
+              "location": "Alma 1 (self-paid)",
               "description": "",
               "timeStart": "12:30 PM",
               "timeEnd": "02:00 PM",
@@ -718,7 +718,7 @@
                 "11"
               ]
             },
-	    {
+            {
               "lecturer": "Madeleine Butschety",
               "title": "Inclusory Phenomena in Natural Language",
               "group": "Introductory",
@@ -738,7 +738,6 @@
                 "11"
               ]
             },
-
             {
               "lecturer": "Agnieszka Fale\u0144ska and Filip Mileti\u0107",
               "title": "Language in Social Context: Bridging NLP and Sociolinguistics",
@@ -1081,27 +1080,27 @@
             }
           ]
         },
-	  {
-	      "time": "6.30 - 8.30pm",
-	      "sessions": [
-		  {
-		      "lecturer": "",
-		      "title": "Welcome Reception",
-		      "group": "Breaks and Social Events",
-		      "location": "Alma 2",
-		      "description": "",
-		      "timeStart": "06:30 PM",
-		      "timeEnd": "08:30 PM",
-		      "tracks": [
-			  "Breaks and Social Events",
-		      ],
-		      "id": "welcome",
-		      "days": [
-			  "0"
-			  ]
-		  }
-		  ]
-	  },
+        {
+          "time": "6.30 - 8.30pm",
+          "sessions": [
+            {
+              "lecturer": "",
+              "title": "Welcome Reception",
+              "group": "",
+              "location": "Alma 2",
+              "description": "",
+              "timeStart": "06:30 PM",
+              "timeEnd": "08:30 PM",
+              "tracks": [
+                "Breaks and Social Events"
+              ],
+              "id": "welcome",
+              "days": [
+                "0"
+              ]
+            }
+          ]
+        },
         {
           "time": "7.00pm - 8.00pm",
           "sessions": [
