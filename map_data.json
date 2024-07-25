@@ -1,23 +1,59 @@
 {
   "map": [
     {
-      "name": "ESSLLI Summer School Campus",
+      "name": "ESSLLI Campus",
       "lat": 50.87346,
 	"lng": 4.70334,
 	"type": "campus",
       "center": true
     },
     {
-      "name": "Registration desk",
-      "lat": 50.87301,
-	"lng": 4.70319,
-	"type": "registration"
+      "name": "Irish College",
+      "lat": 50.87577,
+	"lng": 4.69621,
+	"type": "irishcollege"
     },
+      {
+	  "name": "COPAL",
+	  "lat": 50.87863,
+	  "lng": 4.68722,
+	  "type": "residence"
+      },
+      {
+	  "name": "Don Bosco Peda",
+	  "lat": 50.86715,
+	  "lng": 4.70830,
+	  "type": "residence"
+      },
+      {
+	  "name": "Pauscollege",
+	  "lat": 50.87731,
+	  "lng": 4.70213,
+	  "type": "residence"
+      },
+      {
+	  "name": "Cruysberghs",
+	  "lat": 50.87800,
+	  "lng": 4.69623,
+	  "type": "residence"
+      },
+      {
+	  "name": "Rega",
+	  "lat": 50.88307,
+	  "lng": 4.70309,
+	  "type": "residence"
+      },
     {
-      "name": "Alma 1 student restaurant (lunch)",
+      "name": "Alma 1 (lunch)",
       "lat": 50.87616,
 	"lng": 4.70810,
 	"type": "restaurant"
-    }
+    },
+      {
+	  "name": "Hal 5 (lecturer's dinner)",
+	  "lat": 50.88300,
+	  "lng": 4.72239,
+	  "type": "restaurant"
+      }
   ]
 }
