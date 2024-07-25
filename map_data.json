@@ -1,0 +1,20 @@
+{
+  "map": [
+    {
+      "name": "ESSLLI Summer School Campus",
+      "lat": 50.87346,
+      "lng": 4.70334,
+      "center": true
+    },
+    {
+      "name": "Registration desk",
+      "lat": 50.87301,
+      "lng": 4.70319
+    },
+    {
+      "name": "Alma 1 student restaurant (lunch)",
+      "lat": 50.87616,
+      "lng": 4.70810
+    }
+  ]
+}
