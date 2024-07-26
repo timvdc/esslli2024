@@ -1,20 +1,20 @@
 {
     "newsItems": [
 	{
-            "id": "1",
-            "title": "News Item 1",
+            "id": "2",
+            "title": "WiFi Credentials",
             "date": "Tuesday 30 July",
 	    "time": "09:45",
-            "description": "Short description for news item 1.",
-            "fullMessage": "Full message for news item 1."
+            "description": "More information on WiFi and internet access.",
+            "fullMessage": "Up to date WiFi credentials can be found on the 'About' Tab of this app. If you need to access a wired connection (or private router connected to the wired network, please get in touch with esslli2024@kuleuven.be"
 	},
 	{
-            "id": "2",
-            "title": "News Item 2",
-            "date": "Monday 29 July",
+            "id": "1",
+            "title": "Welcome to ESSLLI 2024!",
+            "date": "Tuesday 30 July",
 	    "time": "09:45",
-            "description": "Short description for news item 2.",
-            "fullMessage": "Full message for news item 2."
+            "description": "We're excited to have you in Leuven.",
+            "fullMessage": "Welcome to ESSLLI 2024! We're excited to have you in Leuven. The first students are starting to arrive at the residences, and everything is slowly coming together. We're looking forward to an inspiring time with all of you!"
 	}
     ]
 }
