@@ -54,6 +54,11 @@
 	  "lat": 50.88300,
 	  "lng": 4.72239,
 	  "type": "restaurant"
-      }
+      },
+	  {
+		  "name": "Football Match Location",
+		  "lat": 50.86825,
+		  "lng": 4.69128
+	  }
   ]
 }
