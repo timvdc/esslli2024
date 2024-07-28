@@ -1,8 +1,16 @@
 {
     "newsItems": [
 	{
+            "id": "4",
+            "title": "Shared Photo Album",
+            "date": "Sunday 28 July 2024",
+	    "time": "23:05",
+            "description": "Contribute to our shared Google Photos album.",
+            "fullMessage": "We have created a shared photo album on Google Photos for the ESSLLI summer school in Leuven. You can view and contribute photos using this link: <a href=\"https://photos.app.goo.gl/4g9MNabmpPoPJzXBA\">https://photos.app.goo.gl/4g9MNabmpPoPJzXBA</a>. Everyone with the link can view and add photos, so feel free to share the link with fellow participants."
+	},
+	{
             "id": "3",
-            "title": "Course cancellations",
+            "title": "Course Cancellations",
             "date": "Sunday 28 July 2024",
 	    "time": "22:18",
             "description": "Due to covid, two courses will need to be cancelled.",
