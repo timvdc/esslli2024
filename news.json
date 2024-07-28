@@ -1,6 +1,19 @@
 {
     "newsItems": [
 	{
+            "id": "3",
+            "title": "Course cancellations",
+            "date": "Sunday 28 July 2024",
+	    "time": "22:18",
+            "description": "Due to covid, two courses will need to be cancelled.",
+            "fullMessage": "Unfortunately covid hit some of our lecturers. As a result, two courses will need to be cancelled:<br/>
+<ul>
+<li>Dan Zeman -  The Semantics and Pragmatics of Slurs (Introductory)</li>
+<li>Nazarre Merchant and Alan Prince - Analyzing OT Typologies: Order, Equivalence and the Mother of all Tableaux (Advanced)</li>
+</ul>
+The schedule will be updated accordingly."
+	},
+	{
             "id": "2",
             "title": "Internet Access",
             "date": "Friday 26 July 2024",
