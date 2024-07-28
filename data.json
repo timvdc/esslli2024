@@ -114,9 +114,9 @@
         [
           {
             "lecturer": "Dan Zeman",
-            "title": "The Semantics and Pragmatics of Slurs",
+            "title": "CANCELLED COURSE - The Semantics and Pragmatics of Slurs",
               "group": "Introductory",
-	      "room": "AV 00.17",
+	      "room": "CANCELLED",
             "description": "Whether we like it or not, “bad words” are ubiquitous in natural language. While using such words has sometimes no significant effects, in many cases their use can produce real harm, by denigrating, silencing, and marginalizing the people they target. Slurs are one such type of “bad words”. Most researchers agree that the main function of slurs is that of derogating or dehumanizing, of signalling that their targets are unworthy of equal standing or full respect as persons. Figuring out how slurs achieve their main function is an important topic in contemporary philosophy of language and linguistics. In this introductory course, my aim is to present the main characteristics of slurs and their uses (not limited to derogation), explore the main views on their semantics and pragmatics, and show how they are connected to larger social phenomena like power structures and communal identities.",
             "id": "62"
           },
@@ -199,9 +199,9 @@
           },
           {
             "lecturer": "Nazarre Merchant and Alan Prince",
-            "title": "Analyzing OT Typologies: Order, Equivalence and the Mother of all Tableaux",
+            "title": "CANCELLED COURSE - Analyzing OT Typologies: Order, Equivalence and the Mother of all Tableaux",
               "group": "Advanced",
-	      "room": "AV 01.12",
+	      "room": "CANCELLED",
             "description": "An OT (Optimality Theory) typology is comprised of a set of grammars which themselves are sets of total orders. Every typology has an associated geometry which provides an inherent classification of the grammars that constitute it. In this course we will develop these notions, showing how constraints, which at the lowest level are numerical comparisons between linguistic candidates, can be abstractly viewed as providing comparisons between entire grammars. From this perspective, constraints provide both order and equivalence structures on the grammars, an “Equivalence-augmented Partial Order” (EPO), which determine all licit typological classifications of a given theory. The set of all such EPOs for a typology is termed the Mother of all Tableaux (MOAT). We will develop these notions in both the concrete and abstract, using basic syllable theory as an entrée into the abstract categories of OT typologies.",
             "id": "46"
           }
