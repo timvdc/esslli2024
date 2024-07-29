@@ -1,6 +1,14 @@
 {
     "newsItems": [
 	{
+            "id": "5",
+            "title": "Breakfast & registration",
+            "date": "Monday 29 July 2024",
+	    "time": "04:55",
+            "description": "Come register and have breakfast at 8am.",
+            "fullMessage": "Registration will start at 8am today. Remember to bring your personal registration code. Also remember that a complimentary breakfast buffet is served at Alma 2 from 8am till 9am!"
+	},
+	{
             "id": "4",
             "title": "Shared Photo Album",
             "date": "Sunday 28 July 2024",
