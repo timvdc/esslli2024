@@ -405,7 +405,7 @@
               "lecturer": "Valentin Goranko",
               "title": "Games Logicians Play",
               "group": "Advanced",
-              "location": "AV 04.17",
+              "location": "AV 00.17",
               "description": "This course will introduce, discuss and illustrate with examples the most important games in logic, including: dialogue argumentation games, evaluation games, model building games, and model comparison games. These games can be used for model checking, constructive satisfiability testing, to characterize logical equivalences of models, and to prove non-definability results. Optionally, I will also introduce and discuss game-theoretic semantics with incomplete information for logical languages.",
               "website": "https://www2.philosophy.su.se/goranko/Courses2024/ESSLLI2024_GamesLogiciansPlay.html",
               "discord": "https://discord.com/channels/1241387568105394277/1263593583026634834",
