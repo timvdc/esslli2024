@@ -1,6 +1,14 @@
 {
     "newsItems": [
 		{
+            "id": "8",
+            "title": "Room Change",
+            "date": "Monday 29 July 2024",
+		    "time": "17:20",
+            "description": "Valentin Goranko in room AV 00.17",
+		    "fullMessage": "The course Games Logicians Play by Valentin Goranko (11:00am-12:30pm) will be held in room AV 00.17 for the remainder of the week."
+	},
+		{
             "id": "7",
             "title": "Welcome Reception Al Fresco",
             "date": "Monday 29 July 2024",
