@@ -1,5 +1,13 @@
 {
     "newsItems": [
+		{
+            "id": "7",
+            "title": "Welcome Reception Al Fresco",
+            "date": "Monday 29 July 2024",
+	    "time": "15:41",
+            "description": "Welcome reception is moved outside.",
+		    "fullMessage": "Have the welcome reception inside when the weather is this nice? That would be a shame! The welcome reception will be held outside, on the square with the funny statue. Start at 6:30pm, right after the final lecture slot."
+	},
 	{
             "id": "6",
             "title": "Water Fountains",
