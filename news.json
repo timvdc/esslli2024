@@ -1,6 +1,14 @@
 {
     "newsItems": [
 	{
+            "id": "6",
+            "title": "Water Fountains",
+            "date": "Monday 29 July 2024",
+	    "time": "13:14",
+            "description": "Fill up your bottle at the water fountains.",
+            "fullMessage": "It promises to be a hot week! Looking to (re)fill your bottle? There are two water fountains on site: one is located in the entrance hall of Jean Monnet, the other one is next to the on campus statue. On the discord #announcements channel, you'll find a map and some pictures."
+	},
+	{
             "id": "5",
             "title": "Breakfast & Registration",
             "date": "Monday 29 July 2024",
