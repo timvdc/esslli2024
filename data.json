@@ -88,6 +88,7 @@
             "title": "Propositions as Sessions: Logical Foundations of Concurrent Computation",
               "group": "Foundational",
 	      "room": "AV 03.12",
+	      "website": "https://groupoid.moe/esslli2024/",
             "description": "The Curry-Howard(-deBruijn) correspondence, also known under the slogan of “Propositions as Types”, is arguably the most important bridge between logic and computation. The connection between intuitionistic logic and lambda-calculus is the most familiar instance of this bridge. The correspondence can be seen as a fruitful principle for logically-informed foundations of programming languages. This introductory course will explore recent work on the Curry-Howard correspondence between substructural logics and concurrent processes, dubbed as “Propositions as Sessions”. Following a gradual approach, participants will learn how Girard’s linear logic and its extensions serve as a basis for structuring message-passing concurrent programs through the discipline of session types. No specific prerequisites are assumed for this course, except for familiarity with formal logic; participants will get familiar with the selected topics in Substructural Logics, Concurrency Theory, and Programming Languages. The course will close with an overview of prospective research challenges.",
             "id": "50"
           },
