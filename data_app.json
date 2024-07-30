@@ -953,7 +953,7 @@
               "lecturer": "Jonathan Rawski and David Chiang",
               "title": "Expressivity of Transformers: Logic, Circuits, and Formal Languages",
               "group": "Introductory",
-              "location": "Aula Jean Monnet",
+              "location": "Jean Monnet",
               "description": "A major advancement in language modeling is the use of the transformer architecture. But, what problems can transformers solve, what problems can they not solve, and how can we prove it? This course examines the expressivity of transformers through the lens of computability and complexity theory. We will situate transformers within the landscape of automata, boolean circuits, and formal logics. We will discuss what is currently known about transformers' capabilities and limitations, address the practical implications of these results for natural language processing, and identify some directions for future work. Participants will gain a comprehensive understanding of transformers' expressive power in terms of the problems they fundamentally can and cannot solve.",
               "discord": "https://discord.com/channels/1241387568105394277/1263591264322850827",
               "timeStart": "05:00 PM",
