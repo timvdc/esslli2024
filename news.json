@@ -1,6 +1,30 @@
 {
     "newsItems": [
 {
+            "id": "13",
+            "title": "Room Change",
+            "date": "Wednesday 31 July 2024",
+		    "time": "00:03",
+            "description": "Computational Models for Semantic Change in Aula Jean Monnet",
+		    "fullMessage": "The course Computational Models for Semantic Change and their Applications in Multidisciplinary Research by Haim Dubossarsky and Pierluigi Cassotti (2:00pm - 3:30pm) will be held in Aula Jean Monnet for the remainder of the week."
+	},
+{
+            "id": "12",
+            "title": "Room Change",
+            "date": "Wednesday 31 July 2024",
+		    "time": "00:02",
+            "description": "Categorial Foundations of Natural Language Structures in Aula Jean Monnet",
+		    "fullMessage": "The course Categorial Foundations of Natural Language Structures by Mark Steedman (11:00am - 12:30pm) will be held in Aula Jean Monnet for the remainder of the week."
+	},
+{
+            "id": "11",
+            "title": "Room Change",
+            "date": "Wednesday 31 July 2024",
+		    "time": "00:01",
+            "description": "Generative AI and Symbolic Knowledge Representations in Aula Jean Monnet",
+		    "fullMessage": "The course Generative AI and Symbolic Knowledge Representations: Large Language Models, Knowledge, and Reasoning by Damir Cavar and Billy Dickson (9:00 - 10:30am) will be held in Aula Jean Monnet for the remainder of the week."
+	},
+{
             "id": "10",
             "title": "Room Change",
             "date": "Tuesday 30 July 2024",
