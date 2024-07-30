@@ -1,5 +1,21 @@
 {
     "newsItems": [
+{
+            "id": "10",
+            "title": "Room Change",
+            "date": "Tuesday 30 July 2024",
+		    "time": "15:22",
+            "description": "Expressivity of Transformers in Aula Jean Monnet",
+		    "fullMessage": "The course Expressivity of Transformers: Logic, Circuits, and Formal Languages by Jonathan Rawski and David Chiang (5:00pm - 6:30pm) will be held in Aula Jean Monnet for the remainder of the week."
+	},
+		{
+            "id": "9",
+            "title": "Room Change",
+            "date": "Tuesday 30 July 2024",
+		    "time": "15:20",
+            "description": "Emma Vorlat lectures switched to Jean Monnet",
+		    "fullMessage": "Room change: as Emma Vorlat has been heating up beyond comfortable, we're switching lecture halls. Starting at 5pm, lectures taking place in Emma Vorlat will be switched to Jean Monnet for the remainder of the week."
+	},
 		{
             "id": "8",
             "title": "Room Change",
