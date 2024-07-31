@@ -1,6 +1,14 @@
 {
     "newsItems": [
 {
+            "id": "14",
+            "title": "Weekend activity",
+            "date": "Wednesday 31 July 2024",
+		    "time": "12:53",
+            "description": "A guided walk through the city of Leuven",
+		    "fullMessage": "You've marvelled at Leuven's pretty city center, and you're curious about the stories and secrets that lie behind these historic facades? Kris Heylen, Leuven connaisseur par excellence, will take you on a guided walk of Leuven, this Saturday 3rd August, 2pm-4pm. Registration is free! Sign up using the form you'll find on Discord."
+	},
+{
             "id": "13",
             "title": "Room Change",
             "date": "Wednesday 31 July 2024",
