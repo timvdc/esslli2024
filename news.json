@@ -1,6 +1,14 @@
 {
     "newsItems": [
 	{
+	    "id": "16",
+	    "title": "Cancelled Session",
+	    "date": "Thursday 01 August 2024",
+	    "time": "16:37",
+	    "description": "Final session of 'Propositions as Sessions' cancelled",
+	    "fullMessage": "The final session of the course Propositions as Sessions: Logical Foundations of Concurrent Computation by Dan Frumin and Jorge A. Pérez (Friday 2 August, 09:00am - 10:30am) is cancelled due to illness of the lecturer."
+	},
+	{
 	    "id": "15",
 	    "title": "Face Masks",
 	    "date": "Thursday 01 August 2024",
