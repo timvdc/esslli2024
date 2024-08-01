@@ -1,6 +1,14 @@
 {
     "newsItems": [
 	{
+	    "id": "17",
+	    "title": "Beth Award and Student Poster Session",
+	    "date": "Thursday 01 August 2024",
+	    "time": "18:12",
+	    "description": "Beth dissertation award and student poster session during student session slot.",
+	    "fullMessage": "The E.W. Beth Dissertation Award Ceremony (prize to outstanding Ph.D. dissertations in Logic, Language, and Information) will take place on Friday 2nd August during the student session slot (3:50pm - 4:20pm). The ceremony will be followed by the student poster session (4:20pm - 5:00pm). Note that the poster presenters will already be present during the coffee break (3:30pm - 3:50pm) so you can already visit the poster session during the coffee break."
+	},
+	{
 	    "id": "16",
 	    "title": "Cancelled Session",
 	    "date": "Thursday 01 August 2024",
