@@ -900,22 +900,26 @@
                 "1",
                 "2",
                 "3",
-                "4",
                 "7",
                 "8",
                 "9",
                 "10",
                 "11"
               ]
-            },
+            }
+          ]
+        },
+	{
+          "time": "3.50pm - 4.20pm",
+          "sessions": [
             {
               "lecturer": "",
-              "title": "Beth dissertation award ceremony",
+              "title": "Beth Dissertation Award Ceremony",
               "group": "",
               "location": "Jean Monnet",
               "description": "",
               "timeStart": "03:50 PM",
-              "timeEnd": "04:50 PM",
+              "timeEnd": "04:20 PM",
               "tracks": [
                 "Workshops and Student Session"
               ],
@@ -926,6 +930,27 @@
             }
           ]
         },
+		{
+          "time": "4.20pm - 5.00pm",
+          "sessions": [
+            {
+              "lecturer": "",
+              "title": "Student Poster Session",
+              "group": "",
+              "location": "Entranche Hall Jean Monnet",
+              "description": "",
+              "timeStart": "04:20 PM",
+              "timeEnd": "05:00 PM",
+              "tracks": [
+                "Workshops and Student Session"
+              ],
+              "id": "beth",
+              "days": [
+                "4"
+              ]
+            }
+          ]
+        },  
         {
           "time": "5.00pm - 6.30pm",
           "sessions": [
