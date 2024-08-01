@@ -1,11 +1,13 @@
 {
     "newsItems": [
-	"id": "15",
-	"title": "Face Masks",
-	"date": "Thursday 01 August 2024",
-	"time": "16:21",
-	"description": "Face masks available at the registration desk",
-	"We are providing face masks for participants who need or want one. You can pick one up at the registration desk."
+	{
+	    "id": "15",
+	    "title": "Face Masks",
+	    "date": "Thursday 01 August 2024",
+	    "time": "16:21",
+	    "description": "Face masks available at the registration desk",
+	    "We are providing face masks for participants who need or want one. You can pick one up at the registration desk."
+	},
 {
             "id": "14",
             "title": "Weekend activity",
