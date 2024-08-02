@@ -1,6 +1,14 @@
 {
     "newsItems": [
 	{
+	    "id": "18",
+	    "title": "Football Match",
+	    "date": "Friday 02 August 2024",
+	    "time": "11:25",
+	    "description": "Come and take part in the ESSLLI football match",
+	    "fullMessage": "The ESSLLI football match is a long-standing tradition that brings participants and lecturers together for some friendly competition. No experience or special skills required—just bring your enthusiasm and enjoy some casual competition on Monday 5th August at 7pm. We will leave from campus together after the lectures. To participate, just post a message in the #⁠football channel on Discord, so we can organize teams!"
+	},
+	{
 	    "id": "17",
 	    "title": "Beth Award and Student Poster Session",
 	    "date": "Thursday 01 August 2024",
