@@ -1,6 +1,14 @@
 {
     "newsItems": [
 	{
+	    "id": "19",
+	    "title": "Beer and Belgian Fries",
+	    "date": "Friday 02 August 2024",
+	    "time": "15:20",
+	    "description": "Join us outside at 6:30pm for beer and Belgian fries.",
+	    "fullMessage": "A small chance of rain won't keep us from holding the student party outside. On top of that, we're starting half an hour earlier, directly after the last lectures at 6:30pm. Meet us at the funny little statue square for a 'pintje', and come taste why calling fries 'French' is a serious case of catachresis.",
+	},
+	{
 	    "id": "18",
 	    "title": "Football Match",
 	    "date": "Friday 02 August 2024",
