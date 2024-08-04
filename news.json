@@ -1,6 +1,22 @@
 {
     "newsItems": [
 	{
+            "id": "21",
+            "title": "Room Change",
+            "date": "Sunday 04 August 2024",
+		    "time": "11:46",
+            "description": "Valentin Goranko in room AV 91.12",
+		    "fullMessage": "the course 'Logics for strategic reasoning about rational agents in social context' by Valentin Goranko (05:00pm-06:30pm) will be held in room AV 91.12"
+	},
+	{
+	    "id": "20",
+	    "title": "Course Cancellation",
+	    "date": "Sunday 04 August 2024",
+	    "time": "11:44",
+	    "description": "'Linear Logic' course cancelled",
+	    "fullMessage": "the second week course Linear Logic by Davide Catta and Christian Retoré (Introductory) will need to be cancelled due to personal reasons."
+	},
+	{
 	    "id": "19",
 	    "title": "Beer and Belgian Fries",
 	    "date": "Friday 02 August 2024",
