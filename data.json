@@ -18,7 +18,8 @@
       "id": "evening2",
       "date": "2024-08-01",
 	"time": "19:00-20:30",
-	"moderator": "Haim Dubossarsky (Queen Mary University of London)"
+	"moderator": "Haim Dubossarsky (Queen Mary University of London)",
+	"slides": "https://raw.githubusercontent.com/timvdc/esslli2024/main/slides/DGeeraerts_ESSLLI_2024.pdf"
     },
     {
       "lecturer": "David Adger (Queen Mary University, London)",
