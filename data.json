@@ -358,8 +358,8 @@
             "id": "45"
           },
           {
-            "lecturer": "CANCELLED COURSE - Davide Catta and Christian Retoré",
-            "title": "Linear Logic",
+            "lecturer": "Davide Catta and Christian Retoré",
+            "title": "CANCELLED COURSE - Linear Logic",
               "group": "Introductory",
 	      "room": "CANCELLED",
             "description": "Linear logic introduced in 1987 by Girard is a refinement of both classical and intuitionistic logics, with substantial outcomes in computer science: functional and logic programming, denotational semantics, concurrency and sharing, (implicit) complexity theory, computational linguistics. It is by now a standard topic in logic and theoretical computer science. Instead of emphasizing truth values, as in classical logic, or proofs, as in intuitionistic logic, linear logic emphasizes the role of formulas as resources. In this course, our aim is to introduce fundamental concepts and techniques of linear logic through a proof-theoretic approach. We will first present the sequent calculus formalism of linear logic, and present the graph theoretical syntax of linear logic, proof nets. Then, we will delve into its denotational semantics, the semantics of proofs, in terms of coherence spaces. The course will end with a non-commutative extension of linear logic, pomset logic, whose relation to deep inference has been recently clarified.",
