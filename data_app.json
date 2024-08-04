@@ -1128,7 +1128,7 @@
               "lecturer": "Valentin Goranko",
               "title": "Logics for strategic reasoning about rational agents in social context",
               "group": "Advanced",
-              "location": "AV 03.12",
+              "location": "AV 91.12",
               "description": "This course is intended for a broad audience with basic knowledge of modal and temporal logics. It will first introduce and discuss some important and popular logics for unconditional strategic reasoning in multi-agent systems. Then it will focus on some recently developed refined and richer systems of such logics, where the agents\u2019 strategic abilities are considered in the \u2018social context\u2019 of all agents, with their objectives, abilities to act, and \u2018social attitudes\u2019 (incl. inclination to cooperate or not with the others), as well as on their knowledge or beliefs about that social context. These will be considered under various assumptions: with complete, incomplete, or imperfect information; with no memory, bounded or unbounded memory of the agents; with dynamically changing social contexts, etc. Formal logical systems and some technical results about them will be outlined in the course and several unexplored directions for further research and open problems will be mentioned. ",
               "website": "https://www2.philosophy.su.se/goranko/Courses2024/ESSLLI2024_LogicsForStrategicReasoning.html",
               "discord": "https://discord.com/channels/1241387568105394277/1263592663781867600",
