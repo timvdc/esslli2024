@@ -1,6 +1,14 @@
 {
     "newsItems": [
 	{
+            "id": "22",
+            "title": "Evening Lecture",
+            "date": "Tuesday 06 August 2024",
+		    "time": "16:31",
+            "description": "Today's evening lecture by David Adger at 7pm",
+		    "fullMessage": "Join us for the Dick Oehrle Memorial Lecture: David Adger will talk about Mereological Syntax and Grammatical Locality. The evening lecture will take place this evening (Tuesday 6th) at 7pm in Aula Jean Monnet. "
+	},
+	{
             "id": "21",
             "title": "Room Change",
             "date": "Sunday 04 August 2024",
