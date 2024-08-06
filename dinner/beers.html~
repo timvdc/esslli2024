@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blond Beers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .beer {
+            background-color: #fff;
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .beer h2 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Blond Beers</h1>
+
+    <div class="beer">
+        <h2>Estaminet</h2>
+        <p>Estaminet is a premium pilsner brewed by Palm Breweries. It features high-quality summer barley, Saaz hops, and a distinctive yeast. The beer undergoes slow, traditional bottom fermentation for six weeks, resulting in a fruity character and refreshing taste.</p>
+        <p>ABV: 5.2%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Steenbrugge Blond</h2>
+        <p>Steenbrugge Blond is a Belgian Abbey beer brewed with spices including coriander and orange peel. It has a rich, full flavor balanced with malt sweetness and hop bitterness.</p>
+        <p>ABV: 6.5%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Brugge Tripel</h2>
+        <p>Brugge Tripel is a strong blond beer with complex flavors of banana, clove, and vanilla. Its smooth malt character balances the high alcohol content.</p>
+        <p>ABV: 8.7%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Cornet</h2>
+        <p>Cornet is a strong blond beer aged on oak chips, imparting a woody character. It has a slightly sweet flavor with a robust body and a dry finish.</p>
+        <p>ABV: 8.5%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Gageleer</h2>
+        <p>Gageleer is an organic blond beer brewed with sweet gale, providing a spicy and herbal aroma. It offers a smooth and refreshing taste with a unique twist on traditional blond beers.</p>
+        <p>ABV: 7.5%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Jambe-de-Bois</h2>
+        <p>Jambe-de-Bois is a hoppy Belgian tripel from Brasserie de la Senne. It has complex flavors of pear and ripe banana, with floral and spicy notes of white pepper and nutmeg. Despite its high alcohol content, it is balanced and dangerously easy to drink with a dry, slightly bitter finish.</p>
+        <p>ABV: 8.0%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Oude Geuze Boon</h2>
+        <p>Oude Geuze Boon is a traditional Belgian Geuze with a complex, slightly sour taste. It offers a blend of fruitiness, oakiness, and wild yeast character.</p>
+        <p>ABV: 7.0%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Rodenbach Alexander</h2>
+        <p>Rodenbach Alexander is a blend of aged and young ale with macerated cherries, resulting in a fruity and tart flavor with a refreshing finish.</p>
+        <p>ABV: 5.6%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Rodenbach Fruitage</h2>
+        <p>Rodenbach Fruitage is a refreshing fruit beer with a blend of red fruits and a slight tartness. It balances sweet and sour flavors for a very drinkable experience.</p>
+        <p>ABV: 3.9%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Simplex</h2>
+        <p>Simplex is a refreshing blond beer with a mild hop bitterness and a crisp finish. It is light-bodied and perfect for easy drinking.</p>
+        <p>ABV: 4.5%</p>
+    </div>
+
+    <div class="beer">
+        <h2>XX-Bitter</h2>
+        <p>XX-Bitter is known for its intense bitterness and dry finish. It has a pronounced hop aroma with notes of citrus and pine.</p>
+        <p>ABV: 6.2%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Taras Boulba</h2>
+        <p>Taras Boulba is a light, hoppy blond beer with a spicy aroma and a crisp, bitter finish. It is refreshing and perfect for warm weather.</p>
+        <p>ABV: 4.5%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Zinnebir</h2>
+        <p>Zinnebir is a balanced blond beer with a fruity aroma and a slightly bitter finish. It features notes of malt and hops, creating a complex and enjoyable drinking experience.</p>
+        <p>ABV: 6.0%</p>
+    </div>
+
+    <div class="beer">
+        <h2>The Good Cider</h2>
+        <p>The Good Cider is a crisp and refreshing cider with a natural apple flavor. It is light and easy to drink, making it a great choice for cider lovers.</p>
+        <p>ABV: 4.5%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Delvaux</h2>
+        <p>Delvaux is a complex blond beer with a rich malt character and a hint of sweetness. It has a smooth, balanced finish that makes it very drinkable.</p>
+        <p>ABV: 8.5%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Golden Tricky</h2>
+        <p>Golden Tricky is a fruity and slightly spicy blond beer with a medium body. It has a pleasant hop bitterness and a refreshing finish.</p>
+        <p>ABV: 6.8%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Unwanted Tattoo</h2>
+        <p>Unwanted Tattoo is a strong blond beer with ginger, giving it a unique spicy kick. It features a balanced bitterness with a robust flavor profile.</p>
+        <p>ABV: 7.5%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Super Noah</h2>
+        <p>Super Noah is a light and hoppy blond beer with a crisp finish. It is very refreshing and perfect for a sunny day.</p>
+        <p>ABV: 4.9%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Waar is Loca?</h2>
+        <p>Waar is Loca? is a unique blond beer with a fruity and slightly spicy flavor. It has a smooth, balanced finish that makes it very enjoyable.</p>
+        <p>ABV: 6.3%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Delta IPA</h></h2>
+        <p>Delta IPA is a hoppy blond beer with a strong hop aroma and a bitter finish. It features notes of citrus and tropical fruits, making it very refreshing.</p>
+        <p>ABV: 6.5%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Jungle Joy</h2>
+        <p>Jungle Joy is a fruity blond beer with a tropical flavor profile. It has a smooth, balanced finish that makes it very enjoyable.</p>
+        <p>ABV: 6.6%</p>
+    </div>
+
+    <div class="beer">
+        <h2>Juice Junkie</h2>
+        <p>Juice Junkie is a juicy and hoppy blond beer with a fruity aroma and a slightly bitter finish. It is very refreshing and perfect for a warm day.</p>
+        <p>ABV: 5.3%</p>
+    </div>
+</body>
+</html>
