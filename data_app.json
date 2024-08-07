@@ -463,8 +463,7 @@
                 "7",
                 "8",
                 "9",
-                "10",
-                "11"
+                "10"
               ]
             },
             {
@@ -1191,6 +1190,28 @@
               "id": "welcome",
               "days": [
                 "0"
+              ]
+            }
+          ]
+        },
+	{
+          "time": "6.40 - 8.00pm",
+          "sessions": [
+            {
+              "lecturer": "Friederike Moltmann",
+              "title": "Revisiting Event Semantics",
+              "group": "Advanced",
+              "location": "AV 00.17",
+              "description": "The semantics of events has become a central topic in contemporary semantics as well as syntax ever since the seminal 1967 paper of Donald Davidson caught the interest of linguists. This course will give an overview of the latest developments of Davidsonian and Neo-Davidsonian event semantics and its syntactic representation and address severel important challenges to it that have received little attention. These include the notion of an abstract (or 'Kimean') state, the distinction between events and acts, the apparent categorization of verbs as event predicates as mass rather than dividing into mass and count, cartographic theory of adverbial modification and their linguistic motivations, and implications of theories of syntactic decomposition of verbs into light verb-noun complexes for event semantics. New theoretical proposal will be presented to address those challenges.",
+              "discord": "https://discord.com/channels/1241387568105394277/1263588470471790712",
+              "timeStart": "6:40 PM",
+              "timeEnd": "08:00 PM",
+              "tracks": [
+                "Language and Logic"
+              ],
+              "id": "18",
+              "days": [
+                "9"
               ]
             }
           ]
