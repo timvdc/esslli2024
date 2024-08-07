@@ -1,6 +1,14 @@
 {
     "newsItems": [
 	{
+            "id": "23",
+            "title": "Schedule Change",
+            "date": "Wednesday 07 August 2024",
+		    "time": "14:56",
+            "description": "'Revisiting Event Semantics' finishes on Thursday",
+	    "fullMessage": "The schedule for the course 'Revisiting Event Semantics' by Friederike Moltmann is slightly adapted. The 4th lecture takes place this evening (Wednesday 7th) from 6:40pm - 8:00pm in AV 00.17. The 5th and final lecture takes place tomorrow (Thursday 8th) during the usual lecture slot (11:00am - 12:30pm, AV 00.17). For this course, there will be no lecture on Friday."
+	},
+	{
             "id": "22",
             "title": "Evening Lecture",
             "date": "Tuesday 06 August 2024",
