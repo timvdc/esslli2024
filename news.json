@@ -1,6 +1,14 @@
 {
     "newsItems": [
 	{
+            "id": "24",
+            "title": "Evening Lecture",
+            "date": "Thursday 08 August 2024",
+		    "time": "16:43",
+            "description": "Today's evening lecture by Janet Pierrehumbert at 7pm",
+		    "fullMessage": "Join us at 7pm in Aula Jean Monnet for the evening lecture by Janet Pierrehumbert: On the distributional hypothesis - why it works and how it doesn’t."
+	},
+	{
             "id": "23",
             "title": "Schedule Change",
             "date": "Wednesday 07 August 2024",
