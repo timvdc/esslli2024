@@ -1,6 +1,14 @@
 {
     "newsItems": [
 	{
+            "id": "25",
+            "title": "Closing Ceremony",
+            "date": "Friday 09 August 2024",
+		    "time": "16:36",
+            "description": "ESSLLI's closing ceremony at 6:45pm in Jean Monnet",
+		    "fullMessage": "Join us for the closing ceremony of this year's ESSLLI, today 6:45pm - 7:15pm in Aula Jean Monnet. Find out who wins the student session's Best Paper Award, discover the location of next year's ESSLLI (it starts with a B) and enjoy a last get together as we say goodbye to this year's installment of your favorite summer school."
+	},
+	{
             "id": "24",
             "title": "Evening Lecture",
             "date": "Thursday 08 August 2024",
