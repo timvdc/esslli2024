@@ -1,6 +1,14 @@
 {
     "newsItems": [
 	{
+            "id": "26",
+            "title": "Goodbye and Survey",
+            "date": "Saturday 10 August 2024",
+		    "time": "11:36",
+            "description": "Many thanks for joining us, please give us your feedback",
+		    "fullMessage": "Many thanks for joining us at ESSLLI 2024 in Leuven! We hope you found this year’s ESSLLI as enriching and as fun as we did. Of course, we'd love to hear your thoughts. Please take a moment to share your feedback by completing our brief survey. You can find the link in the Discord #announcements channel. Safe travels back!"
+	},	
+	{
             "id": "25",
             "title": "Closing Ceremony",
             "date": "Friday 09 August 2024",
